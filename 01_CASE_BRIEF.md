@@ -4,6 +4,13 @@
 
 ---
 
+> **📋 DISTRIBUTE TO: ALL PLAYERS**
+>
+> Give this document to all 5 detectives at the start of the game (Phase 0).
+> This is their introduction to the case.
+
+---
+
 ## CASE FILE: MH/ALB/2024/1847
 
 | Field | Detail |
@@ -93,7 +100,7 @@ At the end of the investigation, your team must correctly answer:
 | Field | Detail |
 |-------|--------|
 | Date of Death | December 14, 2024 |
-| Time of Death | Approximately 2:00-2:15 AM |
+| Time of Death | Approximately 2:15-2:30 AM |
 | Location | Private study, Malhotra Estate |
 | Cause | **Asphyxiation secondary to ligature strangulation** |
 | Contributing Factor | Sedative (Diazepam) detected in blood |

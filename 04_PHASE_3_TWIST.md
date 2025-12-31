@@ -4,6 +4,13 @@
 
 ---
 
+> **📋 DISTRIBUTE TO: ALL PLAYERS TOGETHER**
+>
+> This is the major reveal. Host reads the revelation aloud, then ALL detectives
+> review this evidence together as a group.
+
+---
+
 ## PHASE 3: THE TWIST
 
 **Duration: 15 Minutes**

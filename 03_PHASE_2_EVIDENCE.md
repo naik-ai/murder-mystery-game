@@ -4,6 +4,17 @@
 
 ---
 
+> **📋 DISTRIBUTE TO: EACH DETECTIVE GETS THEIR ASSIGNED SECTION**
+>
+> Cut this document into 5 sections. Each detective gets ONLY their packet:
+> - Detective 1: Timeline Analyst
+> - Detective 2: Forensics Lead
+> - Detective 3: Social Observer
+> - Detective 4: Objects & Space
+> - Detective 5: Motive & Money
+
+---
+
 ## PHASE 2: CONTRADICTIONS
 
 **Duration: 30 Minutes**

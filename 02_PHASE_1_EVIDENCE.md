@@ -4,6 +4,17 @@
 
 ---
 
+> **📋 DISTRIBUTE TO: EACH DETECTIVE GETS THEIR ASSIGNED SECTION**
+>
+> Cut this document into 5 sections. Each detective gets ONLY their packet:
+> - Detective 1: Timeline Analyst
+> - Detective 2: Forensics Lead
+> - Detective 3: Social Observer
+> - Detective 4: Objects & Space
+> - Detective 5: Motive & Money
+
+---
+
 ## PHASE 1: THE SCENE
 
 **Duration: 20 Minutes**
@@ -206,7 +217,7 @@ This is highly unusual in strangulation cases where the victim typically struggl
 | Ambient temperature | 22°C | — |
 | Rigor mortis | Early stage, jaw and neck | 3-4 hours |
 | Livor mortis | Fixed, posterior | >4 hours |
-| **Estimated TOD** | — | **2:00-2:15 AM** |
+| **Estimated TOD** | — | **2:15-2:30 AM** |
 
 *Dr. Sneha Kulkarni*
 *Senior Medical Officer, Forensic Medicine*

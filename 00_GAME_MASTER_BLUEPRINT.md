@@ -6,6 +6,13 @@
 
 ---
 
+> **⚠️ HOST ONLY — DO NOT DISTRIBUTE TO PLAYERS**
+>
+> This document contains the complete solution, killer identities, and all secrets.
+> Print this for your reference only.
+
+---
+
 ## CORE NARRATIVE
 
 ### The Victim
