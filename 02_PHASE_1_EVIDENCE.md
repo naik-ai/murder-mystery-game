@@ -230,7 +230,7 @@ This is highly unusual in strangulation cases where the victim typically struggl
 |------|------|----------------|----------------------|
 | EV-001 | Crystal whiskey glass | Desk surface, near right hand | Dried residue, single set of fingerprints |
 | EV-002 | Champagne flute | Inside whiskey cabinet | Lipstick mark (burgundy), multiple prints |
-| EV-003 | Macallan 25 bottle | Whiskey cabinet, open | ~100ml remaining, seal broken |
+| EV-003 | Macallan 25 bottle | Whiskey cabinet, open | **Bottle ID: BTL-7711**, ~100ml remaining, seal broken |
 | EV-004 | Mobile phone (Nokia 105) | Desk drawer, hidden | Burner phone, SIM installed |
 | EV-005 | Pearl earring (single) | Under desk, near chair leg | Mikimoto brand, 8mm Akoya pearl |
 | EV-006 | Torn paper fragment | Wastebasket | Partial text visible |
@@ -393,6 +393,7 @@ Nisha Madam and her husband also left early — before midnight I think. They di
                     │      WHISKEY CABINET    │
                     │                         │
                     │  EV-003 (Bottle)        │
+                    │  Bottle ID: BTL-7711    │
                     │  EV-002 (Champagne      │
                     │         flute)          │
                     │                         │
@@ -589,7 +590,7 @@ Your choice.
 
 ---
 
-### DOCUMENT 5-D: Motive Summary — All 22 Suspects
+### DOCUMENT 5-D: Motive Summary — All 23 Suspects
 
 **INVESTIGATION ANALYSIS — FINANCIAL MOTIVES**
 

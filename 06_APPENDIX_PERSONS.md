@@ -202,6 +202,31 @@ These individuals have been interviewed and cleared of direct involvement but ma
 
 ---
 
+### 23. Vikash Mehta — Bar Assistant (Catering)
+
+| Field | Detail |
+|-------|--------|
+| Relationship | Hired catering staff (first time at estate) |
+| Age | 32 |
+| At Party | On duty |
+| Alibi | Working bar service; departed with catering crew at 2:30 AM |
+
+**Background:**
+- Professional bartender/bar assistant
+- Works for Silver Spoon Catering Services
+- First time at Malhotra Estate
+- **Former relationship with Kavya Sharma** (college boyfriend, 2013-2015)
+- Met Kavya at St. Xavier's College, Mumbai
+- Relationship ended when Kavya stated he "couldn't provide the lifestyle she wanted"
+- Assigned to bar area with Suresh Patil
+
+**Statement Summary:**
+"I was working the bar all night. Served drinks, helped with cleanup. Left with the rest of the catering team around 2:30 AM. I don't know anything about what happened."
+
+**Relevance:** Catering staff present during critical period. **Prior connection to Kavya Sharma raises questions about coincidental assignment to this event.** Departed AFTER all guests left. Had access to service kitchen path (not covered by cameras).
+
+---
+
 ## ADDITIONAL REFERENCE: TIER 2 SUSPECTS SUMMARY
 
 For quick reference, the secondary suspects (who were present at party but left before critical window or have solid alibis):
@@ -221,24 +246,30 @@ For quick reference, the secondary suspects (who were present at party but left 
 
 ### Who Had Access to the Study?
 
-| Person | Dec 12 (Drugging) | Dec 14 (Murder) |
-|--------|-------------------|-----------------|
-| Rohit Malhotra | YES (19:32-21:15) | YES (until 02:10) |
-| Deepika Joshi | YES (Dec 13, 09:15-11:30) | YES (01:30-01:45) |
-| Priya Malhotra | YES (Dec 13, 14:22-15:45) | Claimed departed 12:45 |
-| Kavya Sharma | YES (stayed at estate) | YES (stayed overnight) |
-| Anil Verma | NO | YES (until 01:15) |
-| Vikram Saxena | NO (sent bottle remotely) | YES (until 12:30) |
-| Minister Thapar | NO | NO (departed 12:16) |
+| Person | Dec 12 (Original Bottle) | Dec 13 (Swap Window 19:00-20:00) | Dec 14 (Murder ~02:15) |
+|--------|--------------------------|----------------------------------|------------------------|
+| Rohit Malhotra | YES (19:32-21:15) | NO (arrived later) | Departed 02:10 |
+| Deepika Joshi | NO | NO | Departed 01:45 |
+| Priya Malhotra | NO | NO | Departed ~01:06 |
+| **Kavya Sharma** | YES (at estate) | **YES (signed staging checklist 19:30)** | **YES (stayed overnight)** |
+| **Vikash Mehta** | NO | **YES (arrived with catering 19:00)** | **YES (departed 02:30)** |
+| Anil Verma | NO | NO | Departed 01:15 |
+| Vikram Saxena | NO (sent bottle remotely) | NO | Departed 00:30 |
+| Minister Thapar | NO | NO | Departed 00:16 |
+
+> **Critical:** Kavya and Vikash are the only two people who had access during BOTH the swap window (Dec 13, 19:00-20:00) AND were still present after Rohit departed (02:10 AM).
 
 ### Pharmaceutical Access
 
-| Person | Type of Access |
-|--------|----------------|
-| **Rohit Malhotra** | **₹2.5L purchase from Mehta Pharmaceuticals** |
-| Dr. Raghav Menon | Physician — can prescribe controlled substances |
-| Deepika Joshi | Father is Ayurvedic practitioner (herbal, not pharmaceutical) |
-| Priya Malhotra | Personal prescription for sleeping pills (different compound) |
+| Person | Type of Access | Notes |
+|--------|----------------|-------|
+| **Rohit Malhotra** | ₹2.5L purchase from Mehta Pharmaceuticals | **FLAGGED BUT UNEXPLAINED** — never connected to the crime |
+| **Vikash Mehta** | Unknown source | **CCTV shows he purchased bottle BTL-7711 (Dec 11)** |
+| Dr. Raghav Menon | Physician — can prescribe controlled substances | Left party early (10:30 PM) |
+| Deepika Joshi | Father is Ayurvedic practitioner (herbal, not pharmaceutical) | Not relevant |
+| Priya Malhotra | Personal prescription for sleeping pills (different compound) | Not Diazepam |
+
+> **Note:** Rohit's pharmaceutical purchase remains unexplained. It may have been for an unrelated purpose, or possibly his own aborted plan. The actual Diazepam used in the murder was acquired by Vikash Mehta through unknown channels.
 
 ---
 

@@ -89,6 +89,62 @@ Access requires no specialized tools or knowledge. The junction box is wall-moun
 | 09:15 | Deepika Joshi | "Work matters — schedule coordination" | Departed: 11:30 |
 | 14:22 | Priya Malhotra | "To drop off legal documents" | Departed: 15:45. Note: Argument with staff |
 | 18:00 | Arjun Malhotra | Returns from Mumbai | Accompanied by: Kavya Sharma |
+| 19:00 | Catering Staff | Event setup | Silver Spoon Catering Services |
+
+---
+
+### DOCUMENT 1-G: Delivery Manifest
+
+**PREMIUM SPIRITS & GIFTS PVT. LTD.**
+**DELIVERY MANIFEST**
+
+| Field | Detail |
+|-------|--------|
+| Order Number | PSG-2024-8847 |
+| Invoice Number | INV-PSG-8847 |
+| Product | Macallan 25 Year Single Malt Scotch Whisky (700ml) |
+| **Bottle ID** | **BTL-7794** |
+| Price | ₹1,85,000 |
+
+| Field | Detail |
+|-------|--------|
+| Delivery Date | December 12, 2024, 15:45 |
+| Received By | Meenakshi Rao (Housekeeper) |
+| Placement | Whiskey cabinet, private study |
+| Sender | Vikram Saxena, Saxena House, Cuffe Parade, Mumbai |
+
+> **Gift Note Attached:** "Arjun, Despite our disagreements, I believe we can find a way forward. Let's share a drink at your party. — Vikram"
+
+---
+
+### DOCUMENT 1-H: Catering Staff Log
+
+**SILVER SPOON CATERING SERVICES**
+**PARTY EVENT STAFF LOG**
+
+| Field | Detail |
+|-------|--------|
+| Event | Malhotra Estate After-Party |
+| Client | Arjun Malhotra |
+| Date | December 13-14, 2024 |
+
+| Field | Detail |
+|-------|--------|
+| Staff Arrived | December 13, 2024, 19:00 |
+| Staff Departed | December 14, 2024, 02:30 |
+
+**Personnel:**
+
+| Name | Role | Station |
+|------|------|---------|
+| Suresh Patil | Bartender (Lead) | Terrace bar |
+| **Vikash Mehta** | Bar Assistant | Terrace bar, service kitchen |
+| Rekha Singh | Server | Drawing room |
+| Amit Sharma | Server | Dining room |
+
+**Access Areas:** Terrace bar, service kitchen, drawing room, main hallway
+
+> **Note:** All catering staff departed together at 02:30 AM via service entrance.
 
 ---
 ---
@@ -273,6 +329,52 @@ Interview with household staff revealed significant sibling rivalry between Nish
 - Nisha left party early (11:45 PM) after argument with Rohit
 
 However: Nisha and husband Sanjay departed before midnight — both have alibis for time of death.
+
+---
+
+### DOCUMENT 3-H: Kavya Sharma — Background Investigation
+
+**PRIVATE INVESTIGATION — CONFIDENTIAL**
+
+| Field | Detail |
+|-------|--------|
+| Subject | Kavya Sharma |
+| Age | 34 |
+| Position | Fiancée of Arjun Malhotra |
+
+#### EDUCATIONAL BACKGROUND
+
+| Field | Detail |
+|-------|--------|
+| College | St. Xavier's College, Mumbai (2012-2015) |
+| Degree | Bachelor of Commerce |
+| Profession | Interior Designer |
+
+#### PRIOR RELATIONSHIPS
+
+| Partner | Period | Notes |
+|---------|--------|-------|
+| **Vikash Mehta** | 2013-2015 | College boyfriend (2 years) |
+| Suraj Kapoor | 2017-2019 | Entrepreneur, brief engagement (broken off) |
+
+**Regarding Vikash Mehta:**
+- Met during first year at St. Xavier's
+- Relationship lasted two years
+- Relationship ended when Kavya stated he "couldn't provide the lifestyle she wanted"
+- Vikash came from a working-class family; Kavya sought upward mobility
+
+#### CURRENT STATUS
+
+- Engaged to Arjun Malhotra since March 2024
+- Age gap: 28 years (Kavya 34, Arjun 62)
+- Met at a design industry event in late 2023
+- Engagement ring: Cartier, estimated ₹85 Lakh
+
+#### INTERESTING NOTE
+
+**Vikash Mehta** is currently employed by **Silver Spoon Catering Services** — the company hired for the December 13 party.
+
+> **Question:** Was Vikash coincidentally assigned to this event, or is there a connection to be explored?
 
 ---
 ---

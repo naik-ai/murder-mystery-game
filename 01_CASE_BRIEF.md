@@ -126,7 +126,7 @@ The after-party included family, close associates, and select business partners.
 
 ---
 
-## PERSONS OF INTEREST (22 Total)
+## PERSONS OF INTEREST (23 Total)
 
 ### Tier 1: Primary Suspects (7)
 
@@ -296,7 +296,7 @@ These individuals have motives and connections but were not present during the c
 
 ---
 
-### Tier 3: Additional Persons of Interest (9)
+### Tier 3: Additional Persons of Interest (10)
 
 *See Appendix for details. These individuals have been interviewed and cleared of direct involvement but may have relevant information.*
 
@@ -306,6 +306,7 @@ These individuals have motives and connections but were not present during the c
 | Ramesh Kumar | Chef | On duty |
 | Krishnan M. | Driver | On duty |
 | Suresh Patil | Bartender (hired for event) | On duty |
+| Vikash Mehta | Bar Assistant (hired for event) | On duty |
 | Anita Reddy | Company Accountant | Not invited |
 | Raj Oberoi | Former Business Partner | Not invited |
 | Neha Gupta | Journalist | Not invited |
