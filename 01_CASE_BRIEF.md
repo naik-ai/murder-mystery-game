@@ -306,7 +306,7 @@ These individuals have motives and connections but were not present during the c
 | Ramesh Kumar | Chef | On duty |
 | Krishnan M. | Driver | On duty |
 | Suresh Patil | Bartender (hired for event) | On duty |
-| Vikash Mehta | Bar Assistant (hired for event) | On duty |
+| Vikash Mehta | Catering Coordinator (hired for event) | On duty |
 | Anita Reddy | Company Accountant | Not invited |
 | Raj Oberoi | Former Business Partner | Not invited |
 | Neha Gupta | Journalist | Not invited |

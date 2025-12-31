@@ -138,7 +138,7 @@ Access requires no specialized tools or knowledge. The junction box is wall-moun
 | Name | Role | Station |
 |------|------|---------|
 | Suresh Patil | Bartender (Lead) | Terrace bar |
-| **Vikash Mehta** | Bar Assistant | Terrace bar, service kitchen |
+| **Vikash Mehta** | Catering Coordinator | All areas, oversees setup |
 | Rekha Singh | Server | Drawing room |
 | Amit Sharma | Server | Dining room |
 
@@ -354,14 +354,7 @@ However: Nisha and husband Sanjay departed before midnight — both have alibis 
 
 | Partner | Period | Notes |
 |---------|--------|-------|
-| **Vikash Mehta** | 2013-2015 | College boyfriend (2 years) |
 | Suraj Kapoor | 2017-2019 | Entrepreneur, brief engagement (broken off) |
-
-**Regarding Vikash Mehta:**
-- Met during first year at St. Xavier's
-- Relationship lasted two years
-- Relationship ended when Kavya stated he "couldn't provide the lifestyle she wanted"
-- Vikash came from a working-class family; Kavya sought upward mobility
 
 #### CURRENT STATUS
 
@@ -369,12 +362,6 @@ However: Nisha and husband Sanjay departed before midnight — both have alibis 
 - Age gap: 28 years (Kavya 34, Arjun 62)
 - Met at a design industry event in late 2023
 - Engagement ring: Cartier, estimated ₹85 Lakh
-
-#### INTERESTING NOTE
-
-**Vikash Mehta** is currently employed by **Silver Spoon Catering Services** — the company hired for the December 13 party.
-
-> **Question:** Was Vikash coincidentally assigned to this event, or is there a connection to be explored?
 
 ---
 ---

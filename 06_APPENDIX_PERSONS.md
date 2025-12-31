@@ -202,7 +202,7 @@ These individuals have been interviewed and cleared of direct involvement but ma
 
 ---
 
-### 23. Vikash Mehta — Bar Assistant (Catering)
+### 23. Vikash Mehta — Catering Coordinator
 
 | Field | Detail |
 |-------|--------|
@@ -212,18 +212,16 @@ These individuals have been interviewed and cleared of direct involvement but ma
 | Alibi | Working bar service; departed with catering crew at 2:30 AM |
 
 **Background:**
-- Professional bartender/bar assistant
-- Works for Silver Spoon Catering Services
+- Catering Coordinator for Silver Spoon Catering Services
 - First time at Malhotra Estate
-- **Former relationship with Kavya Sharma** (college boyfriend, 2013-2015)
-- Met Kavya at St. Xavier's College, Mumbai
-- Relationship ended when Kavya stated he "couldn't provide the lifestyle she wanted"
-- Assigned to bar area with Suresh Patil
+- Education: St. Xavier's College, Mumbai (2011-2014)
+- Originally from working-class family in Thane
+- Oversaw all catering setup and operations
 
 **Statement Summary:**
-"I was working the bar all night. Served drinks, helped with cleanup. Left with the rest of the catering team around 2:30 AM. I don't know anything about what happened."
+"I coordinated the catering team. Made sure everything was set up properly. Left with the rest of the crew around 2:30 AM. I don't know anything about what happened."
 
-**Relevance:** Catering staff present during critical period. **Prior connection to Kavya Sharma raises questions about coincidental assignment to this event.** Departed AFTER all guests left. Had access to service kitchen path (not covered by cameras).
+**Relevance:** Catering staff present during critical period. Departed AFTER all guests left (02:30 AM). Had access to service kitchen path (not covered by cameras).
 
 ---
 

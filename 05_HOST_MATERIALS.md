@@ -73,12 +73,10 @@ Who had ACCESS to swap the bottle AND physical presence to strangle the victim a
 - Rohit discovered Deepika-Arjun affair in October 2024
 - Deepika is 14 weeks pregnant (Arjun's child)
 - Deepika had champagne, NOT whiskey (she was not drugged)
-- **Kavya and Vikash Mehta were college sweethearts (2013-2015)**
-- Kavya ended the relationship because he "couldn't provide the lifestyle she wanted"
-- **Vikash Mehta is now employed by the catering company hired for the party**
+- Kavya attended St. Xavier's College, Mumbai (2012-2015)
 
 **YOUR KEY QUESTION:**
-What is the connection between Kavya and Vikash, and is it coincidence he was assigned to this party?
+What is Kavya's real relationship to Arjun, and why might she have access to the study during setup?
 
 ---
 

@@ -21,7 +21,7 @@ A lavish engagement party for Arjun and his fiancée Kavya Sharma. 40+ guests in
 ### The Killers
 **Kavya Sharma** (34) — Arjun's fiancée. The mastermind. Discovered Arjun's affair with Deepika and learned Deepika was pregnant. Reconnected with ex-boyfriend to execute murder plan. Executed the bottle swap.
 
-**Vikash Mehta** (32) — Kavya's college ex-boyfriend. The executor. Entered estate as catering staff. Purchased and prepared the drugged bottle. Physically strangled the victim.
+**Vikash Mehta** (32) — Catering coordinator (Silver Spoon Catering). The executor. Entered estate as lead catering staff. Purchased and prepared the drugged bottle. Physically strangled the victim.
 
 ---
 
@@ -63,7 +63,7 @@ A lavish engagement party for Arjun and his fiancée Kavya Sharma. 40+ guests in
 | 20 | Neha Gupta | Journalist | Not invited |
 | 21 | Vishal Mehta | Private Investigator | Not invited |
 | 22 | Ravi Singh | Bodyguard | On duty |
-| 23 | **Vikash Mehta** | **Bar Assistant (Catering)** | **On duty — KILLER** |
+| 23 | **Vikash Mehta** | **Catering Coordinator** | **On duty — KILLER** |
 
 **Party Attendance Summary:** 12 present at party (including Vikash), 11 absent (require alibis)
 
@@ -193,7 +193,7 @@ A lavish engagement party for Arjun and his fiancée Kavya Sharma. 40+ guests in
 | # | Clue | Evidence | Phase |
 |---|------|----------|-------|
 | 1 | **Bottle ID mismatch** | BTL-7794 (delivered) vs BTL-7711 (evidence) | Phase 1/2/3 |
-| 2 | Kavya-Vikash prior relationship | Background report shows college romance | Phase 2 |
+| 2 | Kavya-Vikash connection | Both attended St. Xavier's College, Mumbai (overlapping years) | Phase 2 |
 | 3 | Catering staff log | Vikash Mehta name appears | Phase 2 |
 | 4 | Kavya signed staging checklist | Cabinet access Dec 13, 19:30 | Phase 3 |
 | 5 | Vikash bottle purchase CCTV | Dec 11, Mumbai Wine & Spirits, cash | Phase 3 |

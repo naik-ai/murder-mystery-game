@@ -124,7 +124,7 @@ The original gift bottle (BTL-7794) was replaced with a different bottle (BTL-77
 
 Image compared against party attendee records. Potential match identified:
 
-> **Vikash Mehta** — Bar Assistant, Silver Spoon Catering Services
+> **Vikash Mehta** — Catering Coordinator, Silver Spoon Catering Services
 > Assigned to Malhotra Estate event December 13-14
 
 ---
