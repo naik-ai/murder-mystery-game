@@ -35,10 +35,11 @@ This document contains the complete solution.
 **KEY FACTS FROM YOUR EVIDENCE:**
 - Camera SC-1 was deliberately disabled (junction box in service kitchen)
 - Blackout period: 00:47 - 01:10
-- Priya's phone shows she was at estate until 01:06 (longer than claimed)
-- Poison was in the BOTTLE, not the glass
-- Bottle delivered December 12, poisoned before party
-- Rohit visited estate December 12 evening (19:32-21:15) while Arjun was in Mumbai
+- Rohit was the LAST guest to leave (02:10 AM)
+- Rohit went to study at 1:50 AM, stayed 20 minutes
+- Sedative was in the BOTTLE, not the glass
+- Bottle delivered December 12; Rohit visited estate that evening (19:32-21:15)
+- Arjun was in Mumbai on December 12
 
 **YOUR KEY QUESTION:**
 Who had access to the study on December 12 after the bottle was delivered?
@@ -48,16 +49,16 @@ Who had access to the study on December 12 after the bottle was delivered?
 ### DETECTIVE 2: FORENSICS LEAD — PHASE 4 SUMMARY
 
 **KEY FACTS FROM YOUR EVIDENCE:**
-- Poison was in the BOTTLE (revised forensics)
-- Bottle was opened, poisoned, and RESEALED
-- Two glasses: poisoned one (Arjun only) and clean one (multiple prints)
-- Rohit's fingerprints on clean glass (EV-002)
-- Rohit purchased ₹2.5 lakh "herbal supplements" from Himalayan Botanicals on November 22, 2024 (3 weeks before murder)
-- Deepika's father is Ayurvedic practitioner (potential poison access)
-- Priya has botany background
+- Death by ligature strangulation (silk cord from behind)
+- No defensive wounds — victim was incapacitated
+- Diazepam in blood: 850 ng/mL (well above toxic)
+- Sedative was in the BOTTLE (revised forensics)
+- Silk fibers on neck match missing curtain cord (EV-007)
+- Curtain cord thrown out study window (fibers in garden)
+- Rohit paid ₹2.5 lakh to Mehta Pharmaceuticals (Nov 22)
 
 **YOUR KEY QUESTION:**
-Who had both ACCESS to the study before the party AND access to POISON?
+Who had both ACCESS to drug the bottle AND physical presence to strangle the victim?
 
 ---
 
@@ -68,13 +69,13 @@ Who had both ACCESS to the study before the party AND access to POISON?
 - Rohit introduced Deepika to Arjun for PA position
 - Rohit discovered Deepika-Arjun affair in October 2024
 - Confrontation between Rohit and Deepika on November 15
-- Deepika was in the study (her earring found under desk)
-- Arjun texted Deepika to meet at 1:30 AM
-- Bartender saw someone move glasses at bar cart ~12:38 AM
-- Housekeeper smelled jasmine perfume (Deepika's brand) in study
+- Deepika is 14 weeks pregnant (Arjun's child)
+- Deepika was in study at 1:30 AM (met Arjun per text message)
+- Deepika had champagne, NOT whiskey (she was not drugged)
+- Bartender saw Rohit go to study at 1:50 AM; came out calm 20 minutes later
 
 **YOUR KEY QUESTION:**
-What did Rohit lose — and to whom?
+What did Rohit lose — and how did he plan his revenge?
 
 ---
 
@@ -82,15 +83,16 @@ What did Rohit lose — and to whom?
 
 **KEY FACTS FROM YOUR EVIDENCE:**
 - Two paths to study: visible (through drawing room) and hidden (service kitchen)
-- Service kitchen path passes camera junction box
-- Rohit's fingerprints on guest glass (EV-002) in cabinet
-- Deepika's earring under desk (she was in study)
-- Bottle was resealed after poisoning
-- Vikram sent bottle as gift — delivered Dec 12 at 15:45
-- Rohit was at estate Dec 12 evening (after delivery, Arjun away)
+- Hidden path NOT covered by cameras; passes junction box
+- Rohit knew hidden path (grew up at estate, present during security installation)
+- Missing: Silk curtain cord from study window (EV-007)
+- Silk fibers found in garden behind study window
+- Rohit's fingerprints on Deepika's champagne glass (moved to cabinet)
+- Curtain cord last confirmed present December 12 at 15:45
+- Rohit was ONLY visitor to study between delivery and Arjun's return
 
 **YOUR KEY QUESTION:**
-Who moved the guest glass to the cabinet, and why?
+Who took the curtain cord, and when?
 
 ---
 
@@ -100,11 +102,11 @@ Who moved the guest glass to the cabinet, and why?
 - Rohit lost ₹23,950 Crore (inheritance + insurance changes)
 - He was notified of will changes on December 1 (13 days before murder)
 - Deepika gained inheritance + paternity acknowledgment in new will
-- Kavya suggested the beneficiary structure change
 - Insurance clause: convicted beneficiaries forfeit their share
-- Whistleblower deadline was December 15 (Arjun died December 14)
-- Arjun's last text at 01:52: "I know who you are..."
-- Burner phone at estate had contacts "D" and "R"
+- If Rohit is convicted, others gain additional shares
+- Arjun's last text at 01:52: "I know who you are..." (to burner phone)
+- Burner phone contacts: "D" (Deepika) and "R" (Rohit)
+- Rohit paid ₹2.5 lakh to Mehta Pharmaceuticals (pharmaceutical supplier)
 
 **YOUR KEY QUESTION:**
 Who had the most to gain from Arjun's death BEFORE the will change took effect?
@@ -119,25 +121,25 @@ Who had the most to gain from Arjun's death BEFORE the will change took effect?
 
 ---
 
-**QUESTION 1:** Who physically poisoned the drink?
+**QUESTION 1:** Who strangled the victim?
 
 Answer: ________________________________________________
 
 ---
 
-**QUESTION 2:** Who was the INTENDED target of the poison?
+**QUESTION 2:** Who drugged the whiskey bottle?
 
 Answer: ________________________________________________
 
 ---
 
-**QUESTION 3:** Why did Arjun Malhotra drink the poison?
+**QUESTION 3:** Why couldn't the victim fight back?
 
 Answer: ________________________________________________
 
 ---
 
-**QUESTION 4:** When was the poison administered to the bottle? (Date and approximate time)
+**QUESTION 4:** When was the bottle tampered with? (Date and approximate time)
 
 Answer: ________________________________________________
 
@@ -165,49 +167,49 @@ Answer: ________________________________________________
 
 ## CORRECT ANSWERS
 
-### Question 1: Who physically poisoned the drink?
+### Question 1: Who strangled the victim?
 
 **ANSWER: ROHIT MALHOTRA**
 
-He poisoned the Macallan 25 bottle on December 12, 2024, when he visited the estate "to collect documents." Arjun was in Mumbai. Rohit had the study to himself for nearly two hours.
+He strangled his father with the silk curtain cord from the study window at approximately 2:00-2:10 AM on December 14, 2024. The attack came from behind while Arjun was incapacitated by sedatives.
 
 ---
 
-### Question 2: Who was the INTENDED target?
+### Question 2: Who drugged the whiskey bottle?
 
-**ANSWER: ARJUN MALHOTRA (the victim)**
+**ANSWER: ROHIT MALHOTRA**
 
-There was no wrong target. Arjun was always the intended victim. The glass swap on the terrace was unrelated — Kavya simply picked up the wrong champagne glass. It was never about poisoning Deepika.
-
----
-
-### Question 3: Why did Arjun drink the poison?
-
-**ANSWER: The bottle was a gift from Vikram Saxena, presented as a peace offering.**
-
-Arjun believed Vikram was trying to reconcile. The gift note said "Let's share a drink and talk like old friends." Arjun opened what he thought was a sealed bottle from a trusted source. He had no reason to suspect it had been tampered with.
+He added Diazepam to the Macallan 25 bottle on December 12, 2024, when he visited the estate "to collect documents." Arjun was in Mumbai. Rohit had the study to himself for nearly two hours (19:32-21:15).
 
 ---
 
-### Question 4: When was the poison administered?
+### Question 3: Why couldn't the victim fight back?
+
+**ANSWER: He was incapacitated by Diazepam (sedative) that had been added to the whiskey bottle.**
+
+At the blood concentration found (850 ng/mL — well above toxic threshold), Arjun would have experienced severe drowsiness, profound muscle weakness, impaired coordination, and confusion. He was physically incapable of resisting the attack. This explains the critical autopsy finding: no defensive wounds despite violent death by strangulation.
+
+---
+
+### Question 4: When was the bottle tampered with?
 
 **ANSWER: December 12, 2024, evening (between 19:32 and 21:15)**
 
-The bottle was delivered at 15:45. Rohit arrived at 19:32 and left at 21:15. Arjun was in Mumbai. During this window, Rohit opened the sealed bottle, added the Aconitine extract, and carefully resealed it.
+The bottle was delivered at 15:45. Rohit arrived at 19:32 and left at 21:15. Arjun was in Mumbai. During this window, Rohit had exclusive access to the study and the bottle.
 
 ---
 
 ### Question 5: What single piece of evidence proves the killer?
 
-**ANSWER: The ₹2.5 lakh purchase from Himalayan Botanicals Ltd.**
+**ANSWER: The ₹2.5 lakh wire transfer to Mehta Pharmaceuticals (November 22, 2024)**
 
-Rohit purchased "herbal supplements" from a company that sources traditional Himalayan medicinal plants — including Aconitum (the source of Aconitine) — three weeks before the murder. Combined with his estate visit on December 12 and his fingerprints on the guest glass, this creates an irrefutable chain of evidence.
+Rohit purchased controlled substances from a pharmaceutical supply company three weeks before the murder. This establishes that he acquired the sedative. Combined with:
+- His estate visit on December 12 (opportunity to drug bottle and take curtain cord)
+- Silk fibers matching the curtain cord on victim's neck (murder weapon)
+- His presence at the estate until 2:10 AM (opportunity for strangulation)
+- His fingerprints on Deepika's champagne glass in the cabinet (evidence tampering)
 
-**Supporting evidence:**
-- December 12 estate visit (opportunity)
-- Herbal supplement purchase (means)
-- ₹23,950 Crore loss + ex-girlfriend betrayal (motive)
-- Fingerprints on guest glass (post-murder tampering)
+This creates an irrefutable chain of evidence for a premeditated, two-stage murder.
 
 ---
 
@@ -217,19 +219,31 @@ Rohit purchased "herbal supplements" from a company that sources traditional Him
 
 "Rohit Malhotra's world collapsed in the autumn of 2024. First, he discovered that Deepika — his ex-girlfriend, the woman he himself had introduced to his father — was pregnant with Arjun's child. Then, on December 1st, he learned that his father had changed the will. His inheritance dropped from ₹28,000 crore to less than ₹5,000 crore. Everything he had worked for, expected, felt entitled to — gone.
 
-But Rohit was patient. When he intercepted the notification that Vikram Saxena had ordered a gift bottle for his father, he saw his opportunity. If Arjun died from that bottle, suspicion would fall on Vikram — the man who had publicly argued with Arjun about the merger.
+But Rohit was methodical. When he learned that Vikram Saxena had sent a gift bottle to his father, he saw his opportunity. If Arjun died after drinking from that bottle, suspicion would fall on Vikram — the man who had publicly argued with Arjun about the merger.
 
-Three weeks earlier, Rohit had already purchased Aconitine extract, disguised as herbal supplements. He had researched the poison carefully. He knew it was delayed-action. He knew it was hard to trace. He knew how to reseal a whiskey bottle — he had watched tutorials, practiced on cheaper bottles.
+Three weeks earlier, on November 22nd, Rohit had wired ₹2.5 lakh to Mehta Pharmaceuticals — a supplier willing to provide controlled substances without questions. He acquired pharmaceutical-grade Diazepam, enough to incapacitate a man. He had a plan: drug his father, then finish him by hand. No defensive wounds. A death that looked like an attack on a vulnerable man.
 
-On December 12th, while his father was in Mumbai, Rohit visited the estate. The housekeeper let him in — he was the son, after all. In the study, alone, he found the Macallan 25 that had just been delivered. He opened it carefully, added the poison, and resealed it.
+On December 12th, while his father was in Mumbai, Rohit visited the estate. The housekeeper let him in — he was the son, after all. In the study, alone, he found the Macallan 25 that had just been delivered. He opened it, added the Diazepam, and placed it back in the cabinet. While there, he also took one of the silk curtain cords from the study window. His murder weapon.
 
 Then he waited.
 
-At the party on December 13th, Rohit played his role perfectly. Sullen but present. Angry but controlled. He stayed until the end, went to the study at 1:40 AM to 'say goodbye' — really to confirm his father had opened the bottle. He saw two glasses on the desk. He picked up Deepika's glass and moved it to the cabinet — creating confusion, planting evidence that might point in other directions.
+At the party on December 13th, Rohit played his role perfectly. Sullen but present. Angry but controlled. He knew his father would eventually open that special bottle. He waited.
 
-He was the last guest to leave. He said goodbye to his father, knowing he would be dead within the hour.
+Around 1:30 AM, Arjun met Deepika in the study. They talked about the 'announcement' — Arjun planned to publicly acknowledge her pregnancy and their relationship. Deepika drank champagne; Arjun poured himself whiskey from the Macallan. Deepika left around 1:45 AM.
 
-The irony? By murdering his father, Rohit triggered exactly what he hoped to prevent. The investigation will find the supplement purchase. The evidence will convict him. And under the insurance policy clause, a convicted beneficiary forfeits their share.
+Rohit went to the study at 1:50 AM. His father was already feeling the effects of the sedative — drowsy, confused. Rohit waited. By 2:00 AM, Arjun was barely able to stand. Rohit approached from behind, looped the silk cord around his father's neck, and pulled.
+
+Arjun couldn't fight back. His muscles wouldn't respond. His hands couldn't reach the cord. The sedative had done its job.
+
+After the strangulation, Rohit threw the cord out the study window into the garden. He moved Deepika's champagne glass to the whiskey cabinet — creating confusion, planting evidence that might suggest she had been there with Arjun drinking whiskey. Then he walked out calmly.
+
+The bartender saw him. Rohit seemed 'calm' — strange for a man who had been upset all evening. But Rohit was calm because his plan had worked.
+
+He left at 2:10 AM — the last guest to depart. Behind him, his father lay dead in the study.
+
+The irony? By murdering his father, Rohit triggered exactly what he hoped to prevent. The investigation will find the pharmaceutical purchase. The fiber evidence will match the curtain cord. His fingerprints are on the moved glass. The evidence will convict him.
+
+And under the insurance policy clause, a convicted beneficiary forfeits their share.
 
 Kavya and Deepika — the women Rohit despised — will inherit everything.
 
@@ -241,13 +255,14 @@ Rohit killed his father to claim his birthright. Instead, he will spend his life
 
 | Red Herring | What It Seemed | The Truth |
 |-------------|----------------|-----------|
-| Priya's false departure time | She stayed late to murder Arjun | She was searching the bedroom for divorce evidence |
-| Glass swap on terrace | Someone poisoned Deepika's glass | Kavya picked up wrong champagne glass (innocent) |
-| Camera malfunction | Killer disabled it to hide murder | Anil disabled it to steal embezzlement documents |
-| Vikram's gift bottle | He poisoned it before sending | Genuine peace offering; Rohit poisoned it after delivery |
-| Deepika in the study | She poisoned Arjun during their meeting | She met him at 1:30 AM, drank from same bottle, survived (lower dose) |
-| Minister Thapar | Political assassination to prevent exposure | Left early, had nothing to do with it |
-| The whistleblower | Dangerous figure who killed Arjun | Deepika, who wanted Arjun to confess, not die |
+| Priya's longer stay | She stayed late to murder Arjun | She was searching the bedroom for divorce documents |
+| Kavya's terrace argument | Jealous fiancée might kill rival | She confronted Deepika about the affair, but didn't kill anyone |
+| Camera malfunction | Killer disabled it to hide murder | Anil disabled it to access embezzlement documents from safe |
+| Vikram's gift bottle | He poisoned/drugged it before sending | Genuine peace offering; Rohit drugged it after delivery |
+| Deepika in the study | She drugged Arjun during their meeting | She had champagne, not whiskey; left before strangulation |
+| Dr. Raghav Menon | Physician with pharmaceutical access | Left at 10:30 PM, has alibi, no direct evidence |
+| Minister Thapar | Political assassination to prevent exposure | Left at 12:16 AM, confirmed alibi, unrelated |
+| The burner phone | Dangerous figure stalking Arjun | Belonged to Arjun; he was investigating the whistleblower |
 
 ---
 
@@ -255,26 +270,28 @@ Rohit killed his father to claim his birthright. Instead, he will spend his life
 
 | Question | Correct Answer | Points |
 |----------|----------------|--------|
-| 1. Killer identity | Rohit Malhotra | 20 |
-| 2. Intended target | Arjun Malhotra | 15 |
-| 3. Why Arjun drank | Gift/peace offering/trusted source | 20 |
-| 4. When poisoned | December 12, evening | 20 |
-| 5. Key evidence | Herbal supplement purchase | 25 |
+| 1. Who strangled | Rohit Malhotra | 20 |
+| 2. Who drugged bottle | Rohit Malhotra | 15 |
+| 3. Why no fight | Sedative/Diazepam incapacitation | 20 |
+| 4. When drugged | December 12, evening (19:32-21:15) | 20 |
+| 5. Key evidence | Pharmaceutical purchase (Mehta Pharmaceuticals) | 25 |
 | **TOTAL** | | **100** |
 
 ### Partial Credit
-- Q3: 10 points if they mention "gift" or "bottle was sealed"
+
+- Q1 & Q2: If they say the same person for both (even if wrong name), +5 points (shows understanding of two-stage murder)
+- Q3: 10 points if they mention "sedative" or "drugged" or "couldn't resist"
 - Q4: 10 points if they say "before the party" or "December 12"
-- Q5: 15 points if they mention any Rohit-specific evidence
+- Q5: 15 points if they mention any Rohit-specific evidence (pharmaceutical purchase, estate visit, fiber evidence, fingerprints)
 
 ### Ratings
 
 | Score | Rating |
 |-------|--------|
-| 90-100 | MASTER DETECTIVES — "Sherlock would be proud." |
-| 70-89 | SKILLED INVESTIGATORS — "Scotland Yard material." |
-| 50-69 | COMPETENT SLEUTHS — "You got the main points." |
-| 30-49 | AMATEUR DETECTIVES — "The killer nearly escaped." |
+| 90-100 | MASTER DETECTIVES — "You solved a two-stage murder. Sherlock would be proud." |
+| 70-89 | SKILLED INVESTIGATORS — "You pieced together the method. Scotland Yard material." |
+| 50-69 | COMPETENT SLEUTHS — "You got the killer, but missed some details." |
+| 30-49 | AMATEUR DETECTIVES — "The method nearly fooled you." |
 | 0-29 | WRONG TRAIL — "Justice was not served today." |
 
 ---
@@ -283,33 +300,47 @@ Rohit killed his father to claim his birthright. Instead, he will spend his life
 
 ### Pacing the Game
 
-- **Phase 1:** Let them discover the basic facts. Don't rush.
-- **Phase 2:** They should be building theories. Most will be wrong — that's okay.
-- **Phase 3:** The twist should cause a "wait, what?" moment. Give them time to process.
-- **Phase 4:** Light pressure. The timer creates urgency.
+- **Phase 1:** Let them discover the basic facts — strangulation, no defensive wounds, sedative in blood. Don't rush.
+- **Phase 2:** They should start connecting Rohit to the pharmaceutical purchase and the estate visit. Most theories will still be wrong — that's okay.
+- **Phase 3:** The twist (sedative in BOTTLE) should cause the "aha" moment. Give them time to process the two-stage murder concept.
+- **Phase 4:** Light pressure. The timer creates urgency for final consensus.
 
 ### If Players Are Stuck
 
-**Phase 1-2:** Don't help. Let them struggle.
+**Phase 1-2:** Don't help. Let them struggle with the "why no defensive wounds" question.
 
 **Phase 3:** You can ask leading questions:
 - "Who had access to the study BEFORE the party?"
-- "What purchases were made in the weeks before?"
+- "What does the pharmaceutical purchase tell you?"
+- "Why would someone drug a victim before strangling them?"
 
 **Phase 4:** Last resort hints:
 - "Look at who visited the estate on December 12."
-- "What did Rohit buy three weeks before?"
+- "What did Rohit buy from Mehta Pharmaceuticals?"
+- "Where did the curtain cord go?"
 
 ### Common Wrong Theories
 
 Players often suspect:
 
-1. **Kavya** (glass swap, jealousy) — Let them explore this
-2. **Deepika** (was in study, has poison access) — Good misdirection
-3. **Anil** (camera, service kitchen) — Plausible but wrong
-4. **Minister Thapar** (political motive) — Red herring works
+1. **Kavya** (jealousy, stayed overnight) — Let them explore this; she has motive but no evidence
+2. **Deepika** (was in study, father has Ayurvedic background) — Good misdirection; she had champagne
+3. **Anil** (camera, service kitchen access) — Plausible but he has embezzlement motive, not murder
+4. **Dr. Menon** (physician, pharmaceutical access) — Left too early, no opportunity
+5. **Vikram** (sent the bottle) — The obvious frame; alibi is solid
 
-The correct answer (Rohit) often seems "too obvious" — players dismiss him because he's the most obvious suspect. That's the point.
+The correct answer (Rohit) often seems "too obvious" — players dismiss him because he's the most obvious suspect. That's the point. The evidence builds inexorably toward him.
+
+### Key Insight for Players
+
+The breakthrough should be: "Why no defensive wounds?"
+
+Once they connect:
+- Sedative → Incapacitation → Unable to fight
+- Two-stage murder requires planning
+- Who had access to BOTH drug the bottle AND strangle the victim?
+
+The answer becomes clear: only Rohit had opportunity for both stages.
 
 ### Atmosphere Suggestions
 
@@ -338,6 +369,7 @@ The correct answer (Rohit) often seems "too obvious" — players dismiss him bec
 | Phase 3 Twist (File 4) | 5 | All players |
 | Phase 4 Summary Cards | 5 (1 each) | Each detective |
 | Final Answer Card | 1 | Group |
+| Appendix: Persons of Interest (File 6) | 5 | All players (optional reference) |
 | Solution (this file) | 1 | Host only |
 
 ---

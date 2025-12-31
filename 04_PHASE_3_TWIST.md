@@ -20,6 +20,16 @@ This evidence is shared with ALL detectives.
 
 ---
 
+## THE KEY REVELATION
+
+**THE SEDATIVE WAS IN THE WHISKEY BOTTLE.**
+
+The victim was drugged BEFORE he was strangled. He couldn't fight back because he was already incapacitated by a massive dose of Diazepam.
+
+This explains the critical autopsy finding: **NO DEFENSIVE WOUNDS despite violent death by strangulation.**
+
+---
+
 ## SUPPLEMENTARY FORENSIC REPORT
 
 **MAHARASHTRA STATE FORENSIC SCIENCE LABORATORY**
@@ -49,48 +59,67 @@ Re-examination of Evidence Item EV-003 (Macallan 25 Year Whiskey Bottle)
 
 Upon enhanced spectrometric analysis of bottle residue:
 
-**TRACE ACONITINE DETECTED**
+**DIAZEPAM DETECTED**
 
 | Measurement | Value |
 |-------------|-------|
-| Concentration in bottle residue | 0.8 ng/mL |
-| Note | Lower than glass concentration due to dilution effect |
+| Concentration in bottle residue | 425 ng/mL |
+| Note | Concentrated in remaining liquid at bottom of bottle |
 
 ---
 
 ### INTERPRETATION
 
-The presence of Aconitine in the bottle residue indicates that the poison was added to the **BOTTLE**, not to an individual glass.
-
-The lower concentration in the bottle compared to the glass (EV-001) is consistent with the poison settling toward the bottom of the liquid over time.
+The presence of Diazepam in the bottle residue indicates that the sedative was added to the **BOTTLE**, not to an individual glass.
 
 | Measurement | Value |
 |-------------|-------|
 | Bottle volume at examination | Approximately 200ml remaining |
 | Original bottle volume | 700ml |
+| Victim's blood Diazepam level | 850 ng/mL (well above toxic threshold) |
 
-This indicates approximately 500ml had been consumed prior to examination. Multiple drinks were poured from this bottle.
+This indicates approximately 500ml had been consumed prior to examination. At the victim's blood concentration, he would have experienced:
 
----
+- Severe drowsiness
+- Profound muscle weakness
+- Impaired coordination
+- Confusion
 
-### TOXICOLOGICAL NOTE
-
-Aconitine has higher density than ethanol. In a standing liquid, the compound will gradually settle toward the bottom.
-
-- Initial pours from a contaminated bottle would contain **lower concentration**
-- Later pours — from the bottom portion — would contain **significantly higher concentration**
-
-This explains how multiple persons could drink from the same bottle with varying effects.
+**He would have been physically incapable of resisting a physical attack.**
 
 ---
 
-### ADDITIONAL FINDING: BOTTLE SEAL
+### TOXICOLOGICAL TIMELINE
 
-Re-examination of bottle seal remnants (recovered from wastebasket):
+| Time After Ingestion | Expected Effect |
+|---------------------|-----------------|
+| 15-30 minutes | Onset of drowsiness, relaxation |
+| 30-45 minutes | Significant sedation, muscle weakness begins |
+| 45-60 minutes | **Profound incapacitation at this dosage** |
 
-The seal shows evidence of **careful removal and reattachment**. Heat marks consistent with re-sealing technique observed.
+If the victim consumed whiskey at approximately 1:30 AM, he would have been significantly impaired by 2:00 AM — **the estimated time of strangulation**.
 
-**Conclusion:** The bottle was opened, tampered with, and resealed prior to the visible opening on the night of December 13-14.
+---
+
+### CRITICAL CONNECTION
+
+**Why couldn't the victim fight back?**
+
+The strangulation marks show the victim was attacked from behind with a silk cord. Normally, a healthy adult would:
+- Struggle violently
+- Attempt to pull the ligature away
+- Claw at attacker's hands
+- Kick, thrash, or attempt escape
+
+The victim did **NONE** of these things. The sedative explains why.
+
+---
+
+### GLASS VS. BOTTLE DETECTION
+
+**Question:** Why was Diazepam not detected in the whiskey glass (EV-001)?
+
+**Answer:** The glass had dried by the time of examination. Dried residue contains trace amounts below the standard detection limit (50 ng/mL). The bottle retained liquid, allowing accurate measurement.
 
 ---
 
@@ -217,6 +246,8 @@ Ordered by Vikram Saxena from Premium Spirits & Gifts
 |------|--------|---------|
 | 19:32 - 21:15 | **Rohit Malhotra** | "To collect documents from study" |
 
+> **CRITICAL:** Rohit was the ONLY visitor to the study between bottle delivery (15:45) and Arjun's return (December 13, 18:00). He was alone in the study for nearly 2 hours.
+
 ---
 
 ### DECEMBER 13, 2024
@@ -227,7 +258,7 @@ Ordered by Vikram Saxena from Premium Spirits & Gifts
 | 14:22 - 15:45 | Priya Malhotra (legal documents) |
 | 18:00 | Arjun Malhotra returns with Kavya Sharma |
 | 19:00 | Event staff arrive |
-| 23:30 | Party begins |
+| 20:00 | After-party begins |
 
 ---
 
@@ -235,10 +266,30 @@ Ordered by Vikram Saxena from Premium Spirits & Gifts
 
 | Time | Event |
 |------|-------|
-| ~01:30 | Bottle opened (based on timeline reconstruction) |
-| ~02:10 | Victim deceased |
+| ~01:30 | Bottle opened, victim drinks |
+| ~02:00 | Sedative takes full effect; victim incapacitated |
+| ~02:00-02:15 | **STRANGULATION** |
+| 02:10 | Rohit Malhotra departs estate (camera SC-2) |
 | 06:15 | Body discovered |
 | 08:00 | Bottle collected as evidence |
+
+---
+
+## PHARMACEUTICAL ACQUISITION LINK
+
+**INVESTIGATION UPDATE**
+
+Cross-referencing the Diazepam discovery with financial records:
+
+| Date | Transaction | Amount | Payee |
+|------|-------------|--------|-------|
+| **Nov 22** | **Wire Transfer** | **₹2,50,000** | **Mehta Pharmaceuticals (Private)** |
+
+**Account Holder:** Rohit Malhotra
+
+**Investigation Finding:** Mehta Pharmaceuticals (Private) is a pharmaceutical supply company. At ₹2.5 Lakh, this transaction could acquire significant quantities of controlled substances through back channels.
+
+This transaction occurred **20 days before the murder**.
 
 ---
 
@@ -267,10 +318,28 @@ I did not go to his study. I did not see him after approximately midnight when w
 
 My phone records and ferry tickets confirm I was in Mumbai by 1:30 AM. I could not have been at the estate when he died.
 
-I did not kill Arjun. Someone is trying to frame me.
+I did not kill Arjun. Someone is trying to frame me by using my gift.
 
 *Statement read and confirmed.*
 *Signature: [Signed]*
+
+---
+
+## THE TWO-STAGE MURDER
+
+**SUMMARY FOR DETECTIVES**
+
+This was not a simple killing. It was a **planned, two-stage murder**:
+
+| Stage | Method | Purpose |
+|-------|--------|---------|
+| **Stage 1** | Diazepam in whiskey bottle | Incapacitate the victim |
+| **Stage 2** | Ligature strangulation | Kill the helpless victim |
+
+**Key Questions:**
+1. Who had access to drug the bottle? (December 12, after delivery)
+2. Who had the physical opportunity to strangle the victim? (After 1:30 AM on December 14)
+3. Who had both motive AND opportunity for both stages?
 
 ---
 

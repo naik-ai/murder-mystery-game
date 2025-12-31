@@ -8,7 +8,8 @@
 
 **Duration: 20 Minutes**
 
-### Instructions:
+### Instructions
+
 - Each detective reads their assigned evidence packet
 - Take 10 minutes to read silently
 - Spend remaining 10 minutes sharing findings with the group
@@ -38,14 +39,17 @@
 
 | Time | Camera | Event |
 |------|--------|-------|
+| 20:15:22 | SC-2 | Dr. Raghav Menon arrives with spouse |
+| 22:30:18 | SC-2 | Dr. Raghav Menon and spouse **depart** |
 | 23:18:34 | SC-2 | Vehicle convoy arrives (7 vehicles) |
 | 23:22:11 | SC-1 | Minister Rajesh Thapar enters with bodyguard |
 | 23:24:45 | SC-1 | Vikram Saxena enters alone |
 | 23:31:02 | SC-1 | Priya Malhotra enters alone |
 | 23:33:18 | SC-1 | Rohit Malhotra enters (driver remains in vehicle) |
-| 23:38:29 | SC-1 | Kavya Sharma enters alone |
+| 23:38:29 | SC-1 | Kavya Sharma — already on premises (fiancée) |
 | 23:41:55 | SC-1 | Deepika Joshi enters alone |
 | 23:45:03 | SC-1 | Anil Verma enters alone |
+| 23:45:15 | SC-2 | Nisha Malhotra and Sanjay Kapoor **depart** |
 
 #### DEPARTURE LOG
 
@@ -67,15 +71,14 @@
 
 | Time | Camera | Event |
 |------|--------|-------|
-| 01:17:08 | SC-1 | Deepika Joshi exits (looking at mobile phone) |
-| 01:22:31 | SC-1 | Kavya Sharma exits |
-| 01:33:42 | SC-1 | Anil Verma exits (carrying leather briefcase) |
-| 01:47:19 | SC-1 | Rohit Malhotra exits |
-| 01:47:55 | SC-2 | Rohit Malhotra's vehicle departs |
+| 01:15:08 | SC-1 | Anil Verma exits (carrying leather briefcase) |
+| 01:45:31 | SC-1 | Deepika Joshi exits |
+| 02:10:19 | SC-1 | Rohit Malhotra exits |
+| 02:10:55 | SC-2 | Rohit Malhotra's vehicle departs (**LAST TO LEAVE**) |
 
-> **NOTE:** No departure recorded for Priya Malhotra on SC-1 or SC-2
+> **NOTE:** No departure recorded for Priya Malhotra on SC-1 or SC-2 during expected window.
 >
-> SC-3 and SC-4 (interior cameras) footage available upon request.
+> Kavya Sharma remained overnight (fiancée residence).
 
 ---
 
@@ -99,15 +102,6 @@
 | ALB-3 | Alibaug Ferry Terminal | 8.0 km from estate |
 | MUM-7 | Mumbai Gateway | Across bay |
 
-#### DEVICE: +91-98XXX-45621 (Registered: Vikram Saxena)
-
-| Time | Tower |
-|------|-------|
-| 00:32 | ALB-1 |
-| 00:41 | ALB-2 |
-| 00:58 | ALB-3 |
-| 01:34 | MUM-7 |
-
 #### DEVICE: +91-98XXX-77834 (Registered: Priya Malhotra)
 
 | Time | Tower |
@@ -115,9 +109,10 @@
 | 23:31 | ALB-1 |
 | 00:12 | ALB-1 |
 | 00:47 | ALB-1 |
-| 01:06 | ALB-1 |
+| **01:06** | **ALB-1** |
 | 01:23 | ALB-2 |
-| 01:45 | ALB-3 |
+
+> **Observation:** Device remained at estate until 01:06, 21 minutes later than claimed departure (00:45).
 
 #### DEVICE: +91-99XXX-88123 (Registered: Rohit Malhotra)
 
@@ -125,25 +120,10 @@
 |------|-------|
 | 23:33 | ALB-1 |
 | 01:02 | ALB-1 |
-| 01:47 | ALB-1 |
-| 01:58 | ALB-2 |
+| 02:10 | ALB-1 |
+| 02:22 | ALB-2 |
 
-#### DEVICE: +91-98XXX-12456 (Registered: Kavya Sharma)
-
-| Time | Tower |
-|------|-------|
-| 23:38 | ALB-1 |
-| 01:22 | ALB-1 |
-| 01:35 | ALB-2 |
-| 01:52 | ALB-3 |
-
-#### DEVICE: +91-98XXX-99887 (Registered: Anil Verma)
-
-| Time | Tower |
-|------|-------|
-| 23:45 | ALB-1 |
-| 01:33 | ALB-1 |
-| 01:48 | ALB-2 |
+> **Observation:** Last guest to leave premises at 02:10.
 
 *Report prepared by: Inspector K. Deshmukh, Cyber Cell*
 *Date: December 15, 2024*
@@ -172,104 +152,100 @@
 | Examining Physician | Dr. Sneha Kulkarni, MD Forensic Medicine |
 
 #### CAUSE OF DEATH
-Cardiac arrhythmia leading to cardiac arrest, induced by acute Aconitine toxicity.
+
+**Asphyxiation secondary to ligature strangulation.**
 
 #### MANNER OF DEATH
+
 **HOMICIDE**
+
+#### EXTERNAL EXAMINATION — NECK
+
+| Finding | Description |
+|---------|-------------|
+| Ligature mark | Single horizontal furrow, 1.5 cm width, circumferential |
+| Position | Middle of neck, slightly rising posteriorly |
+| Color | Pale brown parchment-like abrasion |
+| Pattern | Consistent with smooth, flexible ligature (fabric/silk) |
+
+#### INTERNAL EXAMINATION — NECK
+
+| Finding | Description |
+|---------|-------------|
+| Soft tissue | Hemorrhage in sternocleidomastoid muscles bilaterally |
+| Hyoid bone | Intact (no fracture) |
+| Thyroid cartilage | Superior horn fractured on left side |
+
+#### PETECHIAL HEMORRHAGING
+
+| Location | Finding |
+|----------|---------|
+| Conjunctivae | Multiple petechiae present bilaterally |
+| Facial skin | Scattered petechiae above ligature line |
+| Oral mucosa | Petechiae present |
 
 #### TOXICOLOGY FINDINGS
 
-| Test | Result |
-|------|--------|
-| Blood Aconitine Level | 4.2 ng/mL |
-| Reference | Lethal threshold >2.0 ng/mL |
-| Gastric Content Analysis | Aconitine detected |
-| Estimated Ingested Dose | 5-8 mg |
+| Test | Result | Reference |
+|------|--------|-----------|
+| **Blood Diazepam** | **850 ng/mL** | Therapeutic: 100-250 ng/mL |
+| Blood Alcohol | 0.09% | — |
+| Gastric Contents | No pills/capsules detected | — |
 
-**Additional Findings:**
-- Blood Alcohol Concentration: 0.09%
-- Whiskey congeners detected (consistent with single malt Scotch)
+#### CRITICAL FINDING
+
+**No defensive wounds observed on hands, arms, or body.**
+
+This is highly unusual in strangulation cases where the victim typically struggles.
 
 #### TIME OF DEATH ESTIMATION
 
-**Based on:**
-- Liver temperature at 06:15 discovery: 31.2°C
-- Ambient room temperature: 22°C
-- Rigor mortis: Early stage, jaw and neck
-- Livor mortis: Fixed, posterior distribution
+| Factor | Finding | Estimate |
+|--------|---------|----------|
+| Liver temperature | 31.2°C at 06:15 discovery | — |
+| Ambient temperature | 22°C | — |
+| Rigor mortis | Early stage, jaw and neck | 3-4 hours |
+| Livor mortis | Fixed, posterior | >4 hours |
+| **Estimated TOD** | — | **2:00-2:15 AM** |
 
-**Estimated Time of Death:** 01:50 — 02:20 AM
-**Most Probable:** Approximately 02:10 AM (±15 minutes)
-
-#### PHARMACOLOGICAL NOTE
-
-Aconitine is a delayed-action neurotoxin. Based on standard pharmacokinetics:
-
-- Onset of symptoms: 10-20 minutes post-ingestion
-- Progression to death: 20-40 minutes from ingestion
-
-If death occurred at approximately 02:10 AM, poison was likely ingested between 01:30 AM and 01:50 AM.
-
-*Signed: Dr. Sneha Kulkarni*
-*Date: December 14, 2024*
+*Dr. Sneha Kulkarni*
+*Senior Medical Officer, Forensic Medicine*
 
 ---
 
 ### DOCUMENT 2-B: Crime Scene Evidence Inventory
 
-**CRIME SCENE EVIDENCE INVENTORY**
+**ALIBAUG POLICE STATION**
+**EVIDENCE INVENTORY — PRIVATE STUDY**
 
 | Field | Detail |
 |-------|--------|
-| Location | Private Study, Malhotra Estate, Alibaug |
-| Date | December 14, 2024 |
-| Collected by | Forensic Team, Alibaug Police Station |
+| Location | Private Study, Ground Floor, Malhotra Estate |
+| Date Collected | December 14, 2024, 07:00 AM onwards |
+| Collecting Officer | SI Pradeep Sawant |
 
-| Item | Description | Location | Analysis |
-|------|-------------|----------|----------|
-| EV-001 | Crystal whiskey glass, Empty, Waterford pattern, Fingerprints recovered | On desk, near victim's right hand | Whiskey residue + Aconitine detected |
-| EV-002 | Crystal whiskey glass, Approximately 1/4 full, Waterford pattern (matching), Fingerprints recovered, Lipstick smudge on rim | Whiskey cabinet, bottom shelf | Whiskey residue only |
-| EV-003 | Whiskey bottle, Macallan 25 Year, Approximately 200ml remaining | Whiskey cabinet, Open | No contamination |
-| EV-004 | Lipstick sample | Lifted from EV-002 | Deep burgundy |
-| EV-005 | Handwritten note (torn), Partial text visible | Wastebasket | Partial text |
-| EV-006 | Mobile phone, iPhone 15 Pro Max | Desk drawer (victim's) | Locked, PIN req. |
-| EV-007 | Mobile phone, Nokia 105 | Floor, behind desk, near wall | Burner phone |
-| EV-008 | Earring (single), Pearl stud, Mikimoto hallmark | Under desk, south side | Pearl stud |
+#### EVIDENCE LOG
 
----
+| Code | Item | Location Found | Initial Observations |
+|------|------|----------------|----------------------|
+| EV-001 | Crystal whiskey glass | Desk surface, near right hand | Dried residue, single set of fingerprints |
+| EV-002 | Champagne flute | Inside whiskey cabinet | Lipstick mark (burgundy), multiple prints |
+| EV-003 | Macallan 25 bottle | Whiskey cabinet, open | ~100ml remaining, seal broken |
+| EV-004 | Mobile phone (Nokia 105) | Desk drawer, hidden | Burner phone, SIM installed |
+| EV-005 | Pearl earring (single) | Under desk, near chair leg | Mikimoto brand, 8mm Akoya pearl |
+| EV-006 | Torn paper fragment | Wastebasket | Partial text visible |
+| **EV-007** | **Silk curtain cord** | **MISSING** | One of pair; other cord intact |
+| EV-008 | Fiber samples | Victim's neck | Silk fibers consistent with curtain material |
 
-### DOCUMENT 2-C: Fingerprint Analysis — Glass EV-001
+#### FINGERPRINT PRELIMINARY
 
-**FINGERPRINT ANALYSIS REPORT — EV-001**
+| Evidence | Prints Found |
+|----------|--------------|
+| EV-001 (Whiskey glass) | Single set — **victim only** |
+| EV-002 (Champagne flute) | Multiple sets — victim, **Rohit Malhotra**, one unidentified |
+| EV-003 (Bottle) | Multiple partial — analysis pending |
 
-**Item:** Crystal whiskey glass (poisoned, found on desk)
-
-**Fingerprints Recovered:** 1 set
-
-| Print | Location | Quality | Match |
-|-------|----------|---------|-------|
-| Print 1 | Bowl of glass, grip pattern | Clear, complete whorl pattern | ARJUN MALHOTRA (Victim) — **CONFIRMED** |
-
-**Additional prints:** None recovered
-
----
-
-### DOCUMENT 2-D: Fingerprint Analysis — Glass EV-002
-
-**FINGERPRINT ANALYSIS REPORT — EV-002**
-
-**Item:** Crystal whiskey glass (clean, found in cabinet)
-
-**Fingerprints Recovered:** 3 sets
-
-| Print | Location | Quality | Match |
-|-------|----------|---------|-------|
-| Print 1 | Bowl of glass | Clear | ARJUN MALHOTRA (Victim) — **CONFIRMED** |
-| Print 2 | Stem of glass | Partial, smudged | ROHIT MALHOTRA — **CONFIRMED** |
-| Print 3 | Rim of glass (near lipstick) | Clear, index finger | **NO MATCH IN DATABASE** |
-
-> **Note:** All party guests were fingerprinted for comparison.
-> Minister Thapar declined fingerprinting citing official protocols.
+*Inventory certified by: SI Pradeep Sawant*
 
 ---
 ---
@@ -288,25 +264,23 @@ If death occurred at approximately 02:10 AM, poison was likely ingested between 
 
 | Field | Detail |
 |-------|--------|
-| Name | Kavya Sharma |
-| Relation to Deceased | Fiancée |
-| Statement Date | December 14, 2024, 11:00 AM |
-| Recorded by | SI Pradeep Sawant |
+| Witness | Kavya Sharma, Fiancée of deceased |
+| Date | December 14, 2024, 11:00 AM |
+| Statement Taken By | Inspector Mehra |
 
----
+**Statement:**
 
-I arrived at the estate around 11:35 PM. Arjun and I came together from the gala but in separate cars — he had some calls to make.
+"The party started around 8 PM. It was supposed to be a celebration — our engagement announcement. Everything was fine until around midnight.
 
-The party was in the drawing room and terrace. Everyone was drinking and talking. I had champagne. Arjun was drinking whiskey as usual.
+I noticed Arjun speaking privately with Priya on the terrace around 12:30 AM. They seemed to be arguing. I confronted him about it later.
 
-Around midnight, I saw Arjun talking with Priya near the terrace bar. They were standing very close, almost whispering. I confronted Arjun about it later. He said it was about the divorce settlement. He said she was asking for more money.
+The last time I saw Arjun alive was around 1:00 AM. He said he had some work to finish in the study and would join me upstairs soon.
 
-I left around 1:20 AM. I was upset from our argument. When I left, Rohit was still in the drawing room. He was on his phone. Anil was somewhere near the back — I think he said he was getting water. Arjun had already gone to his study by then.
+I went to bed around 1:20 AM. I was upset with him. I took a sleeping pill and didn't wake until the housekeeper screamed.
 
-I did not go to the study that night. I did not see Arjun after around 1:00 AM.
+I didn't hear anything unusual during the night."
 
-*Statement read and confirmed.*
-*Signature: [Signed]*
+*Signed: Kavya Sharma*
 
 ---
 
@@ -317,127 +291,75 @@ I did not go to the study that night. I did not see Arjun after around 1:00 AM.
 
 | Field | Detail |
 |-------|--------|
-| Name | Rohit Malhotra |
-| Relation to Deceased | Son |
-| Statement Date | December 14, 2024, 12:30 PM |
-| Recorded by | SI Pradeep Sawant |
+| Witness | Rohit Malhotra, Son of deceased |
+| Date | December 14, 2024, 11:30 AM |
+| Statement Taken By | Inspector Mehra |
+
+**Statement:**
+
+"I arrived at the party around 11:30 PM, after the gala. My father and I haven't been on good terms recently, but I came out of respect for the family.
+
+I spent most of the evening avoiding my father. We had some business disagreements. I spoke briefly with Deepika, Anil, and some of the other guests.
+
+Around 1:50 AM, I went to the study to say goodbye to my father before leaving. He was sitting at his desk, seemed drowsy — I assumed he'd had too much to drink. We exchanged a few words, nothing significant.
+
+I left the estate around 2:10 AM. I was the last guest to leave.
+
+I had nothing to do with my father's death."
+
+*Signed: Rohit Malhotra*
 
 ---
 
-I was the last guest to leave the party. I left at approximately 1:45 AM.
-
-Before leaving, I went to say goodbye to my father in his study. This was around 1:40 AM. He was sitting at his desk. He was drinking whiskey — his usual nightcap.
-
-We talked for a few minutes. Things have been difficult between us since he changed his will last month. But I wanted to leave on good terms. He seemed fine when I left. Normal.
-
-When I entered the study, I noticed there were two glasses on the desk. My father was drinking from one. The other was just sitting there. I assumed he had been meeting with someone before I came in.
-
-I did not see who he was meeting with. I did not touch anything in the study except to shake his hand when I said goodbye.
-
-*[Subject became emotional at this point. Interview paused briefly.]*
-
-*Statement read and confirmed.*
-*Signature: [Signed]*
-
----
-
-### DOCUMENT 3-C: Witness Statement — Priya Malhotra
+### DOCUMENT 3-C: Staff Interview — Housekeeper
 
 **ALIBAUG POLICE STATION**
 **WITNESS STATEMENT**
 
 | Field | Detail |
 |-------|--------|
-| Name | Priya Malhotra |
-| Relation to Deceased | Ex-wife |
-| Statement Date | December 14, 2024, 2:00 PM |
-| Recorded by | Inspector Mehra |
+| Witness | Meenakshi Rao, Housekeeper |
+| Date | December 14, 2024, 08:00 AM |
+| Statement Taken By | SI Pradeep Sawant |
 
----
+**Statement:**
 
-I came to the party despite our divorce because it was a business event. Malhotra Industries was my family too for 25 years.
+"I have worked for Malhotra Sahib for 8 years. I found his body at 6:15 this morning when I came to clean the study.
 
-I left at 12:45 AM. My driver was waiting. I had a brief conversation with Arjun on the terrace earlier — around midnight — about our settlement. It was not a pleasant conversation. He was being unreasonable as usual.
+He was slumped in his chair at the desk. His face looked purple and there were marks on his neck. I screamed and called for help immediately.
 
-I needed some air after our talk, so I walked around the garden for a few minutes before going to my car.
+Nothing seemed disturbed in the room, but I noticed one of the curtain cords was missing from the window. The silk ones, you know, with the tassels. Only one was there.
 
-I did NOT go to the study. I did NOT see Arjun after our conversation on the terrace around midnight. I went directly from the terrace to the main entrance when I left.
+I also noticed a strong smell of jasmine perfume in the room. Sahib doesn't wear perfume. That fragrance — I know it. It's Ms. Deepika's perfume. She always wears that brand.
 
-I have nothing more to add.
+Rohit Sahib was the last person I saw leave. It was very late — past 2 AM."
 
-*Statement read and confirmed.*
-*Signature: [Signed]*
+*Statement recorded by: SI Pradeep Sawant*
 
 ---
 
 ### DOCUMENT 3-D: Staff Interview — Bartender
 
-**STAFF INTERVIEW**
+**ALIBAUG POLICE STATION**
+**WITNESS STATEMENT**
 
 | Field | Detail |
 |-------|--------|
-| Name | Suresh Patil |
-| Position | Contract Bartender (terrace bar) |
-| Interview Date | December 14, 2024, 4:00 PM |
-| Interviewed by | Inspector Mehra |
+| Witness | Suresh Patil, Bartender (hired for event) |
+| Date | December 14, 2024, 09:00 AM |
+| Statement Taken By | SI Pradeep Sawant |
 
----
+**Statement:**
 
-I was hired for the evening to manage the terrace bar. I served drinks from approximately 11:30 PM until 12:30 AM when I began cleaning up. I left the property at 1:00 AM.
+"I was working the terrace bar cart from 8 PM until about 1:30 AM.
 
-The guests were drinking champagne, wine, and cocktails at the bar. Mr. Malhotra was drinking whiskey but he took that from his private collection inside, not from my bar.
+Around 12:38 AM, I saw someone near the bar cart when I returned from getting more ice. I think someone moved some glasses around. I can't be certain who it was — the lighting was dim.
 
-One thing I remember: Around 12:35 or 12:40, I saw someone move glasses at the bar cart. I was cleaning and only saw from the corner of my eye. It looked like they picked up one glass and put down another. I thought someone had picked up the wrong drink. It happens at parties.
+I also noticed Dr. Menon left very early, around 10:30 PM. He seemed uncomfortable, kept checking his phone.
 
-I could not see clearly who it was. The terrace had dim lighting — only fairy lights. I think it was a woman based on the silhouette. She was wearing something dark colored.
+Nisha Madam and her husband also left early — before midnight I think. They didn't seem happy."
 
-I did not think anything of it at the time.
-
----
-
-### DOCUMENT 3-E: Staff Interview — Housekeeper
-
-**STAFF INTERVIEW**
-
-| Field | Detail |
-|-------|--------|
-| Name | Meenakshi Rao |
-| Position | Housekeeper (employed 8 years) |
-| Interview Date | December 14, 2024, 8:30 AM |
-| Interviewed by | SI Pradeep Sawant |
-
----
-
-I found Sir's body at 6:15 AM when I came to open the house.
-
-The study door was closed but not locked. When I opened it, Sir was slumped in his chair at the desk. His eyes were open. I knew immediately something was wrong. I called the police.
-
-There was a glass on the desk. The whiskey cabinet was open.
-
-I noticed there was perfume in the room. Strong perfume. Jasmine and something sweet. Not Sir's cologne — he wore Creed. This was a woman's perfume.
-
-I did not touch anything except to check if Sir was breathing.
-
----
-
-### DOCUMENT 3-F: Staff Interview — Driver
-
-**STAFF INTERVIEW**
-
-| Field | Detail |
-|-------|--------|
-| Name | Krishnan M. |
-| Position | Driver (employed by Priya Malhotra) |
-| Interview Date | December 14, 2024, 5:00 PM |
-| Interviewed by | Inspector Mehra |
-
----
-
-I drove Madam Priya to the estate and waited in the car from 11:00 PM onwards.
-
-Madam called me at 1:15 AM and said she would be out in 10 minutes. She came out at approximately 1:22 AM. She seemed upset but did not say anything. We drove to the ferry terminal and returned to Mumbai.
-
-I did not see anyone else leave or enter while I was waiting.
+*Statement recorded by: SI Pradeep Sawant*
 
 ---
 ---
@@ -449,137 +371,120 @@ I did not see anyone else leave or enter while I was waiting.
 
 ---
 
-### DOCUMENT 4-A: Crime Scene Diagram — Private Study
+### DOCUMENT 4-A: Crime Scene Diagram
 
-**PRIVATE STUDY — CRIME SCENE DIAGRAM**
-*(View from entrance)*
+**MALHOTRA ESTATE — PRIVATE STUDY**
+**CRIME SCENE DOCUMENTATION**
 
 ```text
-    ┌────────────────────────────────────────────────────────────────┐
-    │                                                                │
-    │                    WINDOW (curtains drawn)                     │
-    │                                                                │
-    │    ┌──────────────────┐              ┌──────────────────┐      │
-    │    │                  │              │                  │      │
-    │    │   BOOKSHELF      │              │   WHISKEY        │      │
-    │    │                  │              │   CABINET        │      │
-    │    │                  │              │                  │      │
-    │    │                  │              │  ┌────────────┐  │      │
-    │    │                  │              │  │  EV-002    │  │      │
-    │    │                  │              │  │  Glass     │  │      │
-    │    │                  │              │  │  (clean)   │  │      │
-    │    │                  │              │  └────────────┘  │      │
-    │    │                  │              │                  │      │
-    │    │                  │              │  EV-003          │      │
-    │    │                  │              │  Macallan 25     │      │
-    │    │                  │              │  (open)          │      │
-    │    │                  │              │                  │      │
-    │    └──────────────────┘              └──────────────────┘      │
-    │                                                                │
-    │                                                                │
-    │         ┌─────────────────────────────────────────┐            │
-    │         │                                         │            │
-    │         │              DESK                       │            │
-    │         │                                         │            │
-    │         │   ┌─────────┐        ┌───────────┐      │            │
-    │         │   │ EV-001  │        │  EV-006   │      │            │
-    │         │   │ Glass   │        │  Phone    │      │            │
-    │         │   │(poison) │        │ (drawer)  │      │            │
-    │         │   └─────────┘        └───────────┘      │            │
-    │         │                                         │            │
-    │         │              BODY                       │            │
-    │         │           (slumped)                     │            │
-    │         │                                         │            │
-    │         └─────────────────────────────────────────┘            │
-    │                        │                                       │
-    │                   ┌────┴────┐                                  │
-    │                   │  CHAIR  │                                  │
-    │                   │         │                                  │
-    │                   └─────────┘                                  │
-    │                        │                                       │
-    │              ┌─────────┴─────────┐                             │
-    │              │    EV-008         │                             │
-    │              │ Pearl earring     │                             │
-    │              └───────────────────┘                             │
-    │                                                                │
-    │                                        ┌───────────────────┐   │
-    │                                        │      SAFE         │   │
-    │    ┌──────────────┐                    │   (wall-mounted)  │   │
-    │    │  EV-005      │                    │   Status: LOCKED  │   │
-    │    │  Torn note   │                    └───────────────────┘   │
-    │    │ (wastebasket)│                                            │
-    │    └──────────────┘       ┌────────────────┐                   │
-    │                           │    EV-007      │                   │
-    │                           │  Burner phone  │                   │
-    │                           │  (on floor)    │                   │
-    │                           └────────────────┘                   │
-    │                                                                │
-    │════════════════════════════════════════════════════════════    │
-    │                         DOOR TO HALLWAY                        │
-    │════════════════════════════════════════════════════════════    │
-    │                                                                │
-    └────────────────────────────────────────────────────────────────┘
+                    PRIVATE STUDY - TOP VIEW
+                    ═══════════════════════
+
+    WINDOW WITH CURTAINS                    WINDOW WITH CURTAINS
+    [ONE CORD MISSING]                      [BOTH CORDS PRESENT]
+    ┌────────────────────┐                  ┌────────────────────┐
+    │                    │                  │                    │
+    │                    │                  │                    │
+    └────────────────────┘                  └────────────────────┘
+
+
+                    ┌─────────────────────────┐
+                    │                         │
+                    │      WHISKEY CABINET    │
+                    │                         │
+                    │  EV-003 (Bottle)        │
+                    │  EV-002 (Champagne      │
+                    │         flute)          │
+                    │                         │
+                    └─────────────────────────┘
+
+
+    ┌─────────┐                                        ┌─────────┐
+    │         │                                        │         │
+    │  SAFE   │                                        │ FILING  │
+    │         │                                        │ CABINET │
+    └─────────┘                                        └─────────┘
+
+
+                         ┌──────────────────┐
+                         │                  │
+                         │      DESK        │
+                         │                  │
+                         │  EV-001 (Glass)  │
+                         │  EV-006 (Note)   │
+                         │                  │
+                         │    ╔═══════╗     │
+                         │    ║ BODY  ║     │
+                         │    ║SLUMPED║     │
+                         │    ╚═══════╝     │
+                         │      CHAIR       │
+                         └──────────────────┘
+
+                              EV-005 (Earring found here)
+                                    ↓
+
+    ┌────────────────────────────────────────────────────────────┐
+    │                         DOOR                               │
+    │                    (TO HALLWAY)                            │
+    └────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### DOCUMENT 4-B: Glass Analysis Summary
+### DOCUMENT 4-B: Missing Curtain Cord Analysis
 
-**GLASS ANALYSIS SUMMARY**
-
-| Property | EV-001 (Found on desk) | EV-002 (Found in cabinet) |
-|----------|------------------------|---------------------------|
-| Contents | Empty | 1/4 full whiskey |
-| Residue | Whiskey, Aconitine DETECTED | Whiskey, No toxins |
-| Fingerprints | Arjun Malhotra | Arjun Malhotra, Rohit Malhotra, Unidentified |
-| Lipstick | None | Deep burgundy (on rim) |
-| Pattern | Waterford Crystal (matching set) | Waterford Crystal (matching set) |
-
----
-
-### DOCUMENT 4-C: Lipstick Comparison Report
-
-**FORENSIC COSMETICS ANALYSIS**
+**CRIME SCENE INVESTIGATION — SUPPLEMENTARY NOTE**
 
 | Field | Detail |
 |-------|--------|
-| Sample | Lipstick smudge from EV-002 (glass rim) |
-| Color Classification | Deep burgundy / wine |
+| Item | Silk curtain tieback cord |
+| Material | Braided silk with tassel ends |
+| Color | Deep burgundy |
+| Length | Approximately 90 cm |
+| Width | 1.5 cm (matches ligature mark width) |
 
-#### COMPARISON WITH PARTY ATTENDEES (from photographs)
+**Observations:**
 
-| Person | Lipstick Observed | Visual Match |
-|--------|-------------------|--------------|
-| Priya Malhotra | Nude / Light pink | **NO** |
-| Kavya Sharma | Coral red / Bright red | **NO** |
-| Deepika Joshi | Deep burgundy / Wine | **POSSIBLE** |
+- Left window: ONE cord missing
+- Right window: Both cords present
+- Missing cord not found in study, adjacent rooms, or immediate grounds
 
-*Note: Chemical analysis pending for definitive match.*
+**Comparison with Autopsy:**
+
+| Ligature Mark | Missing Cord |
+|---------------|--------------|
+| 1.5 cm width | 1.5 cm width |
+| Smooth, no pattern | Braided silk (smooth surface) |
+| Fabric fibers present | Silk material |
 
 ---
 
-### DOCUMENT 4-D: Torn Note Analysis (EV-005)
+### DOCUMENT 4-C: Glass Analysis
 
-**DOCUMENT ANALYSIS — EV-005**
+**MAHARASHTRA STATE FORENSIC SCIENCE LABORATORY**
+**EVIDENCE ANALYSIS — GLASSWARE**
 
-| Field | Detail |
-|-------|--------|
-| Item | Handwritten note, torn |
-| Found | Wastebasket in private study |
-| Condition | Torn into 4 pieces, partially reconstructed |
+#### EV-001: Crystal Whiskey Glass
 
-#### VISIBLE TEXT (reconstructed):
+| Test | Result |
+|------|--------|
+| Contents | Dried whiskey residue |
+| Fingerprints | Single set — Arjun Malhotra (victim) |
+| Lipstick | None |
+| Drug residue | **Not detected** (detection limit applies) |
+| Position | Desk surface, near victim's right hand |
 
-> "...cannot go through with this..."
->
-> "...he knows about the funds..."
->
-> "...meet me before it's too late..."
+#### EV-002: Crystal Champagne Flute
 
-#### HANDWRITING ANALYSIS:
-- Blue ink, standard ballpoint pen
-- Handwriting comparison pending
-- Paper type: Standard A4, no letterhead
+| Test | Result |
+|------|--------|
+| Contents | Dried champagne residue |
+| Fingerprints | Three sets — Victim, Rohit Malhotra, one unidentified |
+| Lipstick | Present — Deep burgundy color |
+| Drug residue | Not detected |
+| Position | Inside whiskey cabinet (unusual location for champagne glass) |
+
+> **Question:** Why was a champagne glass placed inside the whiskey cabinet?
 
 ---
 ---
@@ -591,177 +496,130 @@ I did not see anyone else leave or enter while I was waiting.
 
 ---
 
-### DOCUMENT 5-A: Will Summary — Changes
+### DOCUMENT 5-A: Will Summary — Comparison
 
-**ADVOCATE SHARMA & ASSOCIATES**
-**WILL COMPARISON — CONFIDENTIAL**
+**SHARMA & ASSOCIATES — CONFIDENTIAL MEMORANDUM**
 
-| Field | Detail |
-|-------|--------|
-| Client | Estate of Arjun Malhotra |
-| Prepared for | Investigating Authority |
+#### ORIGINAL WILL (Executed September 2023)
 
-#### PREVIOUS WILL (Dated: March 15, 2023)
+| Beneficiary | Equity Share | Insurance Payout |
+|-------------|--------------|------------------|
+| Rohit Malhotra | 60% | ₹500 Crore |
+| Nisha Malhotra | 30% | ₹200 Crore |
+| Priya Malhotra | — | ₹500 Crore (settlement) |
+| Charitable Trust | 10% | — |
 
-**Total Estate Value:** Approximately ₹47,000 Crore
+#### REVISED WILL (Executed December 1, 2024)
 
-| Beneficiary | Allocation |
-|-------------|------------|
-| Rohit Malhotra (Son) | 60% of company shares, Chairmanship upon death |
-| Priya Malhotra (Ex-wife) | ₹500 Cr settlement (subject to ongoing dispute) |
-| Charitable Trust | 25% of shares |
-| Staff & Others | 5% divided |
-| Kavya Sharma | Not mentioned |
+| Beneficiary | Equity Share | Insurance Payout | Change |
+|-------------|--------------|------------------|--------|
+| Rohit Malhotra | **10%** | ₹50 Crore | **−50%**, **−₹450 Cr** |
+| Nisha Malhotra | 25% | ₹150 Crore | −5%, −₹50 Cr |
+| **Kavya Sharma** | **40%** | ₹300 Crore | **NEW** |
+| **Deepika Joshi** | **5%** (+₹50 Cr cash) | ₹150 Crore | **NEW** |
+| **Sanjay Kapoor** | **5%** | ₹50 Crore | **NEW** |
+| Priya Malhotra | — | ₹200 Crore | Reduced by ₹300 Cr |
+| Charitable Trust | 15% | — | +5% |
 
-#### AMENDED WILL (Dated: November 28, 2024 — 16 days before death)
+#### ROHIT MALHOTRA'S TOTAL LOSS
 
-| Beneficiary | Allocation |
-|-------------|------------|
-| Rohit Malhotra (Son) | 10% of shares (non-voting) |
-| Kavya Sharma (Fiancée) | 40% of shares |
-| Deepika Joshi | 5% of shares + ₹50 Cr cash |
-| Charitable Trust | 35% of shares |
-| Priya Malhotra (Ex-wife) | ₹200 Cr settlement (reduced) |
-| "Unborn child, if any" | 10% held in trust |
+| Category | Old Will | New Will | Loss |
+|----------|----------|----------|------|
+| Equity Share | 60% (~₹28,200 Cr) | 10% (~₹4,700 Cr) | **₹23,500 Cr** |
+| Insurance | ₹500 Cr | ₹50 Cr | **₹450 Cr** |
+| **TOTAL** | — | — | **₹23,950 Cr** |
 
-#### NOTABLE CHANGES:
-
-- Rohit Malhotra: Reduced from 60% to 10% (non-voting)
-- Kavya Sharma: Added as beneficiary with 40%
-- Deepika Joshi: Added as beneficiary
-- "Unborn child" clause added with 10% trust
-- Priya Malhotra: Settlement reduced from ₹500 Cr to ₹200 Cr
+> **Note:** Rohit was formally notified of will changes on **December 1, 2024** — 13 days before the murder.
 
 ---
 
-### DOCUMENT 5-B: SEBI Investigation Note
+### DOCUMENT 5-B: Insurance Policy Extract
 
-**SECURITIES AND EXCHANGE BOARD OF INDIA**
-**INVESTIGATION DIVISION**
-
-| Field | Detail |
-|-------|--------|
-| Subject | Malhotra Industries Ltd. — Preliminary Inquiry |
-| Reference | SEBI/INV/2024/MIL/1847 |
-| Status | ONGOING |
-
-#### MATTER 1: CFO FINANCIAL IRREGULARITIES
+**ICICI PRUDENTIAL LIFE INSURANCE**
+**POLICY SUMMARY — CONFIDENTIAL**
 
 | Field | Detail |
 |-------|--------|
-| Subject | Anil Verma (CFO) |
-| Allegation | Unauthorized transfers to shell companies |
-| Amount | Approximately ₹340 Crore (2022-2024) |
-| Mechanism | Disguised as consulting fees and technology licensing |
-| Destination | Singapore-based entities linked to Verma family |
-| Discovery Date | December 8, 2024 (internal audit) |
-| Action Pending | Termination letter drafted, not served |
+| Policy Number | ICICI-LI-2019-7845621 |
+| Insured | Arjun Vikram Malhotra |
+| Sum Assured | ₹900 Crore |
+| Policy Type | Term Life with Critical Illness Rider |
 
-#### MATTER 2: DEFENSE CONTRACT IRREGULARITIES
+**Beneficiary Distribution (As of December 1, 2024):**
 
-| Field | Detail |
-|-------|--------|
-| Subject | ₹8,000 Cr defense contract (2023) |
-| Allegation | Improper payments to government officials |
-| Amount | Allegedly ₹400 Crore |
-| Recipient | Under investigation |
-| Source | Anonymous whistleblower complaint (October 2024) |
-| Evidence | Wire transfer records, bank entries under review |
+| Beneficiary | Percentage | Amount |
+|-------------|------------|--------|
+| Kavya Sharma | 33.3% | ₹300 Cr |
+| Priya Malhotra | 22.2% | ₹200 Cr |
+| Deepika Joshi | 16.7% | ₹150 Cr |
+| Nisha Malhotra | 16.7% | ₹150 Cr |
+| Rohit Malhotra | 5.5% | ₹50 Cr |
+| Sanjay Kapoor | 5.5% | ₹50 Cr |
+
+**CRITICAL CLAUSE — Section 12.4:**
+
+> "In the event a beneficiary is convicted of causing or contributing to the death of the insured, said beneficiary shall **forfeit all claims** to benefits under this policy. Forfeited amounts shall be redistributed proportionally among remaining eligible beneficiaries."
 
 ---
 
-### DOCUMENT 5-C: Saxena Steel Merger Summary
+### DOCUMENT 5-C: Anonymous Threat Email
 
-**MERGER TRANSACTION SUMMARY**
+**EXTRACTED FROM VICTIM'S EMAIL SERVER**
 
-| Field | Detail |
-|-------|--------|
-| Parties | Malhotra Industries Ltd. + Saxena Steel Ltd. |
-| Transaction Value | ₹12,000 Crore |
-| Status | Negotiation (as of December 13, 2024) |
-
-#### ORIGINAL TERMS (Agreed October 2024):
-
-| Party | Ownership |
-|-------|-----------|
-| Saxena Family | 55% of merged entity |
-| Malhotra Industries | 45% of merged entity |
-
-#### REVISED TERMS (Proposed December 12, 2024):
-
-| Party | Ownership |
-|-------|-----------|
-| Saxena Family | 35% ownership |
-| Malhotra Industries | 65% ownership |
-
-**Impact:** Vikram Saxena would lose controlling interest in his family's 60-year-old steel business.
-
-> **Note:** Heated discussion observed between Arjun Malhotra and Vikram Saxena at the gala on December 13.
-
----
-
-### DOCUMENT 5-D: Anonymous Email (Recovered)
-
-| Field | Detail |
-|-------|--------|
-| FROM | truth.will.out.2024@protonmail.com |
-| TO | arjun.malhotra@malhotraindustries.com |
-| DATE | December 10, 2024, 11:47 PM |
-| SUBJECT | You have until the 15th |
-
----
+```text
+From: whistleblower.truth@protonmail.com
+To: arjun.malhotra@malhotra-industries.com
+Date: December 10, 2024, 9:47 PM
+Subject: Deadline
 
 Mr. Malhotra,
 
-I have complete documentation of the Thapar payments.
+You have until December 15 to make things right.
 
-Wire transfers. Bank statements. The Dubai meeting recordings.
+Confess to the board, or I will release everything.
 
-You have until December 15 to do the right thing. If you don't go to the authorities, I will.
+The ₹340 crore. The Singapore accounts. The defense contracts.
 
-But I'm giving you a chance to save yourself. The Minister doesn't deserve protection. You know what he's done.
+Your choice.
 
-Choose wisely.
+— Someone who knows
+```
 
-— A friend who wants to see justice
-
----
-
-### DOCUMENT 5-E: Witness Statement — Anil Verma
-
-**ALIBAUG POLICE STATION**
-**WITNESS STATEMENT**
-
-| Field | Detail |
-|-------|--------|
-| Name | Anil Verma |
-| Relation to Deceased | Employee (CFO) |
-| Statement Date | December 14, 2024, 3:00 PM |
-| Recorded by | Inspector Mehra |
+> **Note:** Email traced to anonymous server. Sender identity unknown.
 
 ---
 
-I arrived at the party at 11:45 PM and left at 1:30 AM.
+### DOCUMENT 5-D: Motive Summary — All 22 Suspects
 
-During the party, I spent most of my time in the drawing room talking with other guests. I had a few drinks.
+**INVESTIGATION ANALYSIS — FINANCIAL MOTIVES**
 
-Before leaving, I went to the service kitchen to get some water. I had consumed too much alcohol and wanted to sober up before driving.
+#### TIER 1 (Primary Suspects)
 
-I did not see Mr. Malhotra after approximately 1:00 AM when he excused himself and went to his study.
+| Suspect | Financial Impact | Motive Strength |
+|---------|------------------|-----------------|
+| Rohit Malhotra | Lost ₹23,950 Cr | **EXTREME** |
+| Priya Malhotra | Lost ₹300 Cr settlement | HIGH |
+| Kavya Sharma | Gained ₹300 Cr + 40% | BENEFICIARY |
+| Deepika Joshi | Gained ₹200 Cr + 5% | BENEFICIARY |
+| Anil Verma | ₹340 Cr embezzlement exposed | HIGH |
+| Vikram Saxena | Lost merger control | HIGH |
+| Min. Thapar | ₹400 Cr scandal | HIGH |
 
-The briefcase I was carrying contained financial documents for the Saxena merger. Mr. Malhotra had asked me to bring them to discuss over the weekend.
+#### TIER 2 (Secondary Suspects)
 
-I did not enter the study that night.
+| Suspect | Financial Impact | Motive Strength |
+|---------|------------------|-----------------|
+| Nisha Malhotra | Lost ₹50 Cr; competition with Rohit | MODERATE |
+| Sanjay Kapoor | Gained ₹50 Cr + 5%; excluded from business | MODERATE |
+| Karan Malhotra | Passed over for COO | MODERATE |
+| Dr. Raghav Menon | Potential malpractice | MODERATE |
+| Adv. Sunil Sharma | Will access; knowledge | LOW |
+| Col. Prakash Singh | Knows secrets; blackmail | MODERATE |
 
-*Statement read and confirmed.*
-*Signature: [Signed]*
-
----
----
 ---
 
 ## END OF PHASE 1 EVIDENCE
 
-**Begin discussion with your team**
+**Proceed to group discussion. Share your findings.**
 
-**Phase 2 evidence to follow**
+**Timer: 10 minutes for sharing before Phase 2 begins.**

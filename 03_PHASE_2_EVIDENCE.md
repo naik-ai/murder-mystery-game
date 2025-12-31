@@ -8,7 +8,8 @@
 
 **Duration: 30 Minutes**
 
-### Instructions:
+### Instructions
+
 - Each detective receives new evidence for their specialty
 - Continue sharing and building theories together
 - Pay close attention to inconsistencies
@@ -49,8 +50,8 @@
 
 **Cause:** Localized power interruption to camera unit
 
-The camera experienced a physical power cut at its junction box.
-This was **NOT:**
+The camera experienced a physical power cut at its junction box. This was **NOT:**
+
 - A software malfunction
 - A network connectivity issue
 - A scheduled maintenance event
@@ -62,13 +63,6 @@ The power was **physically interrupted** at the source.
 The junction box for SC-1 is located in the **SERVICE KITCHEN**.
 
 Access requires no specialized tools or knowledge. The junction box is wall-mounted with a simple access panel.
-
-#### STAFF ACCESS LOG (Service Kitchen)
-
-Per duty roster, no authorized staff were assigned to service kitchen between 00:30 and 01:30 on December 14, 2024.
-
-- Cook (Ramesh): Off duty from 00:00
-- Kitchen Assistant: Off duty from 23:30
 
 ---
 
@@ -83,17 +77,18 @@ Per duty roster, no authorized staff were assigned to service kitchen between 00
 
 | Time | Visitor | Purpose | Notes |
 |------|---------|---------|-------|
-| 15:45 | Delivery — Premium Spirits & Gifts | Whiskey bottle | Received by: Meenakshi (Housekeeper) |
-| 19:32 | Rohit Malhotra | "To collect documents from study" | Departed: 21:15. Note: Mr. Arjun Malhotra in Mumbai |
+| 15:45 | Delivery — Premium Spirits & Gifts | Whiskey bottle (Macallan 25) | Received by: Meenakshi (Housekeeper) |
+| **19:32** | **Rohit Malhotra** | **"To collect documents from study"** | Departed: **21:15**. Note: Mr. Arjun Malhotra in Mumbai |
+
+> **Critical:** Rohit was alone in the study for nearly 2 hours on December 12, after the bottle was delivered but before the party.
 
 #### DECEMBER 13, 2024
 
 | Time | Visitor | Purpose | Notes |
 |------|---------|---------|-------|
 | 09:15 | Deepika Joshi | "Work matters — schedule coordination" | Departed: 11:30 |
-| 14:22 | Priya Malhotra | "To drop off legal documents" | Departed: 15:45. Note: Argument with staff about access to bedroom |
+| 14:22 | Priya Malhotra | "To drop off legal documents" | Departed: 15:45. Note: Argument with staff |
 | 18:00 | Arjun Malhotra | Returns from Mumbai | Accompanied by: Kavya Sharma |
-| 19:00 | Event preparation | Catering, bartender, additional staff arrive | — |
 
 ---
 ---
@@ -105,109 +100,92 @@ Per duty roster, no authorized staff were assigned to service kitchen between 00
 
 ---
 
-### DOCUMENT 2-E: Poison Source Analysis
+### DOCUMENT 2-E: Fiber Analysis Report
 
 **MAHARASHTRA STATE FORENSIC SCIENCE LABORATORY**
-**POISON SOURCE INVESTIGATION**
+**TRACE EVIDENCE ANALYSIS**
 
 | Field | Detail |
 |-------|--------|
-| Toxin | Aconitine |
-| Case | MH/ALB/2024/1847 |
+| Case Number | MH/ALB/2024/1847 |
+| Evidence | EV-008 (Fiber samples from victim's neck) |
+| Analyst | Dr. Priya Desai, Trace Evidence Unit |
 
-#### ACONITINE CHARACTERISTICS
+#### FIBER CHARACTERISTICS
 
-| Property | Detail |
-|----------|--------|
-| Source | Aconitum species (Monkshood, Wolfsbane) |
-| Native Region | Himalayan belt, Northern India, Nepal, Tibet |
-| Form | Alkaloid extracted from root or leaves |
-| Availability | Not commercially available |
+| Property | Finding |
+|----------|---------|
+| Material | Silk (natural) |
+| Structure | Braided, multi-strand |
+| Color | Deep burgundy (Pantone 19-1536 TCX) |
+| Width | 1.5 cm consistent with ligature mark |
 
-**Acquisition Methods:**
-- Direct extraction from plant material
-- Research laboratory supply (restricted)
-- Traditional Ayurvedic/Tibetan medicine practitioners
-- Specialized botanical suppliers
+#### COMPARISON ANALYSIS
 
-#### SUSPECT BACKGROUND ANALYSIS
+| Sample | EV-008 (Neck fibers) | Reference (Study curtain cord) |
+|--------|---------------------|-------------------------------|
+| Material | Silk | Silk |
+| Color | Burgundy | Burgundy |
+| Structure | Braided | Braided |
+| **Match** | — | **POSITIVE** |
 
-| Suspect | Background | Assessment |
-|---------|------------|------------|
-| **Priya Malhotra** | Education: B.Sc. Botany, Delhi University (1986). Note: Family estate in Dehradun (Himalayan region) | Knowledge and regional access possible |
-| **Vikram Saxena** | Education: B.Tech Metallurgy, MBA. Background: Steel industry | No identified connection to botanical sources |
-| **Deepika Joshi** | Education: MBA, Symbiosis. Family Note: Father — Dr. R.K. Joshi, Ayurvedic practitioner, Practice location: Rishikesh | Family connection to traditional medicine |
-| **Rohit Malhotra** | Education: B.Com, MBA. Financial Note: **₹2,50,000 purchase from "Himalayan Botanicals Ltd."** Date: November 22, 2024. Description: "Herbal supplements" | **Recent purchase from botanical supplier noted** |
-| **Anil Verma** | Education: CA, Financial services background | No identified connection to botanical sources |
-| **Minister Thapar** | Background: Political career, administrative services. Resources: Access to government intelligence infrastructure | Indirect access through official channels possible |
+**Conclusion:** Fibers from victim's neck are consistent with the silk curtain cord from the study window.
 
 ---
 
-### DOCUMENT 2-F: Burner Phone Analysis
+### DOCUMENT 2-F: Sedative Source Investigation
 
-**CYBER CELL — PHONE ANALYSIS**
+**ALIBAUG POLICE STATION**
+**INVESTIGATION NOTE — SEDATIVE SOURCE**
 
 | Field | Detail |
 |-------|--------|
-| Device | Nokia 105 (EV-007) |
-| Location Found | Floor behind desk, private study |
-| SIM | Prepaid, registered with false identity |
-| Purchase Location | Patna, Bihar |
+| Subject | Diazepam acquisition tracing |
+| Lead Officer | Inspector Mehra |
+| Date | December 16, 2024 |
 
-#### CONTACTS (3 entries)
+#### SUSPECT PHARMACEUTICAL ACCESS ANALYSIS
 
-| Contact Name | Number | Last Activity |
-|--------------|--------|---------------|
-| "D" | +91-73XXX-XXXXX (prepaid, unregistered) | Received Dec 13, 8:45 PM: "Confirmed for tonight. Back terrace. 12:30." |
-| "Office" | +91-22-XXXX-XXXX (Malhotra Industries main line) | Sent Dec 10: "Need the files before the 15th" |
-| "R" | +91-98XXX-XXXXX (prepaid, unregistered) | Received Dec 12: "Don't trust him. He's planning something." |
+| Suspect | Access Type | Notes |
+|---------|-------------|-------|
+| **Dr. Raghav Menon** | Direct (Physician) | Can prescribe; has access to controlled substances |
+| Deepika Joshi | Indirect | Father is Ayurvedic practitioner in Rishikesh |
+| Kavya Sharma | None confirmed | No known pharmaceutical connections |
+| Priya Malhotra | None confirmed | Has prescription for sleeping pills (different compound) |
+| Anil Verma | None confirmed | No pharmaceutical connections |
+| **Rohit Malhotra** | **INVESTIGATION REQUIRED** | See below |
 
-**PHONE OWNER:** Unknown
-**Fingerprints on device:** None recovered (wiped clean)
+#### FINANCIAL TRANSACTION ANALYSIS — ROHIT MALHOTRA
 
----
+**Bank Statement Extract — November 2024**
 
-### DOCUMENT 2-G: Victim's Phone — Last Activity
+| Date | Transaction | Amount | Payee |
+|------|-------------|--------|-------|
+| Nov 15 | Transfer | ₹45,000 | Personal expense |
+| Nov 18 | Transfer | ₹1,25,000 | Investment account |
+| **Nov 22** | **Wire Transfer** | **₹2,50,000** | **Mehta Pharmaceuticals (Private)** |
+| Nov 28 | Transfer | ₹30,000 | Personal expense |
 
-**CYBER CELL — PHONE EXTRACTION**
-
-| Field | Detail |
-|-------|--------|
-| Device | iPhone 15 Pro Max (EV-006) |
-| Owner | Arjun Malhotra |
-| Extraction Date | December 14, 2024 |
-
-#### MESSAGES — DECEMBER 13-14, 2024
-
-**TO: Deepika Joshi — TIME: 23:52**
-> "Meet me in the study at 1:30. We need to talk about the future. I've made a decision."
-
-**FROM: Deepika Joshi — TIME: 23:54**
-> "I'll be there. I hope it's good news."
+> **Note:** Mehta Pharmaceuticals (Private) is a pharmaceutical supply company. The ₹2.5 Lakh transaction has been flagged for further investigation.
 
 ---
 
-**TO: Rohit Malhotra — TIME: 00:35**
-> "I know you're angry. Come to the study before you leave. There are things I need to explain. About the will."
+### DOCUMENT 2-G: Ligature Analysis
 
-**FROM: Rohit Malhotra — TIME: 00:38**
-> "I have nothing to say to you."
+**CRIME SCENE INVESTIGATION — SUPPLEMENTARY REPORT**
 
-**TO: Rohit Malhotra — TIME: 00:40**
-> "Please. You're still my son."
+**Subject:** Missing curtain cord — search results
 
-*[No response]*
+| Search Area | Result |
+|-------------|--------|
+| Study | Not found |
+| Hallway | Not found |
+| Service Kitchen | Not found |
+| Drawing Room | Not found |
+| **Garden (behind study window)** | **Silk fibers found on ground** |
+| Garden (fountain area) | Not found |
 
----
-
-**TO: +91-73XXX-XXXXX (Unknown) — TIME: 01:52**
-> "I know who you are. I know what you want. Come to the study. Let's end this."
-
-***LAST ACTIVITY ON DEVICE***
-
-> **NOTE:** The number +91-73XXX-XXXXX matches the format of contact "D" on the burner phone (EV-007).
->
-> Cell tower data shows this number pinged ALB-1 (estate vicinity) at 01:55 AM — after all guests had officially departed.
+**Conclusion:** The ligature was likely removed from the scene and discarded. Silk fibers in the garden suggest the cord was thrown out the study window.
 
 ---
 ---
@@ -219,110 +197,82 @@ Per duty roster, no authorized staff were assigned to service kitchen between 00
 
 ---
 
-### DOCUMENT 3-G: Background Report — Deepika Joshi
+### DOCUMENT 3-E: Deepika Joshi — Background Report
 
-**PRIVATE INVESTIGATION REPORT**
-**SUBJECT: DEEPIKA JOSHI**
-
-| Field | Detail |
-|-------|--------|
-| Prepared for | Investigating Authority |
-| Date | December 15, 2024 |
-
-#### PERSONAL DETAILS
+**PRIVATE INVESTIGATION — CONFIDENTIAL**
 
 | Field | Detail |
 |-------|--------|
-| Full Name | Deepika Rajesh Joshi |
+| Subject | Deepika Joshi |
 | Age | 29 |
-| Current Position | Executive Assistant to Chairman, Malhotra Industries |
-| Tenure | 4 years (joined 2020) |
+| Position | Executive Assistant to Chairman, Malhotra Industries |
 
-#### RELATIONSHIP WITH ARJUN MALHOTRA
-
-- Romantic relationship confirmed (approximately 18 months duration)
-- Multiple hotel bookings under company account documented
-- Currently pregnant: **14 weeks**
-- DNA paternity test conducted November 2024 (ordered by A. Malhotra)
-- Test result: **Positive match to Arjun Malhotra**
-- Will updated November 28, 2024 to include Deepika and unborn child
-
-#### PRIOR RELATIONSHIP — ROHIT MALHOTRA
-
-- Deepika Joshi and Rohit Malhotra were in a relationship prior to her employment at Malhotra Industries
-- Duration: Approximately 8 months (2019-2020)
-- Rohit introduced Deepika to Arjun for the PA position
-- The relationship with Arjun began approximately 6 months after Deepika started working directly with the Chairman
-- **Rohit learned of the affair in October 2024**
-- Witnesses report a confrontation between Rohit and Deepika at Malhotra Industries office on November 15, 2024
-
-#### FAMILY BACKGROUND
+#### PERSONAL BACKGROUND
 
 | Field | Detail |
 |-------|--------|
-| Father | Dr. Rajesh Kumar Joshi |
-| Occupation | Ayurvedic medicine practitioner |
-| Location | Rishikesh, Uttarakhand |
-| Practice | Traditional Himalayan herbal remedies |
+| Education | MBA, Symbiosis Institute of Business Management |
+| Father | Dr. R.K. Joshi, Ayurvedic Practitioner, Rishikesh |
+| Relationship Status | Single |
+| **Medical Status** | **14 weeks pregnant** |
 
-#### FRAGRANCE NOTE
+#### CRITICAL DISCOVERY — Prior Relationship
 
-Subject's registered perfume purchase (corporate gift records): **Jo Malone "Jasmine Sambac & Marigold"**
+**Subject previously dated ROHIT MALHOTRA.**
 
-> Note: Housekeeper reported jasmine fragrance in study at crime scene
+| Detail | Information |
+|--------|-------------|
+| Relationship Period | March 2019 – November 2019 (8 months) |
+| How They Met | Introduced by mutual friends at Delhi University event |
+| Breakup | Mutual; she cited "career focus" |
 
----
+**Rohit introduced Deepika to Arjun Malhotra in January 2020 as a potential PA candidate.**
 
-### DOCUMENT 3-H: Supplementary Bartender Statement
+#### AFFAIR DISCOVERY
 
-**SUPPLEMENTARY STATEMENT**
-
-| Field | Detail |
-|-------|--------|
-| Name | Suresh Patil (Bartender) |
-| Date | December 15, 2024 |
-| Interviewed by | Inspector Mehra |
-
----
-
-I was asked to recall any other observations from the party.
-
-I remember one more thing. Around 11:45 or maybe midnight, I saw the two young ladies talking near the terrace stairs. The one who is engaged to Mr. Malhotra and the assistant.
-
-It did not look friendly. The fiancée was pointing her finger. The assistant was shaking her head. She looked scared maybe. Then the assistant walked away quickly toward the garden.
-
-I heard the fiancée say something. It sounded like "stay away from him" or "I know what you're doing." Something like that. I was not close enough to hear exactly.
-
-Later I saw the fiancée go to the bar cart. She was there for a few minutes, looking at the glasses. I thought she was looking for her drink.
-
-That is all I remember.
+| Event | Date |
+|-------|------|
+| Deepika-Arjun relationship began | Approximately June 2023 |
+| Rohit discovered the affair | October 2024 |
+| Confrontation (Rohit vs. Deepika) | November 15, 2024 |
 
 ---
 
-### DOCUMENT 3-I: Witness Statement — Deepika Joshi
+### DOCUMENT 3-F: Supplementary Bartender Statement
 
 **ALIBAUG POLICE STATION**
-**WITNESS STATEMENT**
+**SUPPLEMENTARY WITNESS STATEMENT**
 
 | Field | Detail |
 |-------|--------|
-| Name | Deepika Joshi |
-| Relation to Deceased | Employee / Personal Assistant |
-| Statement Date | December 14, 2024, 4:30 PM |
-| Recorded by | Inspector Mehra |
+| Witness | Suresh Patil, Bartender |
+| Date | December 15, 2024 |
+| Statement Taken By | SI Pradeep Sawant |
+
+**Statement (Additional):**
+
+"After my first statement, I remembered something else.
+
+Around 11:45 PM, I saw Kavya Madam and Deepika Madam arguing on the terrace. Kavya Madam was very upset. I heard her say something like 'stay away from him' and 'I know what you're doing.'
+
+Deepika Madam looked scared. She walked away quickly.
+
+Also, I saw Rohit Sir go toward the study around 1:50 AM. He was there for about 20 minutes before he came out and left. He seemed calm when he came out — which I thought was strange given how upset he'd been earlier in the evening."
 
 ---
 
-I arrived at the party around 11:40 PM. I was there for work reasons — I am Mr. Malhotra's assistant and there were business guests.
+### DOCUMENT 3-G: Nisha-Rohit Sibling Dynamic
 
-I spent most of the evening in the drawing room. I spoke with various guests and kept an eye on things as part of my duties.
+**INVESTIGATION NOTE**
 
-I left at approximately 1:15 AM. I did not go to the study. I did not have any private conversation with Mr. Malhotra that night.
+Interview with household staff revealed significant sibling rivalry between Nisha Malhotra and Rohit Malhotra:
 
-My relationship with Mr. Malhotra was strictly professional.
+- Nisha felt Rohit was "always favored" as the firstborn son
+- Rohit resented that Nisha "always had father's approval"
+- Staff reported arguments about "who deserved what" regarding inheritance
+- Nisha left party early (11:45 PM) after argument with Rohit
 
-*Statement read and confirmed.*
-*Signature: [Signed]*
+However: Nisha and husband Sanjay departed before midnight — both have alibis for time of death.
 
 ---
 ---
@@ -334,104 +284,75 @@ My relationship with Mr. Malhotra was strictly professional.
 
 ---
 
-### DOCUMENT 4-E: Movement Path Analysis
+### DOCUMENT 4-D: Movement Path Analysis
 
-**PATH ANALYSIS — ESTATE LAYOUT**
+**CRIME SCENE RECONSTRUCTION**
 
-```text
-                          TERRACE
-                ┌────────────────────────┐
-                │   [BAR CART]           │
-                │                        │
-                └──────────┬─────────────┘
-                           │
-                           │ PATH A (Visible)
-                           ▼
-                ┌────────────────────────┐
-                │    DRAWING ROOM        │
-                │                        │
-                │    (Guests visible)    │
-                │                        │
-                └──────────┬─────────────┘
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
- ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
- │   DINING     │  │   HALLWAY    │  │   SERVICE    │
- │    ROOM      │  │              │  │   KITCHEN    │
- │              │  │              │  │              │
- │              │  │      │       │  │  [JUNCTION   │
- │              │  │      │       │  │    BOX]      │
- │              │  │      ▼       │  │              │
- └──────────────┘  │ ┌──────────┐ │  │      │       │
-                   │ │  STUDY   │◄├──┼──────┘       │
-                   │ │          │ │  │   PATH B     │
-                   │ │          │ │  │   (Hidden)   │
-                   │ └──────────┘ │  │              │
-                   │              │  │              │
-                   └──────────────┘  └──────────────┘
-```
+There are TWO paths from the main party areas to the private study:
 
-| Path | Route | Visibility |
-|------|-------|------------|
-| PATH A | Drawing Room → Hallway → Study | **High** — movement observable from drawing room |
-| PATH B | Service Kitchen → Study (direct access) | **Low** — not observable from guest areas. Note: Camera junction box located along this path |
+#### PATH A: VISIBLE ROUTE
+
+Drawing Room → Main Hallway → Study Door
+
+- Visible to cameras SC-1 and SC-3
+- Takes approximately 30 seconds
+- **Used by:** Most guests observed going to/from study
+
+#### PATH B: HIDDEN ROUTE
+
+Service Kitchen → Back Corridor → Study (side entrance)
+
+- **NOT visible** to any cameras
+- Junction box for SC-1 is located here
+- Takes approximately 45 seconds
+- **Who knew about this path?**
+  - All family members who grew up at estate
+  - Long-term staff (8+ years)
+  - Security personnel
+
+> **Note:** Rohit Malhotra grew up at this estate and was present during security system installation 6 years ago.
 
 ---
 
-### DOCUMENT 4-F: Earring Match Report
+### DOCUMENT 4-E: Glass Movement Timeline
 
-**FORENSIC EVIDENCE ANALYSIS**
-**ITEM: EV-008 (Pearl Earring)**
+**EVIDENCE ANALYSIS — GLASS POSITIONING**
 
-#### ITEM DESCRIPTION
+#### EV-002 (Champagne Flute) — Location Mystery
 
-| Field | Detail |
-|-------|--------|
-| Type | Pearl stud earring (single) |
-| Brand | Mikimoto (verified by hallmark) |
-| Estimated Value | ₹85,000 per pair |
-| Location Found | Under desk, south side, private study |
+| Finding | Analysis |
+|---------|----------|
+| Found in | Whiskey cabinet |
+| Normal location | Bar cart or drawing room |
+| Lipstick | Deep burgundy (matches Deepika Joshi's brand) |
+| **Fingerprints** | Victim, **Rohit Malhotra**, unidentified |
 
-#### PHOTOGRAPHIC COMPARISON — PARTY ATTENDEES
+**Question:** Why would Rohit Malhotra's fingerprints be on a champagne glass that was found in the whiskey cabinet?
 
-| Person | Earrings in Photos | Match |
-|--------|-------------------|-------|
-| Priya Malhotra | Large diamond studs | **NO** |
-| Kavya Sharma | Gold hoops | **NO** |
-| Deepika Joshi | Pearl studs (both present at 23:45) | **YES** |
+**Possible explanations:**
 
-> Security footage (01:17): Left ear — earring **ABSENT**
+1. He handled it during the party (normal)
+2. He moved it to the cabinet after the murder (evidence tampering)
+3. He picked it up inadvertently
 
-**CONCLUSION:** Earring EV-008 belongs to Deepika Joshi with high probability. The earring was lost between 23:45 (photo timestamp) and 01:17 (departure footage).
+> **Rohit's statement:** "I went to the study at 1:50 AM to say goodbye."
 
 ---
 
-### DOCUMENT 4-G: Security Personnel Knowledge Base
+### DOCUMENT 4-F: Curtain Cord — Chain of Custody
 
-**SECURITY SYSTEM KNOWLEDGE ASSESSMENT**
+**EVIDENCE NOTE**
 
-**Question:** Who had knowledge of camera junction box locations?
+| Date | Time | Status | Notes |
+|------|------|--------|-------|
+| Dec 12 | 15:45 | Intact | Housekeeper confirms both cords present during delivery |
+| Dec 12 | 21:15 | Unknown | Rohit departs; no inspection |
+| Dec 13 | 18:00 | Unknown | Arjun returns; no inspection |
+| Dec 14 | 06:15 | **Missing** | Housekeeper discovers one cord missing |
 
-#### DEFINITE KNOWLEDGE
-- Security Staff (all current)
-- Arjun Malhotra (property owner)
-- SecureTech technicians (installation team)
-
-#### PROBABLE KNOWLEDGE
-
-| Person | Reason |
-|--------|--------|
-| Rohit Malhotra | Grew up in the estate; present during security installation |
-| Anil Verma | Oversaw security system budget and installation in 2019 as CFO; reviewed technical specifications |
-| Priya Malhotra | Lived in estate for 25+ years during marriage |
-
-#### UNLIKELY KNOWLEDGE
-- Kavya Sharma (engaged 2024, limited time at estate)
-- Vikram Saxena (guest only)
-- Minister Thapar (guest only)
-- Deepika Joshi (employee, no security access)
+> The cord was last confirmed present on December 12 at 15:45.
+>
+> Rohit Malhotra was the only visitor to the study between 15:45 (delivery) and 18:00 (Arjun's return).
 
 ---
 ---
@@ -443,119 +364,94 @@ My relationship with Mr. Malhotra was strictly professional.
 
 ---
 
-### DOCUMENT 5-F: Insurance Policy Summary
+### DOCUMENT 5-E: Victim's Phone — Text Messages
 
-**ICICI PRUDENTIAL LIFE INSURANCE**
-**POLICY SUMMARY — CONFIDENTIAL**
-
-| Field | Detail |
-|-------|--------|
-| Policy Holder | Arjun Vikram Malhotra |
-| Policy Number | ICICIPRU-XXXX-XXXX-8847 |
-| Sum Assured | ₹500 Crore |
-
-#### BENEFICIARY — ORIGINAL (until November 2024)
-
-| Beneficiary | Percentage |
-|-------------|------------|
-| Rohit Malhotra | 100% |
-
-#### BENEFICIARY — AMENDED (November 28, 2024)
-
-| Beneficiary | Percentage | Amount |
-|-------------|------------|--------|
-| Kavya Sharma | 60% | ₹300 Crore |
-| Deepika Joshi Trust | 30% | ₹150 Crore |
-| Rohit Malhotra | 10% | ₹50 Crore |
-
-#### SPECIAL CLAUSE — SECTION 12.4
-
-> "In case of death by unlawful means (homicide), if any beneficiary is convicted of involvement in the death, directly or indirectly, their share shall be forfeited and redistributed proportionally among remaining beneficiaries."
-
-#### CHANGE REQUEST NOTE
+**ALIBAUG POLICE STATION**
+**PHONE EXTRACTION REPORT**
 
 | Field | Detail |
 |-------|--------|
-| Amendment initiated | November 20, 2024 |
-| Initiated by | Policyholder (Arjun Malhotra) |
-| Agent note | "Client mentioned fiancée Kavya Sharma suggested the beneficiary structure during estate planning discussion." |
+| Device | iPhone 15 Pro Max (Arjun Malhotra) |
+| Extraction Date | December 14, 2024 |
+
+#### MESSAGES — DECEMBER 13-14, 2024
+
+**To: Deepika Joshi (+91-98XXX-33456)**
+
+| Time | Direction | Message |
+|------|-----------|---------|
+| 23:52 | Sent | "Come to study at 1:30. We need to talk about the announcement." |
+| 23:54 | Received | "I'll be there." |
+
+**To: Unknown (+91-XX-XXXX-XXXX — Burner)**
+
+| Time | Direction | Message |
+|------|-----------|---------|
+| 01:52 | Sent | "I know who you are. We need to talk. Tomorrow." |
+
+> **Note:** This was Arjun's final message, sent 8-23 minutes before estimated time of death.
 
 ---
 
-### DOCUMENT 5-G: Financial Summary — Rohit Malhotra Loss
+### DOCUMENT 5-F: Insurance Clause Analysis
 
-**FINANCIAL IMPACT ANALYSIS**
-**SUBJECT: ROHIT MALHOTRA**
+**LEGAL MEMORANDUM — CONFIDENTIAL**
 
-#### INHERITANCE — WILL CHANGES
+**Re:** Policy ICICI-LI-2019-7845621, Section 12.4 (Forfeiture Clause)
 
-| Will Version | Allocation | Estimated Value |
-|--------------|------------|-----------------|
-| Previous Will (March 2023) | 60% of Malhotra Industries shares | ₹28,200 Crore |
-| Amended Will (November 2024) | 10% of shares (non-voting) | ₹4,700 Crore |
-| **LOSS** | | **₹23,500 Crore** |
+**Analysis:**
 
-#### INSURANCE — BENEFICIARY CHANGES
+If any beneficiary is **convicted** of causing the insured's death:
 
-| Version | Allocation | Amount |
-|---------|------------|--------|
-| Previous | 100% | ₹500 Crore |
-| Amended | 10% | ₹50 Crore |
-| **LOSS** | | **₹450 Crore** |
+1. That beneficiary forfeits all claims
+2. Forfeited amount redistributed to remaining beneficiaries
+3. Redistribution is proportional to remaining shares
 
-#### TOTAL FINANCIAL LOSS
+**Scenario Analysis — If Rohit Malhotra is convicted:**
 
-| Category | Amount |
-|----------|--------|
-| Inheritance reduction | ₹23,500 Crore |
-| Insurance reduction | ₹450 Crore |
-| **TOTAL** | **₹23,950 Crore** |
-
-*(Approximately $2.9 Billion USD)*
-
-#### NOTIFICATION DATE
-
-Rohit Malhotra was informed of will changes on **December 1, 2024** (13 days before death)
-
-*Witness: Advocate K.L. Sharma (estate attorney)*
+| Beneficiary | Original Share | After Forfeiture |
+|-------------|----------------|------------------|
+| Kavya Sharma | ₹300 Cr | ₹315.8 Cr |
+| Priya Malhotra | ₹200 Cr | ₹210.5 Cr |
+| Deepika Joshi | ₹150 Cr | ₹157.9 Cr |
+| Nisha Malhotra | ₹150 Cr | ₹157.9 Cr |
+| Sanjay Kapoor | ₹50 Cr | ₹52.6 Cr |
+| **Rohit Malhotra** | ~~₹50 Cr~~ | **₹0** |
 
 ---
 
-### DOCUMENT 5-H: Whistleblower Connection Analysis
+### DOCUMENT 5-G: Whistleblower Connection
 
-**WHISTLEBLOWER PROFILE ANALYSIS**
+**INVESTIGATION NOTE — BURNER PHONE ANALYSIS**
 
-*Based on: Anonymous email, burner phone messages, document references*
+**Device:** Nokia 105 (EV-004)
 
-#### WHISTLEBLOWER CHARACTERISTICS (from evidence)
+| Field | Detail |
+|-------|--------|
+| SIM | Prepaid, purchased Patna, Bihar |
+| Registered to | "R. Kumar" (false identity) |
+| Contacts stored | 3 entries |
 
-- Has access to Malhotra Industries financial records
-- Knows details of Thapar payments
-- Has recordings from "Dubai meeting"
-- Used anonymous communication (Protonmail, prepaid phones)
-- Deadline given: December 15
-- Stated motivation: "Justice"
+#### CONTACT LIST
 
-#### SUSPECT ACCESS ASSESSMENT
+| Entry | Number | Notes |
+|-------|--------|-------|
+| "D" | +91-98XXX-33456 | **Matches Deepika Joshi** |
+| "Office" | +91-22-XXXX-XXXX | Malhotra Industries main line |
+| "R" | +91-99XXX-88123 | **Matches Rohit Malhotra** |
 
-| Suspect | Financial Access | Dubai Meeting | Assessment |
-|---------|------------------|---------------|------------|
-| **Anil Verma (CFO)** | Full | Attended | Access confirmed, but motivation unclear (would expose himself) |
-| **Deepika Joshi (PA)** | Limited (through Chairman's correspondence) | Attended as PA | Access confirmed through PA role |
-| **Rohit Malhotra (COO)** | Executive level | Not attended | Partial access, not present at key meeting |
+#### CALL LOG
 
-#### CONNECTION
+| Date | Time | Contact | Duration |
+|------|------|---------|----------|
+| Dec 10 | 21:15 | "D" | 8 min |
+| Dec 12 | 19:45 | "D" | 3 min |
+| Dec 13 | 20:45 | "D" | 2 min |
 
-- Burner phone contact "D" scheduled meeting for 12:30 on party night
-- "D" could reference **Deepika**
-- Arjun's final message was to a number matching "D" contact format
+> **Theory:** Deepika may be the whistleblower ("D" contact). The burner phone was found in Arjun's desk — was he tracking the whistleblower?
 
----
----
 ---
 
 ## END OF PHASE 2 EVIDENCE
 
-**Continue deliberation**
-
-**Phase 3 will introduce critical new information**
+**Continue discussing. Phase 3 begins in 30 minutes.**

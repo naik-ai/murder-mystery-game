@@ -1,495 +1,360 @@
-# THE LAST TOAST — GAME MASTER BLUEPRINT
+# GAME MASTER BLUEPRINT
 
-## Complete Narrative Structure & Evidence Flow
+## The Last Toast — Cooperative Murder Mystery
 
----
-
-## SECTION 1: MASTER NARRATIVE FLOWCHART
-
-### THE VICTIM
-
-| Detail | Information |
-|--------|-------------|
-| **Name** | Arjun Malhotra |
-| **Status** | Victim — Billionaire |
-| **Time of Death** | ~2:10 AM |
-| **Poison** | Aconitine |
+**For 5 Players | 80 Minutes | Host Required**
 
 ---
 
-### THE SEVEN SUSPECTS — ALL WITH MOTIVE
+## CORE NARRATIVE
 
-| Suspect | Role | Motive | Key Suspicion | Status |
-|---------|------|--------|---------------|--------|
-| **Priya** | Ex-Wife | ₹800Cr blocked settlement | LIES about departure time | RED HERRING |
-| **Kavya** | Fiancée | Jealousy over affair | Handled glasses at bar cart | RED HERRING |
-| **Rohit** | Son | Disinherited ₹28,000Cr+ | Purchased "supplements" 3 weeks prior | **TRUE CLUE — KILLER** |
-| **Deepika** | PA/Mistress | Paternity denied | WAS in study (earring, perfume) | RED HERRING |
-| **Anil** | CFO | Embezzlement exposed | Disabled camera (for own reasons) | RED HERRING |
-| **Vikram** | Business Partner | Merger loss ₹2,000Cr | Sent bottle as gift (framed) | RED HERRING |
-| **Min. Thapar** | Politician | Bribery expose ₹400Cr | Left early, refused fingerprints | RED HERRING |
+### The Victim
+**Arjun Vikram Malhotra** (62) — Billionaire industrialist, chairman of Malhotra Industries Ltd. Found dead in his study at the family estate in Alibaug, Maharashtra, on December 14, 2024. Net worth: ₹47,000 Crore (~$5.6 Billion USD).
 
----
+### The Setting
+A lavish engagement party for Arjun and his fiancée Kavya Sharma. 40+ guests in attendance. The body is discovered at 6:15 AM by the housekeeper.
 
-## SECTION 2: CONTRADICTION CLASSIFICATION
+### The Murder Method (Two-Stage)
+1. **Stage 1 — Incapacitation:** Sedative (Diazepam) added to whiskey bottle before party
+2. **Stage 2 — Strangulation:** Killer strangles incapacitated victim with silk curtain cord
 
-### TRUE CLUES (Lead to Killer)
-
-#### CLUE 1: Rohit's "Herbal Supplements" Purchase
-| Field | Detail |
-|-------|--------|
-| Evidence | Bank records show ₹2.5 lakh purchase from Himalayan Botanicals Ltd. |
-| Date | 3 weeks before murder |
-| Significance | Source of Aconitine poison |
-| Discovery Phase | Phase 2 |
-
-#### CLUE 2: Rohit's Estate Visit on December 12
-| Field | Detail |
-|-------|--------|
-| Evidence | Security log shows Rohit visited "to pick up documents" |
-| Date | Same day bottle was delivered, Arjun was in Mumbai |
-| Significance | Opportunity to poison the bottle |
-| Discovery Phase | Phase 3 |
-
-#### CLUE 3: Rohit's Fingerprints on Guest Glass
-| Field | Detail |
-|-------|--------|
-| Evidence | His prints on EV-002 (the clean glass in cabinet) |
-| Significance | He moved the glass to create confusion/plant evidence |
-| Discovery Phase | Phase 1 |
-
-#### CLUE 4: Poison in BOTTLE, not Glass
-| Field | Detail |
-|-------|--------|
-| Evidence | Revised forensics show trace Aconitine in bottle residue |
-| Significance | Murder was premeditated days before party |
-| Discovery Phase | Phase 3 (THE TWIST) |
-
-#### CLUE 5: Rohit's Double Motive
-| Field | Detail |
-|-------|--------|
-| Evidence | Lost ₹28,000Cr inheritance + ex-girlfriend stolen by father |
-| Significance | Strongest combined motive of all suspects |
-| Discovery Phase | Phase 2 |
+### The Killer
+**Rohit Malhotra** (31) — Arjun's son and COO of the company. Motive: Lost ₹23,950 Crore in inheritance + discovered his ex-girlfriend (Deepika) was now his father's mistress and pregnant with his half-sibling.
 
 ---
 
-### RED HERRINGS (Lead Away from Killer)
+## SUSPECT ROSTER (22 Total)
 
-#### RED HERRING 1: Priya's False Departure Time
-| Aspect | Detail |
-|--------|--------|
-| What players see | She claims 00:45, phone data shows 01:22 |
-| What it seems | She stayed late to commit murder |
-| The truth | She was searching bedroom for divorce evidence |
-| Why it's a red herring | Focuses attention on her lie, not her innocence |
+### Tier 1: Core Suspects (7) — Full Profiles + Evidence
 
-#### RED HERRING 2: The Glass Swap on Terrace
-| Aspect | Detail |
-|--------|--------|
-| What players see | Bartender saw someone swap glasses at ~12:38 AM |
-| What it seems | Someone swapped poison glass to target specific person |
-| The truth | Kavya picked up wrong champagne glass (innocent mistake) |
-| Why it's a red herring | Creates "wrong target" theory that wastes time |
+| # | Name | Age | Role | Relationship | Motive | At Party |
+|---|------|-----|------|--------------|--------|----------|
+| 1 | **Rohit Malhotra** | 31 | Son / COO | Direct heir | Lost ₹23,950 Cr + girlfriend to father | Left 2:10 AM |
+| 2 | Priya Malhotra | 58 | Ex-Wife | Former spouse (divorced 2019) | Blocked ₹800 Cr settlement | Left 1:06 AM |
+| 3 | Kavya Sharma | 34 | Fiancée | Engaged 6 months | Jealousy, inheritance | Stayed overnight |
+| 4 | Deepika Joshi | 29 | Executive Assistant | Secret mistress, pregnant | Paternity recognition | Left 1:45 AM |
+| 5 | Anil Verma | 48 | CFO | Employee 12 years | ₹340 Cr embezzlement exposed | Left 1:15 AM |
+| 6 | Vikram Saxena | 55 | Business Partner | CEO Saxena Steel | Merger dispute, framed by killer | Left 12:30 AM |
+| 7 | Min. Rajesh Thapar | 61 | Politician | Union Minister | ₹400 Cr bribery scandal | Left 12:16 AM |
 
-#### RED HERRING 3: Camera Malfunction
-| Aspect | Detail |
-|--------|--------|
-| What players see | SC-1 disabled 00:47-01:10, Anil was in service kitchen |
-| What it seems | Killer disabled camera to hide movements |
-| The truth | Anil disabled it to steal embezzlement documents from safe |
-| Why it's a red herring | Makes Anil seem like prime suspect |
+### Tier 2: Secondary Suspects (6) — Medium Profiles
 
-#### RED HERRING 4: Vikram's Gift Bottle
-| Aspect | Detail |
-|--------|--------|
-| What players see | Vikram sent the poisoned Macallan 25 as a "gift" |
-| What it seems | He poisoned the bottle before sending |
-| The truth | Genuine peace offering; Rohit poisoned it AFTER delivery |
-| Why it's a red herring | "Too obvious" framing that sophisticated players dismiss |
+| # | Name | Age | Role | Relationship | Motive | At Party |
+|---|------|-----|------|--------------|--------|----------|
+| 8 | Nisha Malhotra | 28 | Daughter | Direct heir | Inheritance competition with Rohit | Left 11:45 PM |
+| 9 | Sanjay Kapoor | 32 | Son-in-Law | Nisha's husband | Excluded from business decisions | Left 11:45 PM |
+| 10 | Karan Malhotra | 35 | Nephew | Brother's son | Passed over for COO position | Not invited |
+| 11 | Dr. Raghav Menon | 52 | Personal Physician | Medical advisor 8 years | Malpractice cover-up | Left 10:30 PM |
+| 12 | Adv. Sunil Sharma | 60 | Estate Attorney | Legal counsel 15 years | Will manipulation access | Not invited |
+| 13 | Col. Prakash Singh | 55 | Security Chief | Head of estate security | Knows family secrets | Off-duty |
 
-#### RED HERRING 5: Deepika in the Study
-| Aspect | Detail |
-|--------|--------|
-| What players see | Her earring, perfume, lipstick prove she was there |
-| What it seems | She had secret meeting and could have poisoned him |
-| The truth | She met Arjun at 1:30, drank from same bottle, survived (lower dose) |
-| Why it's a red herring | Her presence is real but her motive is inverted (she gains from him living) |
+### Tier 3: Tertiary Suspects (9) — Appendix Only
 
-#### RED HERRING 6: Minister Thapar's Political Motive
-| Aspect | Detail |
-|--------|--------|
-| What players see | ₹400Cr bribery scandal, whistleblower, refused fingerprinting |
-| What it seems | He ordered assassination to prevent exposure |
-| The truth | Left early, had nothing to do with it; unidentified print is not his |
-| Why it's a red herring | Adds political thriller element, wastes investigative effort |
+| # | Name | Role | At Party |
+|---|------|------|----------|
+| 14 | Meenakshi Rao | Housekeeper | On duty |
+| 15 | Ramesh Kumar | Chef | On duty |
+| 16 | Krishnan M. | Driver | On duty |
+| 17 | Suresh Patil | Bartender | On duty |
+| 18 | Anita Reddy | Accountant | Not invited |
+| 19 | Raj Oberoi | Former Partner | Not invited |
+| 20 | Neha Gupta | Journalist | Not invited |
+| 21 | Vishal Mehta | Private Investigator | Not invited |
+| 22 | Ravi Singh | Bodyguard | On duty |
 
-#### RED HERRING 7: The Whistleblower
-| Aspect | Detail |
-|--------|--------|
-| What players see | Anonymous threat, December 15 deadline, burner phone |
-| What it seems | Whistleblower killed Arjun or someone killed to stop confession |
-| The truth | Deepika is the whistleblower; she wanted Arjun to CONFESS, not die |
-| Why it's a red herring | Corporate espionage subplot that goes nowhere |
+**Party Attendance Summary:** 11 present at party, 11 absent (require alibis)
 
 ---
 
-## SECTION 3: COMPLETE TIMELINE (ACTUAL EVENTS)
+## THE CRIME SEQUENCE
 
-### DECEMBER 11, 2024 — THREE DAYS BEFORE MURDER
+### Pre-Murder Setup
 
-- Vikram Saxena orders Macallan 25 bottle as peace offering
-- Rohit intercepts delivery notification (email access as COO)
-- Rohit begins planning — sees opportunity to frame Vikram
+| Date | Time | Event | Evidence |
+|------|------|-------|----------|
+| Nov 22 | — | Rohit purchases Diazepam from pharmaceutical supplier (₹2.5 Lakh) | Purchase records |
+| Dec 1 | — | Rohit notified of will changes (loses ₹23,950 Cr) | Legal notification |
+| Dec 11 | — | Vikram orders Macallan 25 as peace offering | Order receipt |
+| Dec 12 | 15:45 | Bottle delivered to estate; Arjun in Mumbai | Delivery receipt |
+| Dec 12 | 19:32 | Rohit arrives at estate "for documents" | Gate log |
+| Dec 12 | ~20:00 | **Rohit opens bottle, adds Diazepam, reseals** | — |
+| Dec 12 | 21:15 | Rohit departs estate | Gate log |
+| Dec 13 | 18:00 | Arjun returns from Mumbai with Kavya | Gate log |
 
----
+### The Murder Night
 
-### DECEMBER 12, 2024 — TWO DAYS BEFORE MURDER
-
-| Time | Event |
-|------|-------|
-| 15:45 | Macallan 25 delivered to estate |
-| | → Received by housekeeper Meenakshi |
-| | → Placed in study whiskey cabinet |
-| | → Seal intact |
-| 18:00 | Arjun still in Mumbai for meetings |
-| **19:30** | **ROHIT arrives at estate "to pick up documents"** |
-| | → Has estate alone (staff dismissed for evening) |
-| | → Opens Macallan 25, adds Aconitine extract |
-| | → Reseals bottle carefully (researched technique) |
-| | → Leaves by 21:00 |
-
----
-
-### DECEMBER 13, 2024 — DAY OF MURDER
-
-| Time | Event |
-|------|-------|
-| 09:00 | Deepika at estate for work matters (does NOT enter study) |
-| 14:00 | Priya visits to drop off divorce papers (does NOT enter study) |
-| 18:00 | Arjun returns from Mumbai with Kavya |
-| 21:00 | Annual Gala in Mumbai (main event) |
-| 23:30 | After-party begins at Alibaug estate (7 guests arrive) |
-
----
-
-### DECEMBER 14, 2024 — NIGHT OF MURDER (DETAILED)
-
-#### 23:30 — 00:00: PARTY IN FULL SWING
-- All 7 guests present
-- Drinks on terrace
-- Arjun mingling
-
-#### 00:00 — 00:30
-| Time | Event |
-|------|-------|
-| 00:12 | Kavya confronts Arjun about Priya |
-| 00:16 | Minister Thapar departs (verified) — Genuine early exit |
-
-#### 00:30 — 01:00
-| Time | Event |
-|------|-------|
-| 00:32 | Vikram departs (verified by phone data) |
-| 00:35 | Arjun & Priya on terrace, talking |
-| 00:38 | Kavya picks up wrong glass at bar cart (bartender sees, thinks it's "swap" — actually innocent mistake) |
-| 00:45 | Priya claims to leave (LIE) |
-| 00:47 | Camera SC-1 disabled by ANIL (accessing safe for documents, covering embezzlement trail) |
-
-#### 00:47 — 01:10: CAMERA BLACKOUT
-| Person | Location/Activity |
-|--------|-------------------|
-| Priya | Searching bedroom for divorce evidence |
-| Anil | In study accessing safe |
-| Rohit | In drawing room on phone |
-| Kavya | In drawing room, upset |
-| Deepika | In drawing room, waiting |
-| Arjun | Location unknown |
-
-#### 01:10 — 01:30
-| Time | Event |
-|------|-------|
-| 01:10 | Camera restored (auto-reboot) |
-| 01:15 | Priya calls driver "10 more minutes" |
-| 01:17 | Deepika departs (actually goes to garden briefly) |
-| 01:22 | Kavya departs (upset) |
-| 01:22 | Priya actually departs (37 min late) |
-
-#### 01:30 — 01:50
-| Time | Event |
-|------|-------|
-| 01:30 | Deepika meets Arjun in study |
-| | → He texted her earlier to meet |
-| | → He opens Macallan 25 (first time) |
-| | → Pours two glasses |
-| | → BOTH drink (first pours = low dose) |
-| | → Deepika survives (not enough poison) |
-| | → She leaves ~01:35 |
-| | → Loses earring under desk |
-| 01:33 | Anil departs (with briefcase) |
-| **01:40** | **ROHIT enters study** |
-| | → Sees two glasses on desk |
-| | → Arjun still alive, talking |
-| | → Picks up Deepika's glass |
-| | → Places it in whiskey cabinet |
-| | → Creating confusion for investigation |
-| 01:47 | Rohit departs (last guest) |
-| 01:50 | Arjun alone, pours ANOTHER drink |
-| | → From bottom of bottle |
-| | → Highest poison concentration |
-| | → THIS is the lethal dose |
-
-#### 01:50 — 02:15: DEATH
-| Time | Event |
-|------|-------|
-| 01:52 | Arjun feels symptoms, sends text: "I know who you are..." to whistleblower (Deepika's burner) — doesn't realize he's been poisoned |
-| 02:00 | Symptoms worsen (numbness, heart racing) |
-| **02:10** | **ARJUN MALHOTRA DIES** — Cardiac arrest from Aconitine, slumped in desk chair, empty glass (EV-001) on desk |
-| 06:15 | Body discovered by housekeeper Meenakshi, police called |
+| Time | Event | Evidence |
+|------|-------|----------|
+| 20:00 | Party begins, 40+ guests arrive | Guest log |
+| 22:30 | Dr. Menon leaves (earliest departure among suspects) | Gate log |
+| 23:45 | Nisha and Sanjay leave | Gate log |
+| 00:16 | Minister Thapar leaves | Gate log |
+| 00:30 | Vikram Saxena leaves | Gate log |
+| 00:47 | Camera SC-1 goes offline (Anil's doing) | Technical log |
+| 01:06 | Priya leaves (claims 12:45, phone proves 1:06) | Cell tower data |
+| 01:10 | Camera SC-1 restored | Technical log |
+| 01:15 | Anil Verma leaves | Gate log |
+| 01:30 | Deepika enters study (scheduled meeting with Arjun) | Phone records |
+| 01:35 | Arjun drinks whiskey; sedative takes effect | — |
+| 01:45 | Deepika leaves study (had champagne, unaffected) | Camera SC-2 |
+| 01:50 | **Rohit enters study "to say goodbye"** | Camera SC-2 |
+| 01:55 | **Rohit strangles incapacitated Arjun with curtain cord** | — |
+| 02:00 | Rohit removes ligature, stages scene | — |
+| 02:05 | Rohit moves Deepika's champagne glass to cabinet | Fingerprints |
+| 02:10 | Rohit departs estate (last guest to leave) | Gate log |
+| 06:15 | Housekeeper discovers body | Police report |
 
 ---
 
-## SECTION 4: EVIDENCE FLOW BY PHASE
+## AUTOPSY SUMMARY
 
-### PHASE 1: THE SCENE (20 minutes)
+| Finding | Value | Significance |
+|---------|-------|--------------|
+| **Cause of Death** | Asphyxiation secondary to ligature strangulation | Primary finding |
+| **Ligature Pattern** | Single horizontal furrow, 1.5cm width | Consistent with silk cord |
+| **Petechial Hemorrhaging** | Present in conjunctivae and facial skin | Confirms strangulation |
+| **Blood Diazepam** | 850 ng/mL | Toxic range (therapeutic: 100-250 ng/mL) |
+| **Defensive Wounds** | **NONE** | Critical mystery — victim was sedated |
+| **Time of Death** | 2:00-2:15 AM | Based on liver temp, rigor onset |
 
-| Detective | Focus Area | Evidence Received |
-|-----------|------------|-------------------|
-| Detective 1 | Timeline | Security log, Phone tower data |
-| Detective 2 | Forensics | Autopsy report, Evidence inventory, Two glasses diagram |
-| Detective 3 | Social | Witness statements, Staff interviews |
-| Detective 4 | Objects/Space | Crime scene diagram, Glass analysis, Lipstick comparison |
-| Detective 5 | Motive/Money | Will documents, Financial investigation, Threat email |
+### Toxicology Detection
 
-**Phase 1 Expected Theories:**
-- Priya lied about departure
-- Camera malfunction suspicious
-- Two glasses = secret visitor
-- Multiple strong motives
-
----
-
-### PHASE 2: CONTRADICTIONS (30 minutes)
-
-| Detective | Focus Area | Evidence Received |
-|-----------|------------|-------------------|
-| Detective 1 | Timeline | Camera technical report, Reconstructed timeline |
-| Detective 2 | Forensics | Fingerprint analysis, Poison source report, Burner phone data |
-| Detective 3 | Social | Testimony matrix, Deepika background, Additional bartender statement |
-| Detective 4 | Objects/Space | Movement paths map, Earring match report, Glass movement analysis |
-| Detective 5 | Motive/Money | Arjun's phone messages, Insurance policy, Whistleblower analysis |
-
-**Phase 2 Expected (False) Theories:**
-- Kavya tried to poison Deepika
-- Anil disabled camera for murder
-- Deepika was in study (proven)
-- Rohit has herbal supplement purchase
-- Thapar ordered assassination
+| Sample | Diazepam Result | Explanation |
+|--------|-----------------|-------------|
+| Blood (victim) | 850 ng/mL | Confirms heavy sedation |
+| Glass residue (EV-001) | **Not detected** | Dried residue; detection limit 500 ng/mL |
+| Bottle liquid (EV-003) | 0.8 mg/mL | **Confirms source** |
 
 ---
 
-### PHASE 3: THE TWIST (15 minutes)
+## WILL STRUCTURE
 
-**REVEALED TO ALL:**
+### Original Will (Before December 1, 2024)
 
-> **POISON WAS IN THE BOTTLE, NOT THE GLASS**
+| Beneficiary | Equity Share | Insurance |
+|-------------|--------------|-----------|
+| Rohit Malhotra | 60% | ₹500 Cr |
+| Nisha Malhotra | 30% | ₹200 Cr |
+| Priya Malhotra | — | ₹500 Cr |
 
-| Key Revelation | Detail |
-|----------------|--------|
-| Revised forensics | Trace Aconitine in bottle residue |
-| Bottle origin | Sent by Vikram as gift (Dec 12) |
-| Tampering evidence | Bottle was RESEALED after poisoning |
-| Timeline shift | Murder was premeditated DAYS before party |
-| Critical factor | Pre-party access becomes critical |
+### Revised Will (December 1, 2024)
 
-Chain of custody document shows who had access Dec 12-13.
+| Beneficiary | Equity Share | Insurance | Change |
+|-------------|--------------|-----------|--------|
+| Rohit Malhotra | **10%** | ₹50 Cr | **−50% equity, −₹450 Cr** |
+| Nisha Malhotra | **25%** | ₹150 Cr | −5% equity |
+| Kavya Sharma | **40%** | ₹300 Cr | **NEW** |
+| Deepika Joshi | **5%** + ₹50 Cr | ₹150 Cr | **NEW + child** |
+| Sanjay Kapoor | **5%** | ₹50 Cr | **NEW** |
+| Priya Malhotra | — | ₹200 Cr | Reduced |
+| Charitable Trust | **15%** | — | NEW |
 
-**Phase 3 Paradigm Shift:**
-- Party alibis less important
-- Pre-party access critical
-- Vikram framed or killer?
-- Who accessed study Dec 12? → **ROHIT was there that evening**
+**Rohit's Total Loss:** ₹23,950 Crore
 
----
-
-### PHASE 4: FINAL RECONSTRUCTION (15 minutes)
-
-Summary cards distributed (no new evidence, just summaries).
-
-**FIVE FINAL QUESTIONS:**
-
-| # | Question | Answer |
-|---|----------|--------|
-| 1 | Who physically poisoned the drink? | **ROHIT** |
-| 2 | Who was intended target? | **ARJUN (always)** |
-| 3 | Why did Arjun drink it? | **Peace offering bottle** |
-| 4 | When was poison added? | **December 12, evening** |
-| 5 | Key evidence? | **Herbal supplements purchase** |
+**Critical Clause:** Convicted beneficiary forfeits their share to remaining beneficiaries.
 
 ---
 
-## SECTION 5: FILE STRUCTURE FOR PRINTING
+## RED HERRINGS (10 Total)
 
-### FILE 1: CASE_BRIEF.md (Given to ALL players at start)
-- Game Title & Introduction
-- How to Play instructions
-- The Victim profile
-- The Seven Suspects (names, roles, basic info only)
-- Estate Floor Plan
-- Security Camera Map
-- Basic Party Timeline (arrivals only)
-- The Five Final Questions (what they must answer)
-
-### FILE 2: PHASE_1_EVIDENCE.md (Distributed by detective)
-- Detective 1: Security Log, Phone Tower Data
-- Detective 2: Autopsy Report, Evidence Inventory, Glass Diagram
-- Detective 3: Witness Statements, Staff Interviews
-- Detective 4: Study Crime Scene Diagram, Glass Analysis, Lipstick Report
-- Detective 5: Will Documents, Financial Investigation, Threat Email
-
-### FILE 3: PHASE_2_EVIDENCE.md (Distributed by detective)
-- Detective 1: Camera Technical Report, Reconstructed Timeline
-- Detective 2: Fingerprint Analysis, Poison Source Report, Burner Phone Data
-- Detective 3: Testimony Matrix, Deepika Background, Additional Bartender Statement
-- Detective 4: Movement Paths Map, Earring Match Report, Glass Movement Analysis
-- Detective 5: Arjun's Phone Messages, Insurance Policy, Whistleblower Analysis
-
-### FILE 4: PHASE_3_TWIST.md (Given to ALL players)
-- TWIST REVELATION: Poison in Bottle, Not Glass
-- Revised Forensic Report
-- Gift Delivery Manifest (Vikram sent bottle)
-- Bottle Chain of Custody (who had access Dec 12-13)
-- Reframing Questions
-
-### FILE 5: HOST_MATERIALS.md (Game Master Only)
-- Complete Solution
-- True Timeline (what actually happened)
-- Red Herrings Explained
-- Scoring System
-- Phase 4 Summary Cards (to distribute)
-- Final Answer Card
-- Host Tips & Difficulty Adjustments
-- Print Checklist
+| # | Red Herring | What It Seems | Truth |
+|---|-------------|---------------|-------|
+| 1 | Priya's false departure time | She strangled him | Searching for divorce evidence in bedroom |
+| 2 | Glass swap on terrace | Wrong target attempted | Kavya picked up wrong champagne glass (innocent) |
+| 3 | Camera disabled by Anil | Hiding murder | Hiding embezzlement document theft |
+| 4 | Vikram's gift bottle | He drugged it | Genuine peace offering; Rohit drugged after delivery |
+| 5 | Deepika in study | She's involved | Had champagne, not whiskey; left before murder |
+| 6 | Minister Thapar | Political assassination | Left early, uninvolved |
+| 7 | Dr. Menon's prescription access | He supplied sedative | Different medications entirely |
+| 8 | Nisha's inheritance dispute | Sibling rivalry murder | She benefits from Rohit inheriting |
+| 9 | Col. Singh knew secrets | Blackmail gone wrong | Off-property that night |
+| 10 | Missing curtain cord | Planted by outsider | Rohit used it, discarded in garden |
 
 ---
 
-## SECTION 6: ORAL GAMEPLAY FLOW — HOST GUIDE
+## TRUE CLUES (5 Total)
 
-### START OF GAME
-Host reads Case Brief aloud.
-
----
-
-### PHASE 1: SILENT READING (10 min) → OPEN DISCUSSION (10 min)
-
-**Host prompts:**
-- "Detective 1, what does the security log tell us?"
-- "Detective 2, walk us through the forensics."
-- "Who has something that contradicts someone else's information?"
-
-**Expected discoveries:**
-- [ ] Priya's departure time doesn't match
-- [ ] Two glasses in study
-- [ ] Multiple motives identified
+| # | Clue | Evidence | Phase |
+|---|------|----------|-------|
+| 1 | Rohit's pharmaceutical purchase | ₹2.5L from supplier, Nov 22 | Phase 2 |
+| 2 | Rohit's Dec 12 estate visit | Gate log shows 19:32-21:15 | Phase 2/3 |
+| 3 | Rohit's fingerprints on champagne glass | EV-002 in cabinet | Phase 1 |
+| 4 | Sedative in BOTTLE, not glass | Forensic re-analysis | Phase 3 |
+| 5 | Rohit's double motive | Will + Deepika betrayal | Phase 2 |
 
 ---
 
-### PHASE 2: DEEPER INVESTIGATION (30 min)
+## EVIDENCE FLOW BY PHASE
 
-**Host prompts:**
-- "Now that you have more evidence, what patterns do you see?"
-- "Who is definitely lying? How do you know?"
-- "What's your current theory? What evidence supports it?"
+### Phase 1: THE SCENE (20 min)
 
-**Expected false theories (let them explore):**
-- [ ] "Kavya swapped glasses to poison Deepika"
-- [ ] "Anil killed Arjun to hide embezzlement"
-- [ ] "Minister Thapar ordered the hit"
-- [ ] "Deepika is the killer — she was in the study"
+**What Players Learn:**
+- Victim found strangled (ligature marks visible)
+- Sedative in blood but source unclear
+- **Key Mystery:** Why no defensive wounds?
+- Two glasses in study (one with residue, one clean)
+- Multiple suspects with alibis and motives
 
-**Correct thread to notice:**
-- [ ] Rohit's herbal supplement purchase (most players miss this)
+**Distributed To:**
 
----
+| Detective | Evidence Type | Key Items |
+|-----------|---------------|-----------|
+| 1 - Timeline | Security logs | Arrivals/departures, camera blackout |
+| 2 - Forensics | Autopsy, toxicology | Strangulation findings, sedative in blood |
+| 3 - Social | Witness statements | Core 7 + Tier 2 mentions |
+| 4 - Objects | Crime scene | Body position, missing curtain cord, fiber traces |
+| 5 - Motive | Financial | Will changes, insurance policies |
 
-### PHASE 3: THE TWIST (15 min)
+### Phase 2: CONTRADICTIONS (30 min)
 
-**Host reads aloud:**
+**What Players Learn:**
+- Priya lied about departure time
+- Camera was deliberately disabled
+- Deepika was in study (earring found)
+- Rohit visited estate on Dec 12 (after bottle delivered)
+- **KEY CLUE:** Rohit's ₹2.5L pharmaceutical purchase
 
-> "We've received new information from forensics. This changes everything."
+**New Evidence:**
+
+| Detective | Evidence Type | Key Items |
+|-----------|---------------|-----------|
+| 1 - Timeline | Pre-party access | Rohit's Dec 12 visit, bottle delivery |
+| 2 - Forensics | Fiber analysis | Silk cord matches curtains; sedative source |
+| 3 - Social | Backgrounds | Rohit-Deepika history, sibling dynamics |
+| 4 - Objects | Physical analysis | Curtain cord missing, movement paths |
+| 5 - Motive | Financial deep-dive | Full 22-suspect motive breakdown |
+
+### Phase 3: THE TWIST (15 min)
+
+**REVELATION:** *Shared with all detectives*
+
+> "The sedative was in the WHISKEY BOTTLE, not added to the glass."
 >
-> "The poison was in the BOTTLE, not added to a glass."
+> "The victim was drugged before he was strangled. He couldn't fight back because he was already incapacitated."
 >
-> "The bottle was sent by Vikram as a gift on December 12."
->
-> "The bottle was RESEALED — this was premeditated."
+> "The bottle was a gift, delivered December 12. It was tampered with BEFORE the party."
 
-**Host prompts:**
-- "What does this mean for your theories?"
-- "Who had access to the estate BEFORE the party?"
-- "Look at the chain of custody — who could have poisoned the bottle?"
+**New Documents:**
+- Supplementary forensic report (bottle analysis)
+- Bottle chain of custody
+- Gift delivery documentation
 
-**Expected shift:**
-- [ ] Players realize party alibis matter less
-- [ ] Focus shifts to December 12-13 access
-- [ ] Vikram becomes suspect OR players realize he's framed
-- [ ] Rohit's December 12 visit becomes suspicious
+### Phase 4: FINAL RECONSTRUCTION (15 min)
 
----
+**Five Questions to Answer:**
 
-### PHASE 4: FINAL RECONSTRUCTION (15 min)
-
-**Host distributes summary cards, then prompts:**
-- "You have 15 minutes to agree on all five answers."
-- "You must reach consensus — all five detectives must agree."
-- "Write your final answers on the answer card."
-
-**If stuck, host can ask:**
-- "Who had both ACCESS to the study before the party AND access to POISON?"
-- "Look at who purchased what in the weeks before the murder."
-
-**DO NOT give direct hints. Let them struggle.**
+| # | Question | Correct Answer |
+|---|----------|----------------|
+| 1 | Who strangled the victim? | Rohit Malhotra |
+| 2 | Who drugged the bottle? | Rohit Malhotra (same person) |
+| 3 | Why couldn't victim fight back? | Sedative incapacitated him |
+| 4 | When was bottle tampered? | Dec 12 evening (19:32-21:15) |
+| 5 | Key evidence proving killer? | ₹2.5L pharmaceutical purchase |
 
 ---
 
-### SOLUTION REVEAL
+## GAME STRUCTURE
 
-Host collects answer card, then reads solution aloud.
-Score based on correct answers.
-Explain red herrings and what actually happened.
-
----
-
-## SECTION 7: QUICK REFERENCE — THE ANSWER
-
-### THE SOLUTION
-
-| Field | Answer |
-|-------|--------|
-| **KILLER** | ROHIT MALHOTRA (Son) |
-| **METHOD** | Poisoned the Macallan 25 bottle on December 12, before the party |
-| **HOW** | Purchased Aconitine via "herbal supplements" from Himalayan Botanicals. Visited estate Dec 12 when Arjun was away. Opened bottle, added poison, resealed it. |
-| **WHY** | Lost ₹28,000Cr inheritance + ex-girlfriend to his own father |
-| **FRAMING** | Used Vikram's gift bottle to deflect suspicion |
-
-### KEY EVIDENCE
-- ₹2.5 lakh purchase from Himalayan Botanicals (3 weeks before)
-- December 12 estate visit "to pick up documents"
-- Fingerprints on guest glass (he moved it to create confusion)
-- Only person with ACCESS + MEANS + MOTIVE + OPPORTUNITY
-
-### IRONY
-By killing Arjun, Rohit triggered investigation that will convict him. Under insurance clause, convicted beneficiaries forfeit inheritance. Kavya and Deepika will get everything instead.
+| Phase | Duration | Focus |
+|-------|----------|-------|
+| 1 - The Scene | 20 min | Establish facts, distribute evidence |
+| 2 - Contradictions | 30 min | Deepen investigation, find conflicts |
+| 3 - The Twist | 15 min | Reveal bottle-sedative connection |
+| 4 - Final Reconstruction | 15 min | Solve the five questions |
+| **Total** | **80 min** | — |
 
 ---
 
-## NEXT STEPS
+## DETECTIVE ROLES
 
-I will now create the 5 individual files:
+| Role | Focus Area | Key Skills |
+|------|------------|------------|
+| Detective 1 | Timeline Analyst | Sequencing events, spotting gaps |
+| Detective 2 | Forensics Lead | Physical evidence, scientific analysis |
+| Detective 3 | Social Observer | Relationships, witness statements |
+| Detective 4 | Objects & Space | Crime scene layout, physical clues |
+| Detective 5 | Motive & Money | Financial analysis, who benefits |
 
-1. **FILE 1: CASE_BRIEF.md** — Shared with all players at start
-2. **FILE 2: PHASE_1_EVIDENCE.md** — Phase 1 evidence packets (5 sections)
-3. **FILE 3: PHASE_2_EVIDENCE.md** — Phase 2 evidence packets (5 sections)
-4. **FILE 4: PHASE_3_TWIST.md** — The twist revelation (shared)
-5. **FILE 5: HOST_MATERIALS.md** — Solution, scoring, tips (host only)
+---
 
-All evidence will be presented as realistic documents without editorial hints about contradictions.
+## KEY EVIDENCE ITEMS
+
+| Code | Item | Location | Significance |
+|------|------|----------|--------------|
+| EV-001 | Whiskey glass (victim's) | Study desk | Arjun's prints only; dried residue |
+| EV-002 | Champagne glass | Study cabinet | Deepika's lipstick; moved by Rohit |
+| EV-003 | Macallan 25 bottle | Study bar | **Contains Diazepam** (0.8 mg/mL) |
+| EV-004 | Burner phone | Study drawer | Contacts "D" and "R" |
+| EV-005 | Pearl earring | Under desk | Deepika's (proves she was there) |
+| EV-006 | Torn note | Wastebasket | Partial text about funds |
+| EV-007 | Silk cord | **Missing** | One of pair from curtains |
+| EV-008 | Fiber traces | Victim's neck | Matches curtain material |
+
+---
+
+## THE SOLUTION NARRATIVE
+
+Rohit Malhotra's world collapsed in autumn 2024. First, he discovered that Deepika — his ex-girlfriend whom he himself had introduced to his father — was pregnant with Arjun's child. Then, on December 1st, he learned his inheritance had been slashed from ₹28,000 crore to less than ₹5,000 crore.
+
+When Rohit intercepted news that Vikram Saxena was sending a gift bottle to his father, he saw his opportunity. If Arjun died after drinking from that bottle, suspicion would fall on Vikram.
+
+Three weeks earlier, Rohit had purchased Diazepam from a pharmaceutical contact. On December 12th, while his father was in Mumbai, he visited the estate "to collect documents." Alone in the study, he opened the Macallan 25, added the sedative, and carefully resealed it.
+
+At the party, Rohit waited. He watched his father drink. He said goodnight to the other guests. At 1:50 AM, he returned to the study. His father was slumped in his chair, barely conscious from the sedative.
+
+Rohit took the silk cord from the curtains and strangled his incapacitated father. There was no struggle — the sedative had done its work. He removed the cord and discarded it in the garden. He staged the scene and moved Deepika's champagne glass to create confusion.
+
+He was the last guest to leave at 2:10 AM.
+
+The irony: By murdering his father, Rohit triggered exactly what he hoped to prevent. The investigation will find the pharmaceutical purchase. The evidence will convict him. Under the insurance clause, a convicted beneficiary forfeits their share.
+
+Kavya, Nisha, and Deepika — the women Rohit despised — will inherit everything.
+
+---
+
+## FILE STRUCTURE
+
+| File | Contents | For |
+|------|----------|-----|
+| 01_CASE_BRIEF.md | Introduction, 22 suspects, floor plan | All players |
+| 02_PHASE_1_EVIDENCE.md | Initial evidence packets (5 sections) | Detectives |
+| 03_PHASE_2_EVIDENCE.md | Deeper evidence (5 sections) | Detectives |
+| 04_PHASE_3_TWIST.md | The revelation | All players |
+| 05_HOST_MATERIALS.md | Solution, scoring, tips | Host only |
+| 06_APPENDIX_PERSONS.md | Tertiary suspects reference | Host/Optional |
+
+---
+
+## HOST TIPS
+
+### Pacing
+- Phase 1: Let them discover basics, don't rush
+- Phase 2: They'll build wrong theories — that's expected
+- Phase 3: Give time to process the paradigm shift
+- Phase 4: Light time pressure creates urgency
+
+### If Players Are Stuck
+
+**Phase 1-2:** Don't help. Let them struggle.
+
+**Phase 3:** Ask leading questions:
+- "Who had access to the study BEFORE the party?"
+- "What purchases were made in the weeks before?"
+
+**Phase 4:** Last resort hints:
+- "Look at who visited the estate on December 12."
+- "What did Rohit buy three weeks before?"
+
+### Common Wrong Theories
+
+1. **Kavya** (glass swap, jealousy) — Let them explore
+2. **Deepika** (was in study, earring found) — Good misdirection
+3. **Anil** (camera, service kitchen) — Plausible but wrong
+4. **Minister Thapar** (political motive) — Red herring works
+5. **Dr. Menon** (sedative access) — New red herring
+
+The correct answer (Rohit) often seems "too obvious" — players dismiss him because he's the most obvious suspect. That's the point.
+
+---
+
+## END OF GAME MASTER BLUEPRINT
