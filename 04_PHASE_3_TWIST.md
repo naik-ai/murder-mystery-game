@@ -36,6 +36,7 @@ The bottle in evidence (**BTL-7711**) is NOT the same bottle that was delivered 
 Someone replaced the original gift bottle with a pre-drugged duplicate.
 
 This explains both:
+
 - The sedative in the whiskey
 - Why the killer chose this elaborate method — they had advance knowledge of the gift delivery
 
@@ -48,10 +49,10 @@ This explains both:
 **MAHARASHTRA STATE FORENSIC ACCOUNTING DIVISION**
 **EVIDENCE RECONCILIATION REPORT**
 
-| Field | Detail |
-|-------|--------|
-| Case Number | MH/ALB/2024/1847 |
-| Date | December 16, 2024 |
+| Field          | Detail                          |
+| -------------- | ------------------------------- |
+| Case Number    | MH/ALB/2024/1847                |
+| Date           | December 16, 2024               |
 | Classification | URGENT — DISCREPANCY IDENTIFIED |
 
 ---
@@ -64,12 +65,12 @@ Cross-verification of Evidence Item EV-003 (Macallan 25 Whiskey Bottle) against 
 
 ### DISCREPANCY IDENTIFIED
 
-| Field | Delivery Record | Evidence Tag |
-|-------|-----------------|--------------|
-| Order Number | PSG-2024-8847 | — |
-| Invoice Number | INV-PSG-8847 | — |
-| Vendor | Premium Spirits & Gifts | — |
-| **Bottle ID** | **BTL-7794** | **BTL-7711** |
+| Field          | Delivery Record         | Evidence Tag |
+| -------------- | ----------------------- | ------------ |
+| Order Number   | PSG-2024-8847           | —            |
+| Invoice Number | INV-PSG-8847            | —            |
+| Vendor         | Premium Spirits & Gifts | —            |
+| **Bottle ID**  | **BTL-7794**            | **BTL-7711** |
 
 ---
 
@@ -84,13 +85,14 @@ Cross-verification of Evidence Item EV-003 (Macallan 25 Whiskey Bottle) against 
 **The bottle was SWAPPED after delivery.**
 
 The original gift bottle (BTL-7794) was replaced with a different bottle (BTL-7711) at some point between:
+
 - December 12, 15:45 (delivery) and
 - December 14, 06:15 (body discovery)
 
 ---
 
-*Report prepared by: Financial Crimes Unit*
-*Cross-verified by: Inspector K. Deshmukh*
+_Report prepared by: Financial Crimes Unit_
+_Cross-verified by: Inspector K. Deshmukh_
 
 ---
 
@@ -99,29 +101,30 @@ The original gift bottle (BTL-7794) was replaced with a different bottle (BTL-77
 **MUMBAI WINE & SPIRITS**
 **PURCHASE INVESTIGATION**
 
-| Field | Detail |
-|-------|--------|
-| Transaction Type | Cash (no credit card trail) |
-| Date | December 11, 2024 |
-| Time | 18:45 |
-| Location | Mumbai Wine & Spirits, Colaba |
+| Field            | Detail                        |
+| ---------------- | ----------------------------- |
+| Transaction Type | Cash (no credit card trail)   |
+| Date             | December 11, 2024             |
+| Time             | 18:45                         |
+| Location         | Mumbai Wine & Spirits, Colaba |
 
 ---
 
 ### PURCHASE DETAILS
 
-| Field | Detail |
-|-------|--------|
-| Product | Macallan 25 Year Single Malt Scotch Whisky |
-| **Bottle ID** | **BTL-7711** |
-| Price | ₹1,82,000 (cash) |
-| Receipt | Not requested by purchaser |
+| Field         | Detail                                     |
+| ------------- | ------------------------------------------ |
+| Product       | Macallan 25 Year Single Malt Scotch Whisky |
+| **Bottle ID** | **BTL-7711**                               |
+| Price         | ₹1,82,000 (cash)                           |
+| Receipt       | Not requested by purchaser                 |
 
 ---
 
 ### CCTV ANALYSIS
 
 **Description of Purchaser:**
+
 - Male, approximately 30-35 years
 - Medium build, 5'9" - 5'11"
 - Wearing dark jacket, jeans
@@ -142,15 +145,15 @@ Image compared against party attendee records. Potential match identified:
 
 Based on security footage, witness statements, and estate visitor log:
 
-| Date | Time | Event | Person |
-|------|------|-------|--------|
-| Dec 12 | 15:45 | Original bottle (BTL-7794) placed in cabinet | Meenakshi Rao (Housekeeper) |
-| Dec 12 | 19:32-21:15 | Rohit Malhotra in study (claimed "collecting documents") | Rohit Malhotra |
-| Dec 13 | 19:00 | Catering staff arrive | Silver Spoon Catering |
-| Dec 13 | **19:30** | **Cabinet accessed during "event setup"** | **Kavya Sharma** (signed staging checklist) |
-| Dec 13 | 20:00 | Party begins | — |
-| Dec 14 | ~01:35 | Arjun drinks from bottle | Arjun Malhotra |
-| Dec 14 | 06:15 | Bottle BTL-7711 found in cabinet (SWAPPED bottle) | Discovery |
+| Date   | Time        | Event                                                    | Person                                      |
+| ------ | ----------- | -------------------------------------------------------- | ------------------------------------------- |
+| Dec 12 | 15:45       | Original bottle (BTL-7794) placed in cabinet             | Meenakshi Rao (Housekeeper)                 |
+| Dec 12 | 19:32-21:15 | Rohit Malhotra in study (claimed "collecting documents") | Rohit Malhotra                              |
+| Dec 13 | 19:00       | Catering staff arrive                                    | Silver Spoon Catering                       |
+| Dec 13 | **19:30**   | **Cabinet accessed during "event setup"**                | **Kavya Sharma** (signed staging checklist) |
+| Dec 13 | 20:00       | Party begins                                             | —                                           |
+| Dec 14 | ~01:35      | Arjun drinks from bottle                                 | Arjun Malhotra                              |
+| Dec 14 | 06:15       | Bottle BTL-7711 found in cabinet (SWAPPED bottle)        | Discovery                                   |
 
 ---
 
@@ -159,6 +162,7 @@ Based on security footage, witness statements, and estate visitor log:
 **December 13, between 19:00 and 20:00**
 
 **Persons with access during this window:**
+
 - Kavya Sharma (signed staging checklist for study at 19:30)
 - Catering staff (including Vikash Mehta)
 
@@ -168,12 +172,12 @@ Based on security footage, witness statements, and estate visitor log:
 
 **MALHOTRA ESTATE — EVENT PREPARATION**
 
-| Room | Items Staged | Verified By | Time |
-|------|--------------|-------------|------|
-| Terrace | Bar cart, seating | Suresh Patil | 19:15 |
-| Drawing Room | Furniture arrangement | Rekha Singh | 19:20 |
+| Room              | Items Staged             | Verified By      | Time      |
+| ----------------- | ------------------------ | ---------------- | --------- |
+| Terrace           | Bar cart, seating        | Suresh Patil     | 19:15     |
+| Drawing Room      | Furniture arrangement    | Rekha Singh      | 19:20     |
 | **Private Study** | **Glassware, bar setup** | **Kavya Sharma** | **19:30** |
-| Dining Room | Table settings | Amit Sharma | 19:25 |
+| Dining Room       | Table settings           | Amit Sharma      | 19:25     |
 
 > **Note:** Kavya Sharma personally verified the study setup. This gave her access to the whiskey cabinet.
 
@@ -184,10 +188,10 @@ Based on security footage, witness statements, and estate visitor log:
 **MAHARASHTRA STATE FORENSIC SCIENCE LABORATORY**
 **SUPPLEMENTARY TOXICOLOGY REPORT**
 
-| Field | Detail |
-|-------|--------|
-| Case Number | MH/ALB/2024/1847 |
-| Date | December 16, 2024 |
+| Field          | Detail                    |
+| -------------- | ------------------------- |
+| Case Number    | MH/ALB/2024/1847          |
+| Date           | December 16, 2024         |
 | Classification | URGENT — REVISED FINDINGS |
 
 ---
@@ -204,10 +208,10 @@ Upon enhanced spectrometric analysis of bottle residue:
 
 **DIAZEPAM DETECTED**
 
-| Measurement | Value |
-|-------------|-------|
-| Concentration in bottle residue | 425 ng/mL |
-| Note | Concentrated in remaining liquid at bottom of bottle |
+| Measurement                     | Value                                                |
+| ------------------------------- | ---------------------------------------------------- |
+| Concentration in bottle residue | 425 ng/mL                                            |
+| Note                            | Concentrated in remaining liquid at bottom of bottle |
 
 ---
 
@@ -215,10 +219,10 @@ Upon enhanced spectrometric analysis of bottle residue:
 
 The presence of Diazepam in the bottle residue confirms that the sedative was added to the **BOTTLE** before the party.
 
-| Measurement | Value |
-|-------------|-------|
-| Bottle volume at examination | Approximately 200ml remaining |
-| Original bottle volume | 700ml |
+| Measurement                   | Value                                  |
+| ----------------------------- | -------------------------------------- |
+| Bottle volume at examination  | Approximately 200ml remaining          |
+| Original bottle volume        | 700ml                                  |
 | Victim's blood Diazepam level | 850 ng/mL (well above toxic threshold) |
 
 At the victim's blood concentration, he would have experienced:
@@ -234,18 +238,18 @@ At the victim's blood concentration, he would have experienced:
 
 ### TOXICOLOGICAL TIMELINE
 
-| Time After Ingestion | Expected Effect |
-|---------------------|-----------------|
-| 15-30 minutes | Onset of drowsiness, relaxation |
-| 30-45 minutes | Significant sedation, muscle weakness begins |
-| 45-60 minutes | **Profound incapacitation at this dosage** |
+| Time After Ingestion | Expected Effect                              |
+| -------------------- | -------------------------------------------- |
+| 15-30 minutes        | Onset of drowsiness, relaxation              |
+| 30-45 minutes        | Significant sedation, muscle weakness begins |
+| 45-60 minutes        | **Profound incapacitation at this dosage**   |
 
 If the victim consumed whiskey at approximately 1:35 AM, he would have been significantly impaired by 2:00 AM — **the estimated time of strangulation**.
 
 ---
 
-*Signed: Dr. Sneha Kulkarni, MD Forensic Medicine*
-*Date: December 16, 2024*
+_Signed: Dr. Sneha Kulkarni, MD Forensic Medicine_
+_Date: December 16, 2024_
 
 ---
 
@@ -254,11 +258,11 @@ If the victim consumed whiskey at approximately 1:35 AM, he would have been sign
 **ALIBAUG POLICE STATION**
 **SUPPLEMENTARY STATEMENT**
 
-| Field | Detail |
-|-------|--------|
-| Name | Vikram Saxena |
-| Date | December 16, 2024 |
-| Regarding | Gift bottle |
+| Field     | Detail            |
+| --------- | ----------------- |
+| Name      | Vikram Saxena     |
+| Date      | December 16, 2024 |
+| Regarding | Gift bottle       |
 
 ---
 
@@ -276,8 +280,8 @@ I did not go to his study. I did not see him after approximately midnight.
 
 Someone is trying to frame me by using my gift.
 
-*Statement read and confirmed.*
-*Signature: [Signed]*
+_Statement read and confirmed._
+_Signature: [Signed]_
 
 ---
 
@@ -287,10 +291,10 @@ Someone is trying to frame me by using my gift.
 
 This was not a simple killing. It was a **planned, two-stage murder**:
 
-| Stage | Method | Who Could Execute | When |
-|-------|--------|-------------------|------|
-| **Stage 1** | Bottle SWAP (pre-drugged duplicate) | Person with cabinet access + drugged bottle | Dec 13, 19:00-20:00 |
-| **Stage 2** | Ligature strangulation | Person present after 2:00 AM | Dec 14, ~02:15-02:30 AM |
+| Stage       | Method                              | Who Could Execute                           | When                    |
+| ----------- | ----------------------------------- | ------------------------------------------- | ----------------------- |
+| **Stage 1** | Bottle SWAP (pre-drugged duplicate) | Person with cabinet access + drugged bottle | Dec 13, 19:00-20:00     |
+| **Stage 2** | Ligature strangulation              | Person present after 2:00 AM                | Dec 14, ~02:15-02:30 AM |
 
 ---
 
@@ -310,6 +314,7 @@ This was not a simple killing. It was a **planned, two-stage murder**:
 When Rohit visited on December 12 (19:32-21:15), the **ORIGINAL bottle (BTL-7794)** was still in the cabinet. The swap happened on December 13, after he left.
 
 The swap window (Dec 13, 19:00-20:00) points to:
+
 - Kavya Sharma (signed staging checklist)
 - Catering staff with study access
 

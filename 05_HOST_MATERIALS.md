@@ -26,13 +26,14 @@ This document contains the complete solution.
 
 ## SUMMARY CARDS
 
-*Cut and distribute one to each detective*
+_Cut and distribute one to each detective_
 
 ---
 
 ### DETECTIVE 1: TIMELINE ANALYST — PHASE 4 SUMMARY
 
 **KEY FACTS FROM YOUR EVIDENCE:**
+
 - Camera SC-1 was deliberately disabled (junction box in service kitchen)
 - Blackout period: 00:47 - 01:10
 - Rohit was the LAST GUEST to leave (02:10 AM)
@@ -51,6 +52,7 @@ Who had access to swap the bottle on December 13, and who was still at the estat
 ### DETECTIVE 2: FORENSICS LEAD — PHASE 4 SUMMARY
 
 **KEY FACTS FROM YOUR EVIDENCE:**
+
 - Death by ligature strangulation (silk cord from behind)
 - No defensive wounds — victim was incapacitated
 - Diazepam in blood: 850 ng/mL (well above toxic)
@@ -68,6 +70,7 @@ Who had ACCESS to swap the bottle AND physical presence to strangle the victim a
 ### DETECTIVE 3: SOCIAL OBSERVER — PHASE 4 SUMMARY
 
 **KEY FACTS FROM YOUR EVIDENCE:**
+
 - Deepika and Rohit were in a relationship before she joined company
 - Rohit introduced Deepika to Arjun for PA position
 - Rohit discovered Deepika-Arjun affair in October 2024
@@ -83,6 +86,7 @@ What is Kavya's real relationship to Arjun, and why might she have access to the
 ### DETECTIVE 4: OBJECTS & SPACE — PHASE 4 SUMMARY
 
 **KEY FACTS FROM YOUR EVIDENCE:**
+
 - Two paths to study: visible (through drawing room) and hidden (service kitchen)
 - Hidden path NOT covered by cameras; passes junction box
 - Missing: Silk curtain cord from study window (EV-007)
@@ -100,6 +104,7 @@ Who had access to the study cabinet during the swap window (19:00-20:00), and wh
 ### DETECTIVE 5: MOTIVE & MONEY — PHASE 4 SUMMARY
 
 **KEY FACTS FROM YOUR EVIDENCE:**
+
 - Rohit lost ₹23,950 Crore (inheritance + insurance changes)
 - **Kavya gains ₹300 Cr + 40% equity — BUT ONLY IF SHE REMAINS ENGAGED**
 - If Arjun leaves Kavya for Deepika (pregnant mistress), Kavya gets NOTHING
@@ -118,45 +123,47 @@ Who stood to LOSE everything if Arjun lived to leave his fiancée for his pregna
 
 ### THE FIVE FINAL QUESTIONS
 
-*All five detectives must agree before submitting*
+_All five detectives must agree before submitting_
 
 ---
 
 **QUESTION 1:** Who strangled the victim?
 
-Answer: ________________________________________________
+Answer: **********************\_\_\_\_**********************
 
 ---
 
 **QUESTION 2:** Who drugged/swapped the whiskey bottle?
 
-Answer: ________________________________________________
+Answer: **********************\_\_\_\_**********************
 
 ---
 
 **QUESTION 3:** Why couldn't the victim fight back?
 
-Answer: ________________________________________________
+Answer: **********************\_\_\_\_**********************
 
 ---
 
 **QUESTION 4:** When was the bottle swapped? (Date and approximate time)
 
-Answer: ________________________________________________
+Answer: **********************\_\_\_\_**********************
 
 ---
 
 **QUESTION 5:** What single piece of evidence proves the killers' identity beyond reasonable doubt?
 
-Answer: ________________________________________________
+Answer: **********************\_\_\_\_**********************
 
 ---
+
 ---
+
 ---
 
 ## THE SOLUTION
 
-*Read aloud after collecting answers*
+_Read aloud after collecting answers_
 
 ---
 
@@ -209,6 +216,7 @@ The original bottle (BTL-7794) was delivered on December 12. Catering staff arri
 The delivery manifest shows the original bottle was BTL-7794. The evidence tag shows the bottle found was BTL-7711. This proves the bottle was **swapped**, not tampered with.
 
 Combined with:
+
 - Vikash purchased bottle BTL-7711 on December 11 (CCTV evidence)
 - Kavya signed staging checklist at 19:30, accessing the study cabinet (swap opportunity)
 - Kavya-Vikash prior relationship (established connection/conspiracy)
@@ -220,7 +228,7 @@ This creates an irrefutable chain of evidence for a premeditated, two-person con
 
 ## THE COMPLETE STORY
 
-*Read aloud:*
+_Read aloud:_
 
 "Kavya Sharma's world collapsed in the autumn of 2024. She had secured her future — engaged to a billionaire, ₹300 crore in insurance, 40% of the company. Then she discovered that Arjun was having an affair with his 29-year-old assistant Deepika. Worse, Deepika was pregnant. The new will acknowledged Deepika's child and gave them inheritance rights.
 
@@ -254,30 +262,30 @@ Kavya killed her fiancé to secure an inheritance she was about to lose. Vikash 
 
 ## RED HERRINGS EXPLAINED
 
-| Red Herring | What It Seemed | The Truth |
-|-------------|----------------|-----------|
-| Rohit's Dec 12 visit | He drugged the bottle | Original bottle (BTL-7794) still there; he didn't touch it |
-| Rohit's pharma purchase (₹2.5L) | He acquired the sedative | **UNEXPLAINED** — permanent red herring; possibly his own aborted plan |
-| Rohit's fingerprints on champagne glass | Evidence tampering | He picked it up innocently during the party |
-| Priya's longer stay | She strangled him | She was searching the bedroom for divorce documents |
-| Kavya's sleeping pill alibi | She was asleep | She took the pill AFTER Vikash completed the murder |
-| Camera malfunction | Killer disabled it to hide murder | Anil disabled it to access embezzlement documents from safe |
-| Vikram's gift bottle | He poisoned/drugged it before sending | Genuine peace offering; Kavya swapped it with drugged duplicate |
-| Deepika in the study | She drugged Arjun during their meeting | She had champagne, not whiskey; left before strangulation |
-| The burner phone | Dangerous figure stalking Arjun | Belonged to Arjun; he was investigating the whistleblower |
+| Red Herring                             | What It Seemed                         | The Truth                                                              |
+| --------------------------------------- | -------------------------------------- | ---------------------------------------------------------------------- |
+| Rohit's Dec 12 visit                    | He drugged the bottle                  | Original bottle (BTL-7794) still there; he didn't touch it             |
+| Rohit's pharma purchase (₹2.5L)         | He acquired the sedative               | **UNEXPLAINED** — permanent red herring; possibly his own aborted plan |
+| Rohit's fingerprints on champagne glass | Evidence tampering                     | He picked it up innocently during the party                            |
+| Priya's longer stay                     | She strangled him                      | She was searching the bedroom for divorce documents                    |
+| Kavya's sleeping pill alibi             | She was asleep                         | She took the pill AFTER Vikash completed the murder                    |
+| Camera malfunction                      | Killer disabled it to hide murder      | Anil disabled it to access embezzlement documents from safe            |
+| Vikram's gift bottle                    | He poisoned/drugged it before sending  | Genuine peace offering; Kavya swapped it with drugged duplicate        |
+| Deepika in the study                    | She drugged Arjun during their meeting | She had champagne, not whiskey; left before strangulation              |
+| The burner phone                        | Dangerous figure stalking Arjun        | Belonged to Arjun; he was investigating the whistleblower              |
 
 ---
 
 ## SCORING
 
-| Question | Correct Answer | Points |
-|----------|----------------|--------|
-| 1. Who strangled | Vikash Mehta | 20 |
-| 2. Who drugged/swapped bottle | Kavya + Vikash (both) | 15 |
-| 3. Why no fight | Sedative/Diazepam incapacitation | 20 |
-| 4. When swapped | December 13, evening (19:00-20:00) | 20 |
-| 5. Key evidence | Bottle ID mismatch (BTL-7794 vs BTL-7711) | 25 |
-| **TOTAL** | | **100** |
+| Question                      | Correct Answer                            | Points  |
+| ----------------------------- | ----------------------------------------- | ------- |
+| 1. Who strangled              | Vikash Mehta                              | 20      |
+| 2. Who drugged/swapped bottle | Kavya + Vikash (both)                     | 15      |
+| 3. Why no fight               | Sedative/Diazepam incapacitation          | 20      |
+| 4. When swapped               | December 13, evening (19:00-20:00)        | 20      |
+| 5. Key evidence               | Bottle ID mismatch (BTL-7794 vs BTL-7711) | 25      |
+| **TOTAL**                     |                                           | **100** |
 
 ### Partial Credit
 
@@ -291,13 +299,13 @@ Kavya killed her fiancé to secure an inheritance she was about to lose. Vikash 
 
 ### Ratings
 
-| Score | Rating |
-|-------|--------|
+| Score  | Rating                                                                                  |
+| ------ | --------------------------------------------------------------------------------------- |
 | 90-100 | MASTER DETECTIVES — "You solved a conspiracy murder. The misdirection didn't fool you." |
-| 70-89 | SKILLED INVESTIGATORS — "You pieced together the swap. Close to the full picture." |
-| 50-69 | COMPETENT SLEUTHS — "You identified the killers but missed some details." |
-| 30-49 | AMATEUR DETECTIVES — "The Rohit misdirection caught you." |
-| 0-29 | WRONG TRAIL — "Justice was not served today." |
+| 70-89  | SKILLED INVESTIGATORS — "You pieced together the swap. Close to the full picture."      |
+| 50-69  | COMPETENT SLEUTHS — "You identified the killers but missed some details."               |
+| 30-49  | AMATEUR DETECTIVES — "The Rohit misdirection caught you."                               |
+| 0-29   | WRONG TRAIL — "Justice was not served today."                                           |
 
 ---
 
@@ -315,12 +323,14 @@ Kavya killed her fiancé to secure an inheritance she was about to lose. Vikash 
 **Phase 1-2:** Don't help. Let them build the Rohit theory.
 
 **Phase 3:** You can ask leading questions:
+
 - "Compare the bottle IDs from Phase 1 and Phase 2."
 - "What does the catering staff log tell you?"
 - "What's the connection between Kavya and Vikash Mehta?"
 - "Who had access to the study cabinet on December 13?"
 
 **Phase 4:** Last resort hints:
+
 - "The bottle was SWAPPED, not tampered with."
 - "Look at who signed the staging checklist."
 - "Who was still at the estate after Rohit left?"
@@ -336,6 +346,7 @@ Players will likely suspect:
 5. **Kavya alone** (jealousy, stayed overnight) — Close but they need to identify Vikash too
 
 The correct answer (Kavya + Vikash) requires players to:
+
 1. Notice the bottle ID mismatch (BTL-7794 ≠ BTL-7711)
 2. Connect Vikash to Kavya through prior relationship
 3. Recognize the swap window (Dec 13, 19:00-20:00)
@@ -346,6 +357,7 @@ The correct answer (Kavya + Vikash) requires players to:
 The breakthrough should be: "The bottle IDs don't match!"
 
 Once they connect:
+
 - BTL-7794 was delivered → BTL-7711 was found → SWAP occurred
 - Swap window: Dec 13, 19:00-20:00
 - Kavya signed staging checklist → access to cabinet
@@ -364,24 +376,24 @@ The answer becomes clear: Kavya swapped the bottle, Vikash strangled the victim.
 
 ## PRINT CHECKLIST
 
-| Item | Copies | For |
-|------|--------|-----|
-| Case Brief (File 1) | 5 | All players |
-| Phase 1 Evidence — Detective 1 | 1 | Detective 1 |
-| Phase 1 Evidence — Detective 2 | 1 | Detective 2 |
-| Phase 1 Evidence — Detective 3 | 1 | Detective 3 |
-| Phase 1 Evidence — Detective 4 | 1 | Detective 4 |
-| Phase 1 Evidence — Detective 5 | 1 | Detective 5 |
-| Phase 2 Evidence — Detective 1 | 1 | Detective 1 |
-| Phase 2 Evidence — Detective 2 | 1 | Detective 2 |
-| Phase 2 Evidence — Detective 3 | 1 | Detective 3 |
-| Phase 2 Evidence — Detective 4 | 1 | Detective 4 |
-| Phase 2 Evidence — Detective 5 | 1 | Detective 5 |
-| Phase 3 Twist (File 4) | 5 | All players |
-| Phase 4 Summary Cards | 5 (1 each) | Each detective |
-| Final Answer Card | 1 | Group |
-| Appendix: Persons of Interest (File 6) | 5 | All players (optional reference) |
-| Solution (this file) | 1 | Host only |
+| Item                                   | Copies     | For                              |
+| -------------------------------------- | ---------- | -------------------------------- |
+| Case Brief (File 1)                    | 5          | All players                      |
+| Phase 1 Evidence — Detective 1         | 1          | Detective 1                      |
+| Phase 1 Evidence — Detective 2         | 1          | Detective 2                      |
+| Phase 1 Evidence — Detective 3         | 1          | Detective 3                      |
+| Phase 1 Evidence — Detective 4         | 1          | Detective 4                      |
+| Phase 1 Evidence — Detective 5         | 1          | Detective 5                      |
+| Phase 2 Evidence — Detective 1         | 1          | Detective 1                      |
+| Phase 2 Evidence — Detective 2         | 1          | Detective 2                      |
+| Phase 2 Evidence — Detective 3         | 1          | Detective 3                      |
+| Phase 2 Evidence — Detective 4         | 1          | Detective 4                      |
+| Phase 2 Evidence — Detective 5         | 1          | Detective 5                      |
+| Phase 3 Twist (File 4)                 | 5          | All players                      |
+| Phase 4 Summary Cards                  | 5 (1 each) | Each detective                   |
+| Final Answer Card                      | 1          | Group                            |
+| Appendix: Persons of Interest (File 6) | 5          | All players (optional reference) |
+| Solution (this file)                   | 1          | Host only                        |
 
 ---
 

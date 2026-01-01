@@ -7,6 +7,7 @@
 > **📋 DISTRIBUTE TO: EACH DETECTIVE GETS THEIR ASSIGNED SECTION**
 >
 > Cut this document into 5 sections. Each detective gets ONLY their packet:
+>
 > - Detective 1: Timeline Analyst
 > - Detective 2: Forensics Lead
 > - Detective 3: Social Observer
@@ -26,7 +27,9 @@
 - Pay close attention to inconsistencies
 
 ---
+
 ---
+
 ---
 
 # DETECTIVE 1: TIMELINE ANALYST
@@ -40,22 +43,22 @@
 **SECURETECH PVT. LTD.**
 **TECHNICAL INCIDENT REPORT**
 
-| Field | Detail |
-|-------|--------|
-| Client | Malhotra Estate |
-| Incident | Camera SC-1 Malfunction |
-| Date | December 14, 2024 |
-| Report Date | December 15, 2024 |
+| Field       | Detail                  |
+| ----------- | ----------------------- |
+| Client      | Malhotra Estate         |
+| Incident    | Camera SC-1 Malfunction |
+| Date        | December 14, 2024       |
+| Report Date | December 15, 2024       |
 
 #### MALFUNCTION DETAILS
 
-| Field | Detail |
-|-------|--------|
-| Camera | SC-1 (Main Entrance) |
-| Offline Time | 00:47:12 |
-| Online Time | 01:10:34 |
-| Duration | 23 minutes, 22 seconds |
-| Error Code | PWR_INTERRUPT |
+| Field        | Detail                 |
+| ------------ | ---------------------- |
+| Camera       | SC-1 (Main Entrance)   |
+| Offline Time | 00:47:12               |
+| Online Time  | 01:10:34               |
+| Duration     | 23 minutes, 22 seconds |
+| Error Code   | PWR_INTERRUPT          |
 
 #### TECHNICAL ANALYSIS
 
@@ -82,25 +85,25 @@ Access requires no specialized tools or knowledge. The junction box is wall-moun
 **MALHOTRA ESTATE**
 **VISITOR LOG — DECEMBER 12-13, 2024**
 
-*Maintained by: Security Office*
+_Maintained by: Security Office_
 
 #### DECEMBER 12, 2024
 
-| Time | Visitor | Purpose | Notes |
-|------|---------|---------|-------|
-| 15:45 | Delivery — Premium Spirits & Gifts | Whiskey bottle (Macallan 25) | Received by: Meenakshi (Housekeeper) |
-| **19:32** | **Rohit Malhotra** | **"To collect documents from study"** | Departed: **21:15**. Note: Mr. Arjun Malhotra in Mumbai |
+| Time      | Visitor                            | Purpose                               | Notes                                                   |
+| --------- | ---------------------------------- | ------------------------------------- | ------------------------------------------------------- |
+| 15:45     | Delivery — Premium Spirits & Gifts | Whiskey bottle (Macallan 25)          | Received by: Meenakshi (Housekeeper)                    |
+| **19:32** | **Rohit Malhotra**                 | **"To collect documents from study"** | Departed: **21:15**. Note: Mr. Arjun Malhotra in Mumbai |
 
 > **Critical:** Rohit was alone in the study for nearly 2 hours on December 12, after the bottle was delivered but before the party.
 
 #### DECEMBER 13, 2024
 
-| Time | Visitor | Purpose | Notes |
-|------|---------|---------|-------|
-| 09:15 | Deepika Joshi | "Work matters — schedule coordination" | Departed: 11:30 |
-| 14:22 | Priya Malhotra | "To drop off legal documents" | Departed: 15:45. Note: Argument with staff |
-| 18:00 | Arjun Malhotra | Returns from Mumbai | Accompanied by: Kavya Sharma |
-| 19:00 | Catering Staff | Event setup | Silver Spoon Catering Services |
+| Time  | Visitor        | Purpose                                | Notes                                      |
+| ----- | -------------- | -------------------------------------- | ------------------------------------------ |
+| 09:15 | Deepika Joshi  | "Work matters — schedule coordination" | Departed: 11:30                            |
+| 14:22 | Priya Malhotra | "To drop off legal documents"          | Departed: 15:45. Note: Argument with staff |
+| 18:00 | Arjun Malhotra | Returns from Mumbai                    | Accompanied by: Kavya Sharma               |
+| 19:00 | Catering Staff | Event setup                            | Silver Spoon Catering Services             |
 
 ---
 
@@ -109,20 +112,20 @@ Access requires no specialized tools or knowledge. The junction box is wall-moun
 **PREMIUM SPIRITS & GIFTS PVT. LTD.**
 **DELIVERY MANIFEST**
 
-| Field | Detail |
-|-------|--------|
-| Order Number | PSG-2024-8847 |
-| Invoice Number | INV-PSG-8847 |
-| Product | Macallan 25 Year Single Malt Scotch Whisky (700ml) |
-| **Bottle ID** | **BTL-7794** |
-| Price | ₹1,85,000 |
+| Field          | Detail                                             |
+| -------------- | -------------------------------------------------- |
+| Order Number   | PSG-2024-8847                                      |
+| Invoice Number | INV-PSG-8847                                       |
+| Product        | Macallan 25 Year Single Malt Scotch Whisky (700ml) |
+| **Bottle ID**  | **BTL-7794**                                       |
+| Price          | ₹1,85,000                                          |
 
-| Field | Detail |
-|-------|--------|
-| Delivery Date | December 12, 2024, 15:45 |
-| Received By | Meenakshi Rao (Housekeeper) |
-| Placement | Whiskey cabinet, private study |
-| Sender | Vikram Saxena, Saxena House, Cuffe Parade, Mumbai |
+| Field         | Detail                                            |
+| ------------- | ------------------------------------------------- |
+| Delivery Date | December 12, 2024, 15:45                          |
+| Received By   | Meenakshi Rao (Housekeeper)                       |
+| Placement     | Whiskey cabinet, private study                    |
+| Sender        | Vikram Saxena, Saxena House, Cuffe Parade, Mumbai |
 
 > **Gift Note Attached:** "Arjun, Despite our disagreements, I believe we can find a way forward. Let's share a drink at your party. — Vikram"
 
@@ -133,32 +136,34 @@ Access requires no specialized tools or knowledge. The junction box is wall-moun
 **SILVER SPOON CATERING SERVICES**
 **PARTY EVENT STAFF LOG**
 
-| Field | Detail |
-|-------|--------|
-| Event | Malhotra Estate After-Party |
-| Client | Arjun Malhotra |
-| Date | December 13-14, 2024 |
+| Field  | Detail                      |
+| ------ | --------------------------- |
+| Event  | Malhotra Estate After-Party |
+| Client | Arjun Malhotra              |
+| Date   | December 13-14, 2024        |
 
-| Field | Detail |
-|-------|--------|
-| Staff Arrived | December 13, 2024, 19:00 |
+| Field          | Detail                   |
+| -------------- | ------------------------ |
+| Staff Arrived  | December 13, 2024, 19:00 |
 | Staff Departed | December 14, 2024, 02:30 |
 
 **Personnel:**
 
-| Name | Role | Station |
-|------|------|---------|
-| Suresh Patil | Bartender (Lead) | Terrace bar |
+| Name             | Role                 | Station                   |
+| ---------------- | -------------------- | ------------------------- |
+| Suresh Patil     | Bartender (Lead)     | Terrace bar               |
 | **Vikash Mehta** | Catering Coordinator | All areas, oversees setup |
-| Rekha Singh | Server | Drawing room |
-| Amit Sharma | Server | Dining room |
+| Rekha Singh      | Server               | Drawing room              |
+| Amit Sharma      | Server               | Dining room               |
 
 **Access Areas:** Terrace bar, service kitchen, drawing room, main hallway
 
 > **Note:** All catering staff departed together at 02:30 AM via service entrance.
 
 ---
+
 ---
+
 ---
 
 # DETECTIVE 2: FORENSICS LEAD
@@ -172,29 +177,29 @@ Access requires no specialized tools or knowledge. The junction box is wall-moun
 **MAHARASHTRA STATE FORENSIC SCIENCE LABORATORY**
 **TRACE EVIDENCE ANALYSIS**
 
-| Field | Detail |
-|-------|--------|
-| Case Number | MH/ALB/2024/1847 |
-| Evidence | EV-008 (Fiber samples from victim's neck) |
-| Analyst | Dr. Priya Desai, Trace Evidence Unit |
+| Field       | Detail                                    |
+| ----------- | ----------------------------------------- |
+| Case Number | MH/ALB/2024/1847                          |
+| Evidence    | EV-008 (Fiber samples from victim's neck) |
+| Analyst     | Dr. Priya Desai, Trace Evidence Unit      |
 
 #### FIBER CHARACTERISTICS
 
-| Property | Finding |
-|----------|---------|
-| Material | Silk (natural) |
-| Structure | Braided, multi-strand |
-| Color | Deep burgundy (Pantone 19-1536 TCX) |
-| Width | 1.5 cm consistent with ligature mark |
+| Property  | Finding                              |
+| --------- | ------------------------------------ |
+| Material  | Silk (natural)                       |
+| Structure | Braided, multi-strand                |
+| Color     | Deep burgundy (Pantone 19-1536 TCX)  |
+| Width     | 1.5 cm consistent with ligature mark |
 
 #### COMPARISON ANALYSIS
 
-| Sample | EV-008 (Neck fibers) | Reference (Study curtain cord) |
-|--------|---------------------|-------------------------------|
-| Material | Silk | Silk |
-| Color | Burgundy | Burgundy |
-| Structure | Braided | Braided |
-| **Match** | — | **POSITIVE** |
+| Sample    | EV-008 (Neck fibers) | Reference (Study curtain cord) |
+| --------- | -------------------- | ------------------------------ |
+| Material  | Silk                 | Silk                           |
+| Color     | Burgundy             | Burgundy                       |
+| Structure | Braided              | Braided                        |
+| **Match** | —                    | **POSITIVE**                   |
 
 **Conclusion:** Fibers from victim's neck are consistent with the silk curtain cord from the study window.
 
@@ -205,33 +210,33 @@ Access requires no specialized tools or knowledge. The junction box is wall-moun
 **ALIBAUG POLICE STATION**
 **INVESTIGATION NOTE — SEDATIVE SOURCE**
 
-| Field | Detail |
-|-------|--------|
-| Subject | Diazepam acquisition tracing |
-| Lead Officer | Inspector Mehra |
-| Date | December 16, 2024 |
+| Field        | Detail                       |
+| ------------ | ---------------------------- |
+| Subject      | Diazepam acquisition tracing |
+| Lead Officer | Inspector Mehra              |
+| Date         | December 16, 2024            |
 
 #### SUSPECT PHARMACEUTICAL ACCESS ANALYSIS
 
-| Suspect | Access Type | Notes |
-|---------|-------------|-------|
-| **Dr. Raghav Menon** | Direct (Physician) | Can prescribe; has access to controlled substances |
-| Deepika Joshi | Indirect | Father is Ayurvedic practitioner in Rishikesh |
-| Kavya Sharma | None confirmed | No known pharmaceutical connections |
-| Priya Malhotra | None confirmed | Has prescription for sleeping pills (different compound) |
-| Anil Verma | None confirmed | No pharmaceutical connections |
-| **Rohit Malhotra** | **INVESTIGATION REQUIRED** | See below |
+| Suspect              | Access Type                | Notes                                                    |
+| -------------------- | -------------------------- | -------------------------------------------------------- |
+| **Dr. Raghav Menon** | Direct (Physician)         | Can prescribe; has access to controlled substances       |
+| Deepika Joshi        | Indirect                   | Father is Ayurvedic practitioner in Rishikesh            |
+| Kavya Sharma         | None confirmed             | No known pharmaceutical connections                      |
+| Priya Malhotra       | None confirmed             | Has prescription for sleeping pills (different compound) |
+| Anil Verma           | None confirmed             | No pharmaceutical connections                            |
+| **Rohit Malhotra**   | **INVESTIGATION REQUIRED** | See below                                                |
 
 #### FINANCIAL TRANSACTION ANALYSIS — ROHIT MALHOTRA
 
 **Bank Statement Extract — November 2024**
 
-| Date | Transaction | Amount | Payee |
-|------|-------------|--------|-------|
-| Nov 15 | Transfer | ₹45,000 | Personal expense |
-| Nov 18 | Transfer | ₹1,25,000 | Investment account |
+| Date       | Transaction       | Amount        | Payee                               |
+| ---------- | ----------------- | ------------- | ----------------------------------- |
+| Nov 15     | Transfer          | ₹45,000       | Personal expense                    |
+| Nov 18     | Transfer          | ₹1,25,000     | Investment account                  |
 | **Nov 22** | **Wire Transfer** | **₹2,50,000** | **Mehta Pharmaceuticals (Private)** |
-| Nov 28 | Transfer | ₹30,000 | Personal expense |
+| Nov 28     | Transfer          | ₹30,000       | Personal expense                    |
 
 > **Note:** Mehta Pharmaceuticals (Private) is a pharmaceutical supply company. The ₹2.5 Lakh transaction has been flagged for further investigation.
 
@@ -243,19 +248,21 @@ Access requires no specialized tools or knowledge. The junction box is wall-moun
 
 **Subject:** Missing curtain cord — search results
 
-| Search Area | Result |
-|-------------|--------|
-| Study | Not found |
-| Hallway | Not found |
-| Service Kitchen | Not found |
-| Drawing Room | Not found |
+| Search Area                      | Result                          |
+| -------------------------------- | ------------------------------- |
+| Study                            | Not found                       |
+| Hallway                          | Not found                       |
+| Service Kitchen                  | Not found                       |
+| Drawing Room                     | Not found                       |
 | **Garden (behind study window)** | **Silk fibers found on ground** |
-| Garden (fountain area) | Not found |
+| Garden (fountain area)           | Not found                       |
 
 **Conclusion:** The ligature was likely removed from the scene and discarded. Silk fibers in the garden suggest the cord was thrown out the study window.
 
 ---
+
 ---
+
 ---
 
 # DETECTIVE 3: SOCIAL OBSERVER
@@ -268,40 +275,40 @@ Access requires no specialized tools or knowledge. The junction box is wall-moun
 
 **PRIVATE INVESTIGATION — CONFIDENTIAL**
 
-| Field | Detail |
-|-------|--------|
-| Subject | Deepika Joshi |
-| Age | 29 |
+| Field    | Detail                                               |
+| -------- | ---------------------------------------------------- |
+| Subject  | Deepika Joshi                                        |
+| Age      | 29                                                   |
 | Position | Executive Assistant to Chairman, Malhotra Industries |
 
 #### PERSONAL BACKGROUND
 
-| Field | Detail |
-|-------|--------|
-| Education | MBA, Symbiosis Institute of Business Management |
-| Father | Dr. R.K. Joshi, Ayurvedic Practitioner, Rishikesh |
-| Relationship Status | Single |
-| **Medical Status** | **14 weeks pregnant** |
+| Field               | Detail                                            |
+| ------------------- | ------------------------------------------------- |
+| Education           | MBA, Symbiosis Institute of Business Management   |
+| Father              | Dr. R.K. Joshi, Ayurvedic Practitioner, Rishikesh |
+| Relationship Status | Single                                            |
+| **Medical Status**  | **14 weeks pregnant**                             |
 
 #### CRITICAL DISCOVERY — Prior Relationship
 
 **Subject previously dated ROHIT MALHOTRA.**
 
-| Detail | Information |
-|--------|-------------|
-| Relationship Period | March 2019 – November 2019 (8 months) |
-| How They Met | Introduced by mutual friends at Delhi University event |
-| Breakup | Mutual; she cited "career focus" |
+| Detail              | Information                                            |
+| ------------------- | ------------------------------------------------------ |
+| Relationship Period | March 2019 – November 2019 (8 months)                  |
+| How They Met        | Introduced by mutual friends at Delhi University event |
+| Breakup             | Mutual; she cited "career focus"                       |
 
 **Rohit introduced Deepika to Arjun Malhotra in January 2020 as a potential PA candidate.**
 
 #### AFFAIR DISCOVERY
 
-| Event | Date |
-|-------|------|
-| Deepika-Arjun relationship began | Approximately June 2023 |
-| Rohit discovered the affair | October 2024 |
-| Confrontation (Rohit vs. Deepika) | November 15, 2024 |
+| Event                             | Date                    |
+| --------------------------------- | ----------------------- |
+| Deepika-Arjun relationship began  | Approximately June 2023 |
+| Rohit discovered the affair       | October 2024            |
+| Confrontation (Rohit vs. Deepika) | November 15, 2024       |
 
 ---
 
@@ -310,11 +317,11 @@ Access requires no specialized tools or knowledge. The junction box is wall-moun
 **ALIBAUG POLICE STATION**
 **SUPPLEMENTARY WITNESS STATEMENT**
 
-| Field | Detail |
-|-------|--------|
-| Witness | Suresh Patil, Bartender |
-| Date | December 15, 2024 |
-| Statement Taken By | SI Pradeep Sawant |
+| Field              | Detail                  |
+| ------------------ | ----------------------- |
+| Witness            | Suresh Patil, Bartender |
+| Date               | December 15, 2024       |
+| Statement Taken By | SI Pradeep Sawant       |
 
 **Statement (Additional):**
 
@@ -347,24 +354,24 @@ However: Nisha and husband Sanjay departed before midnight — both have alibis 
 
 **PRIVATE INVESTIGATION — CONFIDENTIAL**
 
-| Field | Detail |
-|-------|--------|
-| Subject | Kavya Sharma |
-| Age | 34 |
+| Field    | Detail                    |
+| -------- | ------------------------- |
+| Subject  | Kavya Sharma              |
+| Age      | 34                        |
 | Position | Fiancée of Arjun Malhotra |
 
 #### EDUCATIONAL BACKGROUND
 
-| Field | Detail |
-|-------|--------|
-| College | St. Xavier's College, Mumbai (2012-2015) |
-| Degree | Bachelor of Commerce |
-| Profession | Interior Designer |
+| Field      | Detail                                   |
+| ---------- | ---------------------------------------- |
+| College    | St. Xavier's College, Mumbai (2012-2015) |
+| Degree     | Bachelor of Commerce                     |
+| Profession | Interior Designer                        |
 
 #### PRIOR RELATIONSHIPS
 
-| Partner | Period | Notes |
-|---------|--------|-------|
+| Partner      | Period    | Notes                                       |
+| ------------ | --------- | ------------------------------------------- |
 | Suraj Kapoor | 2017-2019 | Entrepreneur, brief engagement (broken off) |
 
 #### CURRENT STATUS
@@ -375,7 +382,9 @@ However: Nisha and husband Sanjay departed before midnight — both have alibis 
 - Engagement ring: Cartier, estimated ₹85 Lakh
 
 ---
+
 ---
+
 ---
 
 # DETECTIVE 4: OBJECTS & SPACE
@@ -420,12 +429,12 @@ Service Kitchen → Back Corridor → Study (side entrance)
 
 #### EV-002 (Champagne Flute) — Location Mystery
 
-| Finding | Analysis |
-|---------|----------|
-| Found in | Whiskey cabinet |
-| Normal location | Bar cart or drawing room |
-| Lipstick | Deep burgundy (matches Deepika Joshi's brand) |
-| **Fingerprints** | Victim, **Rohit Malhotra**, unidentified |
+| Finding          | Analysis                                      |
+| ---------------- | --------------------------------------------- |
+| Found in         | Whiskey cabinet                               |
+| Normal location  | Bar cart or drawing room                      |
+| Lipstick         | Deep burgundy (matches Deepika Joshi's brand) |
+| **Fingerprints** | Victim, **Rohit Malhotra**, unidentified      |
 
 **Question:** Why would Rohit Malhotra's fingerprints be on a champagne glass that was found in the whiskey cabinet?
 
@@ -443,19 +452,21 @@ Service Kitchen → Back Corridor → Study (side entrance)
 
 **EVIDENCE NOTE**
 
-| Date | Time | Status | Notes |
-|------|------|--------|-------|
-| Dec 12 | 15:45 | Intact | Housekeeper confirms both cords present during delivery |
-| Dec 12 | 21:15 | Unknown | Rohit departs; no inspection |
-| Dec 13 | 18:00 | Unknown | Arjun returns; no inspection |
-| Dec 14 | 06:15 | **Missing** | Housekeeper discovers one cord missing |
+| Date   | Time  | Status      | Notes                                                   |
+| ------ | ----- | ----------- | ------------------------------------------------------- |
+| Dec 12 | 15:45 | Intact      | Housekeeper confirms both cords present during delivery |
+| Dec 12 | 21:15 | Unknown     | Rohit departs; no inspection                            |
+| Dec 13 | 18:00 | Unknown     | Arjun returns; no inspection                            |
+| Dec 14 | 06:15 | **Missing** | Housekeeper discovers one cord missing                  |
 
 > The cord was last confirmed present on December 12 at 15:45.
 >
 > Rohit Malhotra was the only visitor to the study between 15:45 (delivery) and 18:00 (Arjun's return).
 
 ---
+
 ---
+
 ---
 
 # DETECTIVE 5: MOTIVE & MONEY
@@ -469,25 +480,25 @@ Service Kitchen → Back Corridor → Study (side entrance)
 **ALIBAUG POLICE STATION**
 **PHONE EXTRACTION REPORT**
 
-| Field | Detail |
-|-------|--------|
-| Device | iPhone 15 Pro Max (Arjun Malhotra) |
-| Extraction Date | December 14, 2024 |
+| Field           | Detail                             |
+| --------------- | ---------------------------------- |
+| Device          | iPhone 15 Pro Max (Arjun Malhotra) |
+| Extraction Date | December 14, 2024                  |
 
 #### MESSAGES — DECEMBER 13-14, 2024
 
 **To: Deepika Joshi (+91-98XXX-33456)**
 
-| Time | Direction | Message |
-|------|-----------|---------|
-| 23:52 | Sent | "Come to study at 1:30. We need to talk about the announcement." |
-| 23:54 | Received | "I'll be there." |
+| Time  | Direction | Message                                                          |
+| ----- | --------- | ---------------------------------------------------------------- |
+| 23:52 | Sent      | "Come to study at 1:30. We need to talk about the announcement." |
+| 23:54 | Received  | "I'll be there."                                                 |
 
 **To: Unknown (+91-XX-XXXX-XXXX — Burner)**
 
-| Time | Direction | Message |
-|------|-----------|---------|
-| 01:52 | Sent | "I know who you are. We need to talk. Tomorrow." |
+| Time  | Direction | Message                                          |
+| ----- | --------- | ------------------------------------------------ |
+| 01:52 | Sent      | "I know who you are. We need to talk. Tomorrow." |
 
 > **Note:** This was Arjun's final message, sent 8-23 minutes before estimated time of death.
 
@@ -509,14 +520,14 @@ If any beneficiary is **convicted** of causing the insured's death:
 
 **Scenario Analysis — If Rohit Malhotra is convicted:**
 
-| Beneficiary | Original Share | After Forfeiture |
-|-------------|----------------|------------------|
-| Kavya Sharma | ₹300 Cr | ₹315.8 Cr |
-| Priya Malhotra | ₹200 Cr | ₹210.5 Cr |
-| Deepika Joshi | ₹150 Cr | ₹157.9 Cr |
-| Nisha Malhotra | ₹150 Cr | ₹157.9 Cr |
-| Sanjay Kapoor | ₹50 Cr | ₹52.6 Cr |
-| **Rohit Malhotra** | ~~₹50 Cr~~ | **₹0** |
+| Beneficiary        | Original Share | After Forfeiture |
+| ------------------ | -------------- | ---------------- |
+| Kavya Sharma       | ₹300 Cr        | ₹315.8 Cr        |
+| Priya Malhotra     | ₹200 Cr        | ₹210.5 Cr        |
+| Deepika Joshi      | ₹150 Cr        | ₹157.9 Cr        |
+| Nisha Malhotra     | ₹150 Cr        | ₹157.9 Cr        |
+| Sanjay Kapoor      | ₹50 Cr         | ₹52.6 Cr         |
+| **Rohit Malhotra** | ~~₹50 Cr~~     | **₹0**           |
 
 ---
 
@@ -526,27 +537,27 @@ If any beneficiary is **convicted** of causing the insured's death:
 
 **Device:** Nokia 105 (EV-004)
 
-| Field | Detail |
-|-------|--------|
-| SIM | Prepaid, purchased Patna, Bihar |
-| Registered to | "R. Kumar" (false identity) |
-| Contacts stored | 3 entries |
+| Field           | Detail                          |
+| --------------- | ------------------------------- |
+| SIM             | Prepaid, purchased Patna, Bihar |
+| Registered to   | "R. Kumar" (false identity)     |
+| Contacts stored | 3 entries                       |
 
 #### CONTACT LIST
 
-| Entry | Number | Notes |
-|-------|--------|-------|
-| "D" | +91-98XXX-33456 | **Matches Deepika Joshi** |
+| Entry    | Number           | Notes                         |
+| -------- | ---------------- | ----------------------------- |
+| "D"      | +91-98XXX-33456  | **Matches Deepika Joshi**     |
 | "Office" | +91-22-XXXX-XXXX | Malhotra Industries main line |
-| "R" | +91-99XXX-88123 | **Matches Rohit Malhotra** |
+| "R"      | +91-99XXX-88123  | **Matches Rohit Malhotra**    |
 
 #### CALL LOG
 
-| Date | Time | Contact | Duration |
-|------|------|---------|----------|
-| Dec 10 | 21:15 | "D" | 8 min |
-| Dec 12 | 19:45 | "D" | 3 min |
-| Dec 13 | 20:45 | "D" | 2 min |
+| Date   | Time  | Contact | Duration |
+| ------ | ----- | ------- | -------- |
+| Dec 10 | 21:15 | "D"     | 8 min    |
+| Dec 12 | 19:45 | "D"     | 3 min    |
+| Dec 13 | 20:45 | "D"     | 2 min    |
 
 > **Theory:** Deepika may be the whistleblower ("D" contact). The burner phone was found in Arjun's desk — was he tracking the whistleblower?
 
